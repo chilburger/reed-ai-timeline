@@ -11,6 +11,8 @@ Catalogs do not allow browsers on other sites to search them, so this runs here,
 Rerun it each term (or after new cards) to refresh.
 """
 import argparse, datetime, io, json, os, time, urllib.parse, urllib.request
+import sys
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 ap = argparse.ArgumentParser()
 ap.add_argument('--inst', required=True); ap.add_argument('--name', required=True); ap.add_argument('--host', required=True)

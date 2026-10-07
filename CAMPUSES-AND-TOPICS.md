@@ -2,9 +2,9 @@
 
 ## Show your own library's records
 
-Every card cites items from Reed Library at SUNY Fredonia. A campus that embeds the timeline can show its own catalog records on each card instead.
+Each written card cites items from Reed Library at SUNY Fredonia. A campus that embeds the timeline can show its own catalog records on each card instead.
 
-1. Run the harvest for your campus (Primo VE campuses only, for now):
+1. Run the harvest for your campus (Primo VE campuses only):
 
    ```
    python source/harvest_campus.py --inst 01SUNY_GEN --name "Milne Library" --host https://suny-gen.primo.exlibrisgroup.com --search-label "Milne Library's catalog"
@@ -18,11 +18,11 @@ Readers then see "In [your library]'s collection" with your records, search link
 
 The harvest runs on a computer, not in the reader's browser, because library catalogs do not accept searches sent from other websites. Run it again each term, or after new cards are added.
 
-Tested: SUNY Albany, Binghamton, Fredonia, Geneseo, Oswego and Potsdam accept the guest search the script uses. Buffalo and New Paltz use a different address, which has not been looked up yet.
+The script's guest search works at SUNY Albany, Binghamton, Fredonia, Geneseo, Oswego and Potsdam. Buffalo and New Paltz need a different address for it, which has not been looked up yet.
 
 ## Library of Congress subject links
 
-A card can carry Library of Congress headings in an `lc` field, for example `{"label": "Frankenstein (novel)", "heading": "Shelley, Mary Wollstonecraft, 1797-1851. Frankenstein"}`. The card then shows a "Subject:" link that runs an exact subject search in the reader's catalog. Headings come from Wikidata (property P244, the Library of Congress authority ID) and id.loc.gov. Most libraries use the same headings, so the link works in any catalog that uses LCSH.
+A card can carry Library of Congress headings in an `lc` field, for example `{"label": "Frankenstein (novel)", "heading": "Shelley, Mary Wollstonecraft, 1797-1851. Frankenstein"}`. The card then shows a "Subject:" link that runs an exact subject search in the reader's catalog. Headings come from Wikidata (property P244, the Library of Congress authority ID) and id.loc.gov. The link works in any catalog that uses Library of Congress Subject Headings (LCSH).
 
 ## Comparing headlines
 
@@ -30,9 +30,9 @@ A card can list how several outlets headlined the same event in a `headlines` fi
 
 ## A timeline for another topic
 
-The same timeline can show any topic. Put a topic file next to the data and point the embed's `data-src` at it. A topic file has two parts:
+The same timeline can show a different topic. Put a topic file next to the data and point the embed's `data-src` at it. A topic file has two parts:
 
 - `topic`: the title, the topic buttons (`tracks`), and optionally its own background photos (`photos`), board colors (`boards`) and suggestion sheet (`sheet`).
-- `cards`: the milestones. A card with `"open": true` is an open slot: it shows with a dashed outline and holds the place until someone writes it.
+- `cards`: the milestones. A card with `"open": true` is an open slot: it shows with a dashed outline and marks the place until a contributor writes the card.
 
 See `topics/TEMPLATE-blooms-taxonomy.json`. Open slots carry only a year, a title and search terms; the contributor researches and writes the rest (see `CONTRIBUTING.md`).

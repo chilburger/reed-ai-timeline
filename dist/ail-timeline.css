@@ -158,3 +158,5 @@
 .ail-tl-hlbtn{min-height:44px;padding:0 14px;font-size:15px;cursor:pointer}
 .ail-tl-card.is-open{outline:2px dashed currentColor;outline-offset:-10px}
 .ail-tl-lc{font-style:italic}
+.ail-tl-aboutbtn{position:relative;z-index:4;display:inline-flex;margin-left:4px;align-items:center;min-height:44px;padding:0 14px;border:1px solid currentColor;border-radius:22px;font-size:15px;font-weight:600;text-decoration:none;color:inherit;background:rgba(0,0,0,.35)}
+.ail-tl-aboutbtn:hover,.ail-tl-aboutbtn:focus-visible{background:rgba(0,0,0,.6);text-decoration:underline}

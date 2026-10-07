@@ -35,6 +35,8 @@
   function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;}return a;}
   var HLMODE='one';try{HLMODE=localStorage.getItem('ail-tl-hl')||'one';}catch(e){}root.setAttribute('data-hl',HLMODE);
   if(TOPIC.title){var kk=root.querySelector('.ail-tl-kicker');if(kk)kk.textContent=TOPIC.title;}
+  /* About button: shown only when the page has a section with id ail-tl-about (or the id named in data-about) below the timeline */
+  (function(){var ab=root.querySelector('.ail-tl-aboutbtn'),id=root.getAttribute('data-about')||'ail-tl-about',t=document.getElementById(id);if(!ab||!t)return;ab.href='#'+id;ab.hidden=false;ab.addEventListener('click',function(e){e.preventDefault();t.scrollIntoView({behavior:reduce?'auto':'smooth',block:'start'});if(!t.hasAttribute('tabindex'))t.setAttribute('tabindex','-1');t.focus({preventScroll:true});});})();
   var SUGGEST='';/* link to the suggestion form; the line stays hidden while this is empty */
   (function(){var sg=root.parentNode.querySelector('.ail-tl-suggest');if(sg&&SUGGEST){sg.querySelector('a').href=SUGGEST;sg.hidden=false;}})();
   var KINDS={book:'Book',ebook:'E-book',video:'Video',nyt:'NYT',article:'Article',essay:'Essay',film:'Film analysis',chapter:'Chapter',review:'Review',reference:'Reference',news:'News',dissertation:'Dissertation'};

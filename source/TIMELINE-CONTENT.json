@@ -2213,6 +2213,24 @@
   "image": null
  },
  {
+  "year": 2016,
+  "date": "2016-10-12",
+  "title": "Obama discusses AI's promise and risks with WIRED",
+  "track": "society",
+  "text": "On October 12, 2016, WIRED publishes Barack Obama's AI interview with Joi Ito and Scott Dadich. Obama favors a light government touch early, with heavy research funding, and warns AI could increase inequality and suppress wages. The White House releases an AI report that day.",
+  "why": "A sitting president framed AI as a policy question about jobs, fairness and the role of government.",
+  "source": {
+   "label": "WIRED, \"Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World\" (Oct. 12, 2016)",
+   "url": "https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg",
+   "credit": "Official White House Photo by Pete Souza, public domain",
+   "alt": "Official portrait of President Barack Obama in the Oval Office, December 2012."
+  }
+ },
+ {
   "year": 2017,
   "date": "2017-03-07",
   "title": "Yoko Taro and PlatinumGames release NieR: Automata",
@@ -2734,6 +2752,42 @@
  },
  {
   "year": 2023,
+  "date": "2023-05-01",
+  "title": "Geoffrey Hinton leaves Google to warn about AI",
+  "track": "society",
+  "text": "Geoffrey Hinton, whose neural network research helped lay the groundwork for today's chatbots, announces on May 1, 2023, that he has left Google. He tells the BBC some chatbot dangers are \"quite scary\" and that he left to speak freely. He calls Google \"very responsible.\"",
+  "why": "A deep learning pioneer warned about AI risks, and Meredith Whittaker said the focus distracts from current harms.",
+  "source": {
+   "label": "BBC News, \"AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google\" (May 2, 2023)",
+   "url": "https://www.bbc.com/news/world-us-canada-65452940"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Geoffrey_Hinton_in_2026.jpg/960px-Geoffrey_Hinton_in_2026.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Geoffrey_Hinton_in_2026.jpg",
+   "credit": "Cmichel67, CC BY-SA 4.0",
+   "alt": "Geoffrey Hinton in 2026."
+  }
+ },
+ {
+  "year": 2023,
+  "date": "2023-05-16",
+  "title": "Sam Altman asks the Senate to regulate AI",
+  "track": "society",
+  "text": "OpenAI chief executive Sam Altman testifies before a Senate Judiciary subcommittee on May 16, 2023. He proposes licensing or registration for AI models above a capability threshold, plus safety testing. Fellow witness Gary Marcus warns against a \"trust us\" approach from tech companies.",
+  "why": "An AI company leader asked Congress for rules; Gary Marcus and Bruce Yandle questioned industry's role in them.",
+  "source": {
+   "label": "U.S. Senate Judiciary Committee, \"Oversight of A.I.: Rules for Artificial Intelligence\" hearing page (May 16, 2023)",
+   "url": "https://www.judiciary.senate.gov/committee-activity/hearings/oversight-of-ai-rules-for-artificial-intelligence"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Meeting_with_Masayoshi_Son_and_Sam_Altman_%28February_3%2C_2025%29_%283x4_cropped_on_Altman%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Meeting_with_Masayoshi_Son_and_Sam_Altman_(February_3,_2025)_(3x4_cropped_on_Altman).jpg",
+   "credit": "Office of the Prime Minister of Japan, CC BY 4.0",
+   "alt": "Sam Altman at the Prime Minister's Residence in Tokyo, February 2025."
+  }
+ },
+ {
+  "year": 2023,
   "date": "2023-07-05",
   "track": "suny",
   "title": "New York City requires audits of hiring AI",
@@ -2762,6 +2816,50 @@
    "url": "https://www.cnbc.com/2025/03/26/bill-gates-on-ai-humans-wont-be-needed-for-most-things.html"
   },
   "image": null
+ },
+ {
+  "year": 2023,
+  "date": "2023-07-13",
+  "title": "China's Cyberspace Administration issues generative AI rules",
+  "track": "society",
+  "text": "On July 13, 2023, the Cyberspace Administration of China and six other agencies publish interim measures for generative AI services, effective August 15. Public-facing services must uphold \"core socialist values\" and, if they can sway public opinion, pass security reviews and register algorithms.",
+  "why": "China required generative AI services to follow content rules and, in some cases, to pass security reviews.",
+  "source": {
+   "label": "CNN, \"China takes major step in regulating generative AI services like ChatGPT\" (July 14, 2023)",
+   "url": "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
+  },
+  "image": null
+ },
+ {
+  "year": 2023,
+  "date": "2023-09-08",
+  "title": "Blumenthal and Hawley propose a bipartisan AI framework",
+  "track": "society",
+  "text": "On September 8, 2023, Senators Richard Blumenthal (D-Conn.) and Josh Hawley (R-Mo.) release a framework for AI legislation. The framework includes an independent oversight body that would license advanced models, legal liability for harms, and limits on AI involving children.",
+  "why": "A Democrat and a Republican agreed on licensing rules; IBM and Google argued against a new oversight office.",
+  "source": {
+   "label": "Sen. Richard Blumenthal, press release, \"Blumenthal & Hawley Announce Bipartisan Framework on Artificial Intelligence Legislation\" (Sept. 8, 2023)",
+   "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-hawley-announce-bipartisan-framework-on-artificial-intelligence-legislation"
+  },
+  "image": null
+ },
+ {
+  "year": 2023,
+  "date": "2023-09-13",
+  "title": "Schumer opens the Senate's AI Insight Forums",
+  "track": "society",
+  "text": "On September 13, 2023, Senate Majority Leader Chuck Schumer (D-N.Y.) opens closed-door AI Insight Forums, planned with Senators Rounds, Young and Heinrich. Musk, Zuckerberg, Altman, union leaders and researchers attend. Hawley (R-Mo.) skips it, calling it a \"giant cocktail party\" for Big Tech.",
+  "why": "A 2024 roadmap sought $32 billion for AI research; Alondra Nelson said it put innovation before regulation.",
+  "source": {
+   "label": "Senate Democrats, \"Majority Leader Schumer Opening Remarks for the Senate's Inaugural AI Insight Forum\" (Sept. 13, 2023)",
+   "url": "https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-opening-remarks-for-the-senates-inaugural-ai-insight-forum"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chuck_Schumer_official_photo.jpg/960px-Chuck_Schumer_official_photo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chuck_Schumer_official_photo.jpg",
+   "credit": "U.S. Senate Photographic Studio/Jeff McEvoy, public domain",
+   "alt": "Official U.S. Senate portrait of Chuck Schumer, 2017."
+  }
  },
  {
   "year": 2023,
@@ -2814,6 +2912,24 @@
  },
  {
   "year": 2023,
+  "date": "2023-11-01",
+  "title": "Rishi Sunak hosts the Bletchley AI Safety Summit",
+  "track": "society",
+  "text": "British Prime Minister Rishi Sunak hosts the first AI Safety Summit at Bletchley Park on November 1 and 2, 2023. Twenty-eight countries and the EU, including the United States and China, sign the Bletchley Declaration on risks from frontier AI.",
+  "why": "Sunak called it \"a landmark achievement\"; over 100 organizations wrote that affected workers and communities were marginalized.",
+  "source": {
+   "label": "GOV.UK, \"The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023\"",
+   "url": "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg/960px-Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Prime_Minister_Rishi_Sunak_(cropped).jpg",
+   "credit": "Simon Walker / Prime Minister's Office, Open Government Licence v3.0",
+   "alt": "Official portrait of Prime Minister Rishi Sunak at 10 Downing Street, November 2022."
+  }
+ },
+ {
+  "year": 2023,
   "date": "2023-11-02",
   "title": "Beatles finish \"Now and Then\" with machine learning",
   "track": "culture",
@@ -2858,6 +2974,37 @@
  },
  {
   "year": 2024,
+  "date": "2024-02-29",
+  "title": "Elon Musk sues OpenAI over its nonprofit mission",
+  "track": "society",
+  "text": "On February 29, 2024, Elon Musk, an OpenAI co-founder, sues OpenAI, Sam Altman and Greg Brockman, saying they abandoned its nonprofit, open mission for profit. OpenAI disputes this. In May 2026 an advisory jury finds he sued too late, and the judge dismisses the case.",
+  "why": "The case aired disputes over OpenAI adding a for-profit business to its nonprofit; Musk says he will appeal.",
+  "source": {
+   "label": "NPR, Juliana Kim, \"Elon Musk sues OpenAI for violating guiding principles in favor of profit\" (Mar. 1, 2024)",
+   "url": "https://www.npr.org/2024/03/01/1235159084/elon-musk-openai-suit-chatgpt-sam-altman-greg-brockman"
+  },
+  "image": null
+ },
+ {
+  "year": 2024,
+  "date": "2024-05-20",
+  "title": "Scarlett Johansson objects to OpenAI's Sky voice",
+  "track": "society",
+  "text": "On May 20, 2024, actor Scarlett Johansson says OpenAI's ChatGPT voice \"Sky\" sounds \"eerily similar\" to hers, after she declined Sam Altman's offer to license her voice. OpenAI pauses Sky, saying a different actress voiced it and resemblance was never intended.",
+  "why": "Jyh-An Lee and Xuan Sun used the dispute to compare how laws protect a voice from AI cloning.",
+  "source": {
+   "label": "NPR, Bobby Allyn, \"Scarlett Johansson says she is 'shocked, angered' over new ChatGPT voice\" (May 20, 2024)",
+   "url": "https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/960px-Scarlett_Johansson-8588.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8588.jpg",
+   "credit": "Harald Krichel, CC BY-SA 4.0",
+   "alt": "Scarlett Johansson at the 2025 Cannes Film Festival."
+  }
+ },
+ {
+  "year": 2024,
   "date": "2024-05-21",
   "track": "society",
   "title": "The EU adopts the AI Act",
@@ -2872,6 +3019,24 @@
    "page": "https://commons.wikimedia.org/wiki/File:OJ_L_202401689_of_2024_-_EN_English.pdf",
    "credit": "Publications Office of the European Union, Public domain",
    "alt": "The first page of Regulation (EU) 2024/1689, the AI Act, as published in the Official Journal of the European Union on 12 July 2024."
+  }
+ },
+ {
+  "year": 2024,
+  "date": "2024-06-14",
+  "title": "Pope Francis addresses G7 leaders on AI",
+  "track": "society",
+  "text": "On June 14, 2024, Pope Francis becomes the first pope to address a G7 summit, at Giorgia Meloni's invitation. He asks leaders to keep decisions in human hands and ban lethal autonomous weapons. In their statement, the leaders back \"responsible\" military use of AI.",
+  "why": "A religious leader joined government debates on AI, framing it as a question of human dignity.",
+  "source": {
+   "label": "Vatican, Address of Pope Francis to the G7 session on artificial intelligence, Borgo Egnazia (June 14, 2024)",
+   "url": "https://www.vatican.va/content/francesco/en/speeches/2024/june/documents/20240614-g7-intelligenza-artificiale.html"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pope_Francis_Korea_Haemi_Castle_19.jpg/960px-Pope_Francis_Korea_Haemi_Castle_19.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pope_Francis_Korea_Haemi_Castle_19.jpg",
+   "credit": "Korea.net / Korean Culture and Information Service (Jeon Han), CC BY-SA 2.0",
+   "alt": "Pope Francis at Haemi Castle, South Korea, August 2014."
   }
  },
  {
@@ -2968,6 +3133,24 @@
    "url": "https://www.sf-encyclopedia.com/entry/wild_robot_the"
   },
   "image": null
+ },
+ {
+  "year": 2024,
+  "date": "2024-09-29",
+  "title": "Gavin Newsom vetoes California's SB 1047 AI bill",
+  "track": "society",
+  "text": "On September 29, 2024, California Governor Gavin Newsom vetoes SB 1047, which would have required safety measures from developers of the largest AI models. He says it could give \"a false sense of security.\" In 2025 he signs SB 53, a frontier AI transparency law.",
+  "why": "Author Scott Wiener said the veto leaves companies without binding restrictions; OpenAI, Andreessen Horowitz and others opposed it.",
+  "source": {
+   "label": "Office of the Governor of California, SB 1047 veto message (Sept. 29, 2024)",
+   "url": "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg/960px-Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Governor_of_California_Gavin_Newsom_(cropped_3x4).jpg",
+   "credit": "Charles Ommanney, Office of the Governor of California, public domain",
+   "alt": "Official portrait of California Governor Gavin Newsom, 2026."
+  }
  },
  {
   "year": 2024,
@@ -3157,6 +3340,24 @@
  },
  {
   "year": 2025,
+  "date": "2025-05-10",
+  "title": "Pope Leo XIV links his name to AI",
+  "track": "society",
+  "text": "On May 10, 2025, two days after his election, Pope Leo XIV tells cardinals he chose his name mainly because Leo XIII addressed the first industrial revolution, and AI now poses \"new challenges for the defence of human dignity, justice and labour.\"",
+  "why": "He made AI a theme of his papacy, issuing Magnifica Humanitas, an encyclical on AI, in May 2026.",
+  "source": {
+   "label": "Vatican, Address of Pope Leo XIV to the College of Cardinals (May 10, 2025)",
+   "url": "https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/960px-Pope_Leo_XIV_3_%283x4_cropped%29.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_3_(3x4_cropped).png",
+   "credit": "Edgar Beltrán, The Pillar, CC BY-SA 4.0",
+   "alt": "Pope Leo XIV at a meeting with the media, May 12, 2025."
+  }
+ },
+ {
+  "year": 2025,
   "date": "2025-05-20",
   "track": "society",
   "title": "Karen Hao's Empire of AI",
@@ -3292,6 +3493,24 @@
  },
  {
   "year": 2025,
+  "date": "2025-10-06",
+  "title": "Bernie Sanders warns of AI job losses",
+  "track": "society",
+  "text": "On October 6, 2025, Bernie Sanders (I-Vt.) releases a HELP Committee minority staff report estimating AI and automation could replace nearly 100 million U.S. jobs in ten years. The estimate is based on a ChatGPT analysis. He proposes a robot tax and a 32-hour week.",
+  "why": "James Pethokoukis, Emily Bender and Alex Hanna criticized the report's use of ChatGPT to estimate job losses.",
+  "source": {
+   "label": "Senate HELP Committee minority staff (Ranking Member Bernard Sanders), \"The Big Tech Oligarchs' War Against Workers\" (Oct. 6, 2025)",
+   "url": "https://www.sanders.senate.gov/wp-content/uploads/10.6.2025-The-Big-Tech-Oligarchs-War-Against-Workers.pdf"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg/960px-Bernie_Sanders_February_2026_%28cropped%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bernie_Sanders_February_2026_(cropped).jpg",
+   "credit": "Anderseidesvik, CC BY-SA 4.0",
+   "alt": "Senator Bernie Sanders speaking at Stanford University about the future of AI, February 2026."
+  }
+ },
+ {
+  "year": 2025,
   "date": "2025-10-22",
   "title": "Future of Life Institute urges superintelligence ban",
   "track": "society",
@@ -3315,6 +3534,24 @@
    "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/"
   },
   "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-12-04",
+  "title": "DeSantis proposes a Florida AI Bill of Rights",
+  "track": "society",
+  "text": "On December 4, 2025, Florida Governor Ron DeSantis (R) proposes an AI Bill of Rights: parental controls for chatbots, consent before AI uses a person's likeness, and privacy rules. The state Senate passes it in 2026; the House adjourns without taking it up.",
+  "why": "A Republican governor pressed for state AI rules as President Trump sought to preempt them.",
+  "source": {
+   "label": "Executive Office of the Governor of Florida, \"Governor Ron DeSantis Announces Proposal for Citizen Bill of Rights for Artificial Intelligence\" (Dec. 4, 2025)",
+   "url": "https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-announces-proposal-citizen-bill-rights-artificial"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ron_DeSantis_official_photo.jpg/960px-Ron_DeSantis_official_photo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_official_photo.jpg",
+   "credit": "Government of Florida, public domain",
+   "alt": "Official portrait of Florida Governor Ron DeSantis."
+  }
  },
  {
   "year": 2025,
