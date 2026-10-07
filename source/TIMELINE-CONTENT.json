@@ -2601,6 +2601,24 @@
   "image": null
  },
  {
+  "year": 2021,
+  "date": "2021-11-22",
+  "title": "UB forms an AI and data science institute",
+  "track": "suny",
+  "text": "The University at Buffalo announces its Institute for Artificial Intelligence and Data Science on November 22, 2021. It combines two units founded in 2018, the Artificial Intelligence Institute and the Institute for Computational and Data Science. David Doermann becomes director.",
+  "why": "It brought a SUNY campus's two AI and data science units under one institute.",
+  "source": {
+   "label": "UBNow, \"UB forms Institute for Artificial Intelligence and Data Science\" (Nov. 22, 2021)",
+   "url": "https://www.buffalo.edu/ubnow/stories/2021/11/ub-iad.html"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lockwood_Memorial_Library.jpg/960px-Lockwood_Memorial_Library.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lockwood_Memorial_Library.jpg",
+   "credit": "Nsciara, CC0",
+   "alt": "The interior entrance to Lockwood Memorial Library at the University at Buffalo. The institute is based in Lockwood."
+  }
+ },
+ {
   "year": 2022,
   "date": "2022-07-12",
   "track": "tech",
@@ -2692,6 +2710,24 @@
    "url": "https://www.chalkbeat.org/newyork/2023/5/18/23727942/chatgpt-nyc-schools-david-banks/"
   },
   "image": null
+ },
+ {
+  "year": 2023,
+  "date": "2023-01-09",
+  "title": "NSF funds UB-led AI institute for children",
+  "track": "suny",
+  "text": "The National Science Foundation announces a $20 million AI institute led by the University at Buffalo on January 9, 2023. It is meant to build tools that screen children's speech and language and support intervention. The Institute of Education Sciences also funds it.",
+  "why": "It is a federally funded, SUNY-led AI project aimed at a shortage of speech-language pathologists.",
+  "source": {
+   "label": "National Science Foundation, \"NSF announces new AI institute\" (Jan. 9, 2023)",
+   "url": "https://www.nsf.gov/news/nsf-announces-new-ai-institute"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Furnas_Hall_and_Bell_Hall%2C_University_at_Buffalo_North_Campus%2C_Amherst%2C_New_York_-_20200730.jpg/960px-Furnas_Hall_and_Bell_Hall%2C_University_at_Buffalo_North_Campus%2C_Amherst%2C_New_York_-_20200730.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Furnas_Hall_and_Bell_Hall,_University_at_Buffalo_North_Campus,_Amherst,_New_York_-_20200730.jpg",
+   "credit": "Andre Carrotflower, CC BY-SA 4.0",
+   "alt": "Furnas Hall and Bell Hall on the North Campus of the University at Buffalo, Amherst, New York, July 2020."
+  }
  },
  {
   "year": 2023,
@@ -3123,6 +3159,19 @@
  },
  {
   "year": 2024,
+  "date": "2024-09-19",
+  "title": "UB to lead $10 million AI literacy center",
+  "track": "suny",
+  "text": "The University at Buffalo announces a $10 million U.S. Department of Education grant on September 19, 2024, for the Center for Early Literacy and Responsible AI. Its AI Reading Enhancer is meant to generate personalized texts and give real-time reading support to K-2 students.",
+  "why": "A SUNY center will build AI reading support for young children.",
+  "source": {
+   "label": "UB News Center, \"UB awarded $10 million grant to lead new national center on early literacy and responsible AI\" (Sept. 19, 2024)",
+   "url": "https://www.buffalo.edu/news/releases/2024/09/center-for-early-literacy-responsible-ai.html"
+  },
+  "image": null
+ },
+ {
+  "year": 2024,
   "date": "2024-09-27",
   "title": "Chris Sanders adapts Peter Brown's The Wild Robot",
   "track": "culture",
@@ -3168,6 +3217,24 @@
    "page": "https://commons.wikimedia.org/wiki/File:Geoffrey_Hinton_and_John_Hopfield_at_the_2024_Nobel_Lectures.jpg",
    "credit": "Jay Dixit, CC BY-SA 4.0",
    "alt": "Geoffrey Hinton and John Hopfield at the 2024 Nobel Lectures."
+  }
+ },
+ {
+  "year": 2024,
+  "date": "2024-10-10",
+  "title": "43North awards $1 million to two AI startups",
+  "track": "suny",
+  "text": "On October 10, 2024, 43North names five $1 million winners, including two AI companies. HeronAI makes a reporting tool for accounting firms. Spiky.ai coaches sales teams in real time. Both are Massachusetts startups, and Spiky is moving to Buffalo.",
+  "why": "One of the two AI winners, Spiky.ai, is moving to Buffalo.",
+  "source": {
+   "label": "Office of the Governor (Oct. 10, 2024), 43North winners announcement",
+   "url": "https://www.governor.ny.gov/news/governor-hochul-announces-million-dollar-winners-tenth-annual-43north-startup-competition"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Buffalo_December_2024_06_%28Shea%27s_Performing_Arts_Center%29.jpg/960px-Buffalo_December_2024_06_%28Shea%27s_Performing_Arts_Center%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Buffalo_December_2024_06_(Shea%27s_Performing_Arts_Center).jpg",
+   "credit": "Michael Barera, CC BY-SA 4.0",
+   "alt": "Shea's Performing Arts Center in Buffalo, New York, December 2024. The 2024 43North finals were held at Shea's."
   }
  },
  {
@@ -3324,6 +3391,42 @@
    "url": "https://ai-2027.com/"
   },
   "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-04-04",
+  "title": "UAlbany launches an AI and Society College",
+  "track": "suny",
+  "text": "The University at Albany launches an Artificial Intelligence & Society College and research center on April 4, 2025. It grows out of AI Plus, begun in 2022, and brings AI coursework to all nine schools and colleges. The state announced $2.4 million over three years.",
+  "why": "It is one SUNY campus's plan to bring AI coursework to all nine of its schools and colleges.",
+  "source": {
+   "label": "University at Albany News Center, \"UAlbany Launches New AI & Society College, Research Center\" (Apr. 4, 2025)",
+   "url": "https://www.albany.edu/news-center/news/2025-ualbany-launches-new-ai-society-college-research-center"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/UAlbany_Podium.jpg/960px-UAlbany_Podium.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:UAlbany_Podium.jpg",
+   "credit": "UAlbany, CC BY-SA 4.0",
+   "alt": "The Academic Podium of the University at Albany's Uptown Campus."
+  }
+ },
+ {
+  "year": 2025,
+  "date": "2025-04-07",
+  "title": "UB creates a Department of AI and Society",
+  "track": "suny",
+  "text": "The University at Buffalo announces a Department of AI and Society on April 7, 2025, with $5 million from Governor Hochul to open that fall. In August, the governor announced seven AI-focused bachelor's degrees and two minors, including AI ethics.",
+  "why": "It adds AI-focused degrees at a SUNY campus, paired with study of AI's effects on society.",
+  "source": {
+   "label": "UB News Center, \"UB to launch new academic department focusing on AI and society\" (Apr. 7, 2025)",
+   "url": "https://www.buffalo.edu/news/releases/2025/04/UB-launch-new-AI-and-society-department.html"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/UB_NORTH_CAMPUS_CAPEN_HALL.jpg/960px-UB_NORTH_CAMPUS_CAPEN_HALL.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:UB_NORTH_CAMPUS_CAPEN_HALL.jpg",
+   "credit": "BarberJP, Public domain",
+   "alt": "Capen Hall on the University at Buffalo North Campus, December 2008."
+  }
  },
  {
   "year": 2025,
@@ -3508,6 +3611,19 @@
    "credit": "Anderseidesvik, CC BY-SA 4.0",
    "alt": "Senator Bernie Sanders speaking at Stanford University about the future of AI, February 2026."
   }
+ },
+ {
+  "year": 2025,
+  "date": "2025-10-21",
+  "title": "Buffalo News reports rise in AI-generated Bills posts",
+  "track": "society",
+  "text": "The Buffalo News reports on October 21, 2025 that AI-generated social media posts about the Bills are on the rise. A caption describes one false post claiming Josh Allen sent six planes of aid to Texas flood victims.",
+  "why": "It is a local report on AI-generated social media posts aimed at football fans.",
+  "source": {
+   "label": "The Buffalo News, \"AI-generated posts about the Buffalo Bills are on the rise. Here's why\" (Katherine Fitzgerald, Oct. 21, 2025)",
+   "url": "https://buffalonews.com/sports/professional/nfl/bills/article_d87bd754-4716-4d78-a169-9c94badc7bd9.html"
+  },
+  "image": null
  },
  {
   "year": 2025,
@@ -3702,6 +3818,42 @@
    "url": "https://wskg.org/2026-07-14/hochul-draws-cheers-jeers-over-statewide-data-center-moratorium"
   },
   "image": null
+ },
+ {
+  "year": 2026,
+  "date": "2026-08-05",
+  "title": "Hochul announces Empire AI Beta online at UB",
+  "track": "suny",
+  "text": "On August 5, 2026, Governor Kathy Hochul announces that Empire AI Beta, a $40 million NVIDIA supercomputer at the University at Buffalo, is fully online. It has 11 times the AI training capacity of the 2024 Alpha system, and over 300 projects are queued.",
+  "why": "It gives SUNY and other New York researchers large-scale AI computing, a goal first proposed in January 2024.",
+  "source": {
+   "label": "Office of the Governor (Aug. 5, 2026), Empire AI Beta fully online",
+   "url": "https://www.governor.ny.gov/news/governor-hochul-announces-empire-ai-beta-fully-online-federal-government-takes-inspiration-new"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Medical_Corridor_skyline%2C_Buffalo%2C_New_York_-_20191109.jpg/960px-Medical_Corridor_skyline%2C_Buffalo%2C_New_York_-_20191109.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Medical_Corridor_skyline,_Buffalo,_New_York_-_20191109.jpg",
+   "credit": "Andre Carrotflower, CC BY-SA 4.0",
+   "alt": "The skyline of the Buffalo Niagara Medical Campus, November 2019. Empire AI Beta is housed at a UB center on the medical campus."
+  }
+ },
+ {
+  "year": 2026,
+  "date": "2026-08-10",
+  "title": "Bills choose AiFi checkout-free stands for stadium",
+  "track": "society",
+  "text": "In an August 10, 2026 interview, Bills IT project director Shaun Handley said the new Highmark Stadium's concession stands will use checkout-free technology from AiFi, described in a PayPal case study as \"spatial AI technology.\" The stadium also adds walk-through security scanners.",
+  "why": "A local team plans checkout-free stands, and its IT project director cited past halftime concession problems.",
+  "source": {
+   "label": "Stadium Tech Report, \"Shaun Handley discusses how tech upgrades will make Bills fans happy at the new Highmark Stadium\" (Aug. 10, 2026)",
+   "url": "https://stadiumtechreport.com/?p=63534"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bills_Stadium_May26.jpg/960px-Bills_Stadium_May26.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bills_Stadium_May26.jpg",
+   "credit": "Dekema, CC0",
+   "alt": "Highmark Stadium in Orchard Park, New York, viewed from the west, May 2026."
+  }
  },
  {
   "year": 2026,
