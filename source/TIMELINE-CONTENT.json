@@ -108,6 +108,42 @@
   }
  },
  {
+  "year": 1872,
+  "date": "1872",
+  "title": "Butler publishes Erewhon, a land that banned machines",
+  "track": "idea",
+  "text": "Samuel Butler publishes the novel Erewhon, set in a country that banned machines. The Erewhonians feared that machines, evolving quickly, would one day replace people. Butler wrote it partly as a parody of Darwin's theory of evolution.",
+  "why": "It is an early story of fear that machines could replace their makers.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Butler, Samuel\"",
+   "url": "https://sf-encyclopedia.com/entry/butler_samuel"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Samuel_Erewhon_Butler-03-self_portrait.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Samuel_Erewhon_Butler-03-self_portrait.jpg",
+   "credit": "Unknown author, Public domain",
+   "alt": "Portrait of Samuel Butler, author of Erewhon (the Commons file is titled a self-portrait)."
+  }
+ },
+ {
+  "year": 1909,
+  "date": "1909-11",
+  "title": "Forster publishes the story The Machine Stops",
+  "track": "idea",
+  "text": "E. M. Forster's novella \"The Machine Stops\" appears in The Oxford and Cambridge Review in November 1909. People live alone in small underground rooms, where a Machine meets their needs and carries their conversations, until it breaks down.",
+  "why": "It is an early warning about a society that depends entirely on one technological system.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Forster, E M\"",
+   "url": "https://sf-encyclopedia.com/entry/forster_e_m"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/E._M._Forster_von_Dora_Carrington%2C_1924-25.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:E._M._Forster_von_Dora_Carrington,_1924-25.jpg",
+   "credit": "Dora Carrington (1893–1932), Public domain",
+   "alt": "Portrait of E. M. Forster, painted by Dora Carrington in 1924-25."
+  }
+ },
+ {
   "year": 1921,
   "date": "1921-01-25",
   "track": "idea",
@@ -214,6 +250,19 @@
    "credit": "James S. Davis (U.S. Navy), Public domain",
    "alt": "An official 1984 U.S. Navy portrait of Commodore Grace Hopper in uniform."
   }
+ },
+ {
+  "year": 1952,
+  "date": "1952",
+  "title": "Tezuka begins the manga Astro Boy",
+  "track": "culture",
+  "text": "Osamu Tezuka's manga Tetsuwan Atom, known in English as Astro Boy, begins in the children's magazine Shonen in 1952. In the story, a scientist builds a robot that looks like his dead son. A TV anime version starts in 1963.",
+  "why": "Scholars read it as a Cold War story about using atomic power for peace.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Tezuka, Osamu\" (with the \"Astro Boy\" entry)",
+   "url": "https://sf-encyclopedia.com/entry/tezuka_osamu"
+  },
+  "image": null
  },
  {
   "year": 1955,
@@ -324,6 +373,37 @@
   }
  },
  {
+  "year": 1965,
+  "date": "1965",
+  "title": "Lem publishes Cyberiada, fables about robot inventors",
+  "track": "idea",
+  "text": "Stanisław Lem publishes Cyberiada in Poland, a collection of fables about Trurl and Klapaucius, two robot inventors. Its satire and wordplay explore machines, minds and cybernetics. Michael Kandel's English translation, The Cyberiad, follows in 1974.",
+  "why": "It treats machine minds with humor and philosophy, and it reached English readers in 1974.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Lem, Stanisław\"",
+   "url": "https://sf-encyclopedia.com/entry/lem_stanislaw"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Stanislaw_Lem_%28cropped%29.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Stanislaw_Lem_(cropped).JPG",
+   "credit": "Mariusz Kubik (mariuszkubik.pl), CC BY 2.5",
+   "alt": "Portrait photograph of Stanisław Lem."
+  }
+ },
+ {
+  "year": 1966,
+  "date": "1966",
+  "title": "Heinlein publishes The Moon Is a Harsh Mistress",
+  "track": "idea",
+  "text": "Robert A. Heinlein's novel The Moon Is a Harsh Mistress, serialized in If from December 1965 to April 1966, tells of a revolt by Moon colonists. A computer, upgraded again and again, \"wakes up\" as a character named Mike. It wins a 1967 Hugo.",
+  "why": "SFE lists Mike among its notable examples of computers that become self-aware.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"AI\" (with the \"Heinlein, Robert A\" entry)",
+   "url": "https://sf-encyclopedia.com/entry/ai"
+  },
+  "image": null
+ },
+ {
   "year": 1966,
   "date": "1966-01",
   "track": "tech",
@@ -342,6 +422,37 @@
   }
  },
  {
+  "year": 1967,
+  "date": "1967-03",
+  "title": "Ellison publishes a story of a hostile computer",
+  "track": "idea",
+  "text": "Harlan Ellison's short story \"I Have No Mouth, and I Must Scream\" appears in the March 1967 issue of If. It centers on a hostile AI that arose from merged military computers. The story wins the 1968 Hugo for best short story.",
+  "why": "It links nuclear war and a hostile AI in a story the Hugo voters honored.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Ellison, Harlan\" (with the \"AI\" entry)",
+   "url": "https://sf-encyclopedia.com/entry/ellison_harlan"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Harlan_Ellison_at_the_LA_Press_Club_19860712_%28cropped_portrait%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Harlan_Ellison_at_the_LA_Press_Club_19860712_(cropped_portrait).jpg",
+   "credit": "Pip R. Lagenta, CC BY 2.0",
+   "alt": "Harlan Ellison in Los Angeles in 1986."
+  }
+ },
+ {
+  "year": 1968,
+  "date": "1968",
+  "title": "Dick publishes Do Androids Dream of Electric Sheep?",
+  "track": "idea",
+  "text": "Philip K. Dick publishes Do Androids Dream of Electric Sheep?, a novel about a bounty hunter sent to find rogue androids that look, sound and think like people. The film Blade Runner (1982) is based on it.",
+  "why": "It is one of Dick's novels about artificial copies of people, and the source of Blade Runner.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Dick, Philip K\"",
+   "url": "https://sf-encyclopedia.com/entry/dick_philip_k"
+  },
+  "image": null
+ },
+ {
   "year": 1968,
   "date": "1968-04-02",
   "track": "culture",
@@ -358,6 +469,19 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 1968,
+  "date": "1968-08-02",
+  "title": "Jasia Reichardt curates Cybernetic Serendipity in London",
+  "track": "culture",
+  "text": "Cybernetic Serendipity: The Computer and the Arts opens at the Institute of Contemporary Arts in London on August 2, 1968, curated by Jasia Reichardt. It is the first widely attended international exhibition of computer art, covering art, music, poetry, dance, sculpture and animation.",
+  "why": "Attendance was estimated at 45,000 to 60,000, a large audience for computer-made art.",
+  "source": {
+   "label": "History of Information, \"Cybernetic Serendipity\": The First Widely-Attended International Exhibition of Computer Art",
+   "url": "https://www.historyofinformation.com/detail.php?id=863"
+  },
+  "image": null
  },
  {
   "year": 1972,
@@ -468,6 +592,42 @@
   }
  },
  {
+  "year": 1982,
+  "date": "1982-06-25",
+  "title": "Ridley Scott's Blade Runner opens in theaters",
+  "track": "culture",
+  "text": "Ridley Scott's film Blade Runner opens in New York and Los Angeles on June 25, 1982. Harrison Ford plays Deckard, whose job is to hunt renegade replicants, artificial humans built as slaves with short lifespans. It is based on Philip K. Dick's novel.",
+  "why": "A box-office disappointment at first, it is now counted among the most important science fiction films.",
+  "source": {
+   "label": "AFI Catalog of Feature Films, \"Blade Runner\" (1982)",
+   "url": "https://catalog.afi.com/Catalog/moviedetails/68260"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Oliver_Mark_-_Ridley_Scott%2C_Berlin_2005.jpg/960px-Oliver_Mark_-_Ridley_Scott%2C_Berlin_2005.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Oliver_Mark_-_Ridley_Scott,_Berlin_2005.jpg",
+   "credit": "Oliver Mark, CC BY-SA 4.0",
+   "alt": "Ridley Scott in Berlin in 2005."
+  }
+ },
+ {
+  "year": 1984,
+  "date": "1984",
+  "title": "Gibson publishes Neuromancer, a novel of cyberspace",
+  "track": "idea",
+  "text": "William Gibson publishes Neuromancer. Its hero, a computer outlaw named Case, is hired to link a digital version of his mind into cyberspace. The novel wins the Hugo, Nebula and Philip K. Dick awards.",
+  "why": "Its picture of cyberspace shaped later cyberpunk fiction.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Gibson, William\"",
+   "url": "https://sf-encyclopedia.com/entry/gibson_william"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/William_Gibson_60th_birthday_portrait_%283x4_cropped%29.jpg/960px-William_Gibson_60th_birthday_portrait_%283x4_cropped%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:William_Gibson_60th_birthday_portrait_(3x4_cropped).jpg",
+   "credit": "Gonzo Bonzo, CC BY-SA 2.0",
+   "alt": "William Gibson on his 60th birthday in 2008."
+  }
+ },
+ {
   "year": 1984,
   "date": "1984-10-26",
   "track": "culture",
@@ -484,6 +644,45 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 1987,
+  "date": "1987",
+  "title": "Banks publishes Consider Phlebas, the first Culture novel",
+  "track": "idea",
+  "text": "Iain M. Banks publishes Consider Phlebas, the first Culture novel to appear. The Culture is a moneyless society in which intelligent machines help manage community affairs. The novel follows a mercenary fighting against it.",
+  "why": "It began a long series that pictures a future in which intelligent machines help run society.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Banks, Iain M\"",
+   "url": "https://sf-encyclopedia.com/entry/banks_iain_m"
+  },
+  "image": null
+ },
+ {
+  "year": 1987,
+  "date": "1987-07-17",
+  "title": "Verhoeven's RoboCop opens, about a police cyborg",
+  "track": "culture",
+  "text": "Paul Verhoeven's film RoboCop opens in Los Angeles and New York on July 17, 1987. A Detroit police officer who is killed on duty is rebuilt as a cyborg by a company that runs the city's privatized police. The film is a satire.",
+  "why": "It asks who owns a person whose body and memories a company has rebuilt.",
+  "source": {
+   "label": "AFI Catalog of Feature Films, \"RoboCop\" (1987)",
+   "url": "https://catalog.afi.com/Catalog/moviedetails/67061"
+  },
+  "image": null
+ },
+ {
+  "year": 1989,
+  "date": "1989-05",
+  "title": "Shirow begins the manga Ghost in the Shell",
+  "track": "culture",
+  "text": "Masamune Shirow's manga Ghost in the Shell begins serialization in Kodansha's Young Magazine in May 1989. In this cyberpunk police story, a security unit faces the Puppet Master, a bodiless AI that hacks into cybernetic minds.",
+  "why": "SFE calls it a central work for understanding Japanese science fiction of the 1990s.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Shirow, Masamune\"",
+   "url": "https://sf-encyclopedia.com/entry/shirow_masamune"
+  },
+  "image": null
  },
  {
   "year": 1993,
@@ -522,6 +721,19 @@
   }
  },
  {
+  "year": 1995,
+  "date": "1995",
+  "title": "Oshii directs the anime Ghost in the Shell",
+  "track": "culture",
+  "text": "Mamoru Oshii directs the animated film Ghost in the Shell, based on Masamune Shirow's manga. Major Kusanagi, a cyborg police officer, pursues the Puppet Master, who claims to be an AI that evolved from government programs.",
+  "why": "SFE calls it one of the 1990s' most influential anime, and it asks whether a computer can have a soul.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Ghost in the Shell\"",
+   "url": "https://sf-encyclopedia.com/entry/ghost_in_the_shell"
+  },
+  "image": null
+ },
+ {
   "year": 1997,
   "date": "1997",
   "track": "tech",
@@ -538,6 +750,19 @@
    "credit": "Daderot, CC0",
    "alt": "The Kismet robot head, with large eyes, eyebrows and lips, on display at the MIT Museum."
   }
+ },
+ {
+  "year": 1997,
+  "date": "1997",
+  "title": "Radiohead release OK Computer",
+  "track": "culture",
+  "text": "Radiohead release their third album, OK Computer, in 1997. The Encyclopedia of Science Fiction describes a dystopian vision of a bleak, mechanized world, and says the album's title came from The Hitch Hiker's Guide to the Galaxy.",
+  "why": "Thom Yorke later said it grew out of a sense of information overload.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Radiohead\"",
+   "url": "https://sf-encyclopedia.com/entry/radiohead"
+  },
+  "image": null
  },
  {
   "year": 1997,
@@ -603,6 +828,19 @@
  },
  {
   "year": 2001,
+  "date": "2001",
+  "title": "Daft Punk release Discovery, then Human After All",
+  "track": "culture",
+  "text": "The French duo Daft Punk, Thomas Bangalter and Guy-Manuel de Homem-Christo, release Discovery in 2001 and Human After All in 2005. They appear in public dressed as robots, and their music often uses heavily processed, robotic vocals.",
+  "why": "They made a robot persona part of popular dance music.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Daft Punk\"",
+   "url": "https://sf-encyclopedia.com/entry/daft_punk"
+  },
+  "image": null
+ },
+ {
+  "year": 2001,
   "date": "2001-06-29",
   "title": "Spielberg finishes Kubrick's A.I. project",
   "track": "culture",
@@ -634,6 +872,24 @@
  },
  {
   "year": 2004,
+  "date": "2004",
+  "title": "Moore and Eick remake Battlestar Galactica",
+  "track": "culture",
+  "text": "Ronald D. Moore and David Eick's new Battlestar Galactica begins as a 2003 miniseries, followed by a series that runs from 2004 to 2009. Machines called Cylons attack humanity again, but now some look human and can download their memories into new bodies.",
+  "why": "Cylons that look human led critics to ask what it means to be human.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Battlestar Galactica\"",
+   "url": "https://sf-encyclopedia.com/entry/battlestar_galactica"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ronald_D._Moore_at_LAcon_V_%28Worldcon_2026%29.jpg/960px-Ronald_D._Moore_at_LAcon_V_%28Worldcon_2026%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ronald_D._Moore_at_LAcon_V_(Worldcon_2026).jpg",
+   "credit": "Rosiestep, CC BY-SA 4.0",
+   "alt": "Ronald D. Moore at Worldcon 2026 in Anaheim, California."
+  }
+ },
+ {
+  "year": 2004,
   "date": "2004-07-16",
   "title": "Alex Proyas directs the film I, Robot",
   "track": "culture",
@@ -644,6 +900,24 @@
    "url": "https://sf-encyclopedia.com/entry/i_robot"
   },
   "image": null
+ },
+ {
+  "year": 2008,
+  "date": "2008-06-27",
+  "title": "Andrew Stanton's WALL-E opens, a robot love story",
+  "track": "culture",
+  "text": "Pixar's WALL-E, directed by Andrew Stanton, is released on June 27, 2008. A lonely trash-compacting robot on a ruined Earth meets a probe robot named EVE and follows her into space. The film tells much of its story without dialogue.",
+  "why": "The Library of Congress added it to the National Film Registry in 2021.",
+  "source": {
+   "label": "D23 (Disney), \"WALL•E (film)\"",
+   "url": "https://d23.com/?p=9617"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Andrew_Stanton_at_the_2026_Sundance_Film_Festival_for_In_the_Blink_of_an_Eye_%2801%29_%28cropped%29.jpg/960px-Andrew_Stanton_at_the_2026_Sundance_Film_Festival_for_In_the_Blink_of_an_Eye_%2801%29_%28cropped%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Andrew_Stanton_at_the_2026_Sundance_Film_Festival_for_In_the_Blink_of_an_Eye_(01)_(cropped).jpg",
+   "credit": "Sarah K Joyce, CC BY-SA 4.0",
+   "alt": "Andrew Stanton at the 2026 Sundance Film Festival."
+  }
  },
  {
   "year": 2009,
@@ -679,6 +953,24 @@
    "page": "https://commons.wikimedia.org/wiki/File:Fei-Fei_Li_at_AI_for_Good_2017.jpg",
    "credit": "ITU Pictures, CC BY 2.0",
    "alt": "Fei-Fei Li speaking at the AI for Good Global Summit in 2017."
+  }
+ },
+ {
+  "year": 2010,
+  "date": "2010",
+  "title": "Chiang publishes The Lifecycle of Software Objects",
+  "track": "idea",
+  "text": "Ted Chiang publishes the novella The Lifecycle of Software Objects. Two people spend years supervising digients, AIs made as pets for an online game. As the years pass, fashion makes the digients obsolete. It wins the Hugo and Locus awards.",
+  "why": "It follows AIs and the people who care for them as the years pass.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Chiang, Ted\"",
+   "url": "https://sf-encyclopedia.com/entry/chiang_ted"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chiang%2C_Ted_%28Portrait_by_Arturo_Villarrubia%29_%28cropped%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chiang,_Ted_(Portrait_by_Arturo_Villarrubia)_(cropped).jpg",
+   "credit": "Arturo Villarrubia, CC BY-SA 2.0",
+   "alt": "Portrait photograph of Ted Chiang."
   }
  },
  {
@@ -733,6 +1025,19 @@
   }
  },
  {
+  "year": 2011,
+  "date": "2011-12-04",
+  "title": "Charlie Brooker's Black Mirror begins on Channel 4",
+  "track": "culture",
+  "text": "Charlie Brooker's anthology series Black Mirror begins on Channel 4 on December 4, 2011, with three standalone stories. Brooker says the title refers to the cold, shiny screen of a TV, monitor or smartphone.",
+  "why": "Each episode asks what technology may do to the people who use it.",
+  "source": {
+   "label": "The Guardian, Charlie Brooker, \"the dark side of our gadget addiction\" (Dec. 1, 2011)",
+   "url": "https://www.theguardian.com/technology/2011/dec/01/charlie-brooker-dark-side-gadget-addiction-black-mirror"
+  },
+  "image": null
+ },
+ {
   "year": 2013,
   "date": "2013",
   "track": "culture",
@@ -749,6 +1054,19 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 2013,
+  "date": "2013",
+  "title": "Leckie publishes Ancillary Justice, a starship AI's story",
+  "track": "idea",
+  "text": "Ann Leckie publishes the space opera Ancillary Justice. Its narrator, Breq, was once part of a military unit of human bodies controlled by a starship AI. In 2014 it wins the Hugo, Nebula and Arthur C. Clarke awards.",
+  "why": "It features an AI with many bodies, and it uses \"she\" for every character.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Leckie, Ann\"",
+   "url": "https://sf-encyclopedia.com/entry/leckie_ann"
+  },
+  "image": null
  },
  {
   "year": 2013,
@@ -801,6 +1119,37 @@
   }
  },
  {
+  "year": 2014,
+  "date": "2014-09-10",
+  "title": "Jordan Harrison's Marjorie Prime opens in Los Angeles",
+  "track": "idea",
+  "text": "Jordan Harrison's play Marjorie Prime begins its run at the Mark Taper Forum in Los Angeles on September 10, 2014. A woman in end-of-life care speaks with a computer \"prime\" that stands in for her late husband.",
+  "why": "A prime is a computer that can stand in for a person after death.",
+  "source": {
+   "label": "American Theatre, \"Jordan Harrison Embraces Technology in Marjorie Prime\" (Aug. 7, 2014)",
+   "url": "https://americantheatre.org/2014/08/07/jordan-harrison-embraces-technology-in-marjorie-prime"
+  },
+  "image": null
+ },
+ {
+  "year": 2015,
+  "date": "2015-04-10",
+  "title": "Garland writes and directs Ex Machina",
+  "track": "culture",
+  "text": "Alex Garland's film Ex Machina, which he wrote and directed, reaches U.S. theaters on April 10, 2015, distributed by A24. A young programmer is chosen to evaluate the human qualities of a highly advanced humanoid AI.",
+  "why": "Garland said the film's anxiety is aimed more at the humans than at the AI.",
+  "source": {
+   "label": "The Christian Science Monitor, \"'Ex Machina' explores our complicated relationship with technology\" (Apr. 10, 2015)",
+   "url": "https://m.csmonitor.com/The-Culture/Culture-Cafe/2015/0410/Ex-Machina-explores-our-complicated-relationship-with-technology"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alex_Garland_in_2024.jpg/960px-Alex_Garland_in_2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Alex_Garland_in_2024.jpg",
+   "credit": "Jay Dixit, CC BY 4.0",
+   "alt": "Alex Garland at the 2024 South by Southwest premiere of Civil War."
+  }
+ },
+ {
   "year": 2016,
   "date": "2016-03",
   "track": "tech",
@@ -817,6 +1166,19 @@
    "credit": "Wesalius, CC BY-SA 4.0",
    "alt": "A Go board diagram of game 1 between Lee Sedol (black) and AlphaGo (white), with numbered stones showing the order of moves."
   }
+ },
+ {
+  "year": 2016,
+  "date": "2016-10-02",
+  "title": "Nolan and Joy's Westworld premieres on HBO",
+  "track": "culture",
+  "text": "HBO premieres Westworld on October 2, 2016. Jonathan Nolan and Lisa Joy created the series from Michael Crichton's 1973 film. It treats the park's lifelike robot \"hosts\" as its main characters and starts from their point of view.",
+  "why": "Its makers chose to start from the robots' point of view, not the human guests'.",
+  "source": {
+   "label": "TechCrunch, Anthony Ha, \"HBO's Westworld is the robotic cowboy headtrip that you didn't know you were waiting for\" (Oct. 2, 2016)",
+   "url": "https://techcrunch.com/2016/10/02/westworld-review/"
+  },
+  "image": null
  },
  {
   "year": 2017,
@@ -853,6 +1215,19 @@
    "credit": "Niccolò Caranti, CC BY-SA 4.0",
    "alt": "Joy Buolamwini speaking at Wikimania 2018 in Cape Town, South Africa."
   }
+ },
+ {
+  "year": 2018,
+  "date": "2018-05-25",
+  "title": "Quantic Dream releases Detroit: Become Human",
+  "track": "culture",
+  "text": "Quantic Dream, whose director is David Cage, releases Detroit: Become Human for PlayStation 4 on May 25, 2018. Players switch between three androids in a near-future Detroit, and their choices shape the story.",
+  "why": "Scholars read it as a story about android rights, with the player's choices deciding the outcome.",
+  "source": {
+   "label": "PlayStation.Blog, \"Detroit: Become Human, David Cage on Creating the Perfect Android\" (June 22, 2017); release date from OpenCritic",
+   "url": "https://blog.playstation.com/?p=192345"
+  },
+  "image": null
  },
  {
   "year": 2018,
