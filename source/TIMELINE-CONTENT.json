@@ -1856,6 +1856,24 @@
  },
  {
   "year": 2010,
+  "date": "2010-07-22",
+  "title": "Victor Mair posted \"Character Amnesia\" on Language Log",
+  "track": "idea",
+  "text": "In a July 22, 2010 Language Log post titled \"Character Amnesia,\" Victor Mair described literate Chinese speakers who could no longer write characters by hand. He later said it was, as far as he knew, his first use of the term in print.",
+  "why": "Mair tied lost handwriting recall to digital devices; Almog (2019) calls most of the evidence for alarm unreliable or invalid.",
+  "source": {
+   "label": "Language Log, Victor Mair, \"Character Amnesia\" (July 22, 2010)",
+   "url": "https://languagelog.ldc.upenn.edu/nll/?p=2473"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tibiwangzi.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Tibiwangzi.png",
+   "credit": "C.Nilsson (2013), CC BY-SA 3.0",
+   "alt": "Screenshot of a Linux pinyin input window. The typed letters ti bi wang bring up candidate characters, with the four-character phrase tibiwangzi, 提笔忘字, shown at the top."
+  }
+ },
+ {
+  "year": 2010,
   "date": "2010-09-30",
   "title": "Hirata and Ishiguro premiere Sayonara with an android",
   "track": "idea",
@@ -2102,6 +2120,19 @@
    "credit": "Laura Poitras / Praxis Films, CC BY 3.0",
    "alt": "Edward Snowden during an interview in a Hong Kong hotel in June 2013, first published in The Guardian."
   }
+ },
+ {
+  "year": 2013,
+  "date": "2013-08",
+  "title": "Chinese Characters Dictation Competition debuts on CCTV",
+  "track": "society",
+  "text": "In August 2013, CCTV launched a contest in which students wrote characters by hand after hearing them. The South China Morning Post reported that 70 percent of adults could not write \"toad\" correctly. Victor Mair linked the contest to character amnesia.",
+  "why": "Raymond Zhou, in China Daily, called the decline sad and irreversible but saw gains in efficiency.",
+  "source": {
+   "label": "South China Morning Post, Mandy Zuo, \"Command of written Chinese declines in digital era\" (Aug. 20, 2013)",
+   "url": "https://www.scmp.com/news/china/article/1297946/command-written-chinese-declines-rise-pinyin-input-devices"
+  },
+  "image": null
  },
  {
   "year": 2013,
