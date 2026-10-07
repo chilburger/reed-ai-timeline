@@ -1482,6 +1482,24 @@
   "image": null
  },
  {
+  "year": 1998,
+  "date": "1998-04",
+  "title": "Brin and Page present Google and PageRank",
+  "track": "tech",
+  "text": "Sergey Brin and Larry Page, computer scientists at Stanford, describe Google, a search engine that ranks pages partly by which other pages link to them. They call this score PageRank. The paper appears in Computer Networks in 1998.",
+  "why": "In the full version, Brin and Page predict that advertising-funded search engines will be biased toward advertisers.",
+  "source": {
+   "label": "Brin & Page (1998), Computer Networks and ISDN Systems 30, 107-117",
+   "url": "https://doi.org/10.1016/S0169-7552(98)00110-X"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PageRanks-Example.svg/960px-PageRanks-Example.svg.png",
+   "page": "https://commons.wikimedia.org/wiki/File:PageRanks-Example.svg",
+   "credit": "en:User:345Kai, User:Stannered, Public domain",
+   "alt": "A small network of eleven circles joined by arrows, each circle sized and labeled with its PageRank percentage."
+  }
+ },
+ {
   "year": 1999,
   "date": "1999-03-31",
   "title": "The Wachowskis write and direct The Matrix",
@@ -1657,6 +1675,32 @@
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Watts, Peter\"",
    "url": "https://sf-encyclopedia.com/entry/watts_peter"
+  },
+  "image": null
+ },
+ {
+  "year": 2006,
+  "date": "2006-10",
+  "title": "Netflix offers $1 million to improve recommendations",
+  "track": "tech",
+  "text": "In October 2006 Netflix releases 100 million anonymous movie ratings and offers $1 million to any team that beats its own recommendation system by 10 percent. In September 2009 the team BellKor's Pragmatic Chaos wins the prize.",
+  "why": "Netflix later cancelled a planned second contest after a lawsuit.",
+  "source": {
+   "label": "Netflix press release, Sept. 21, 2009 (copy on vizio.com)",
+   "url": "https://www.vizio.com/en/press/2009/sep/NetflixAwards1MillionNetflixPrizeandAnnouncesSecond1MillionChallenge"
+  },
+  "image": null
+ },
+ {
+  "year": 2006,
+  "date": "2006-10",
+  "title": "Narayanan and Shmatikov re-identify Netflix Prize users",
+  "track": "society",
+  "text": "Arvind Narayanan and Vitaly Shmatikov show that people can be picked out of Netflix's \"anonymous\" ratings by matching them with public Internet Movie Database ratings. In 2010 Netflix cancels a planned second contest after a lawsuit and an FTC inquiry.",
+  "why": "The authors report that removing names did not stop them from matching ratings to public IMDb ratings.",
+  "source": {
+   "label": "Narayanan & Shmatikov, \"How To Break Anonymity of the Netflix Prize Dataset,\" arXiv:cs/0610105",
+   "url": "https://arxiv.org/abs/cs/0610105"
   },
   "image": null
  },
@@ -1940,6 +1984,19 @@
   "image": null
  },
  {
+  "year": 2012,
+  "date": "2012-02-16",
+  "title": "Duhigg reports Target scores shoppers for pregnancy",
+  "track": "society",
+  "text": "In the New York Times Magazine, Charles Duhigg describes how Target statistician Andrew Pole used about 25 products to score shoppers on likely pregnancy. A Target employee tells of a father angry about baby coupons sent to his teenage daughter.",
+  "why": "Eric Siegel later wrote that Duhigg implied, but did not show, that the model identified the teenager.",
+  "source": {
+   "label": "Duhigg, \"How Companies Learn Your Secrets,\" New York Times Magazine, Feb. 16, 2012 (print Feb. 19)",
+   "url": "https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html"
+  },
+  "image": null
+ },
+ {
   "year": 2013,
   "date": "2013",
   "track": "culture",
@@ -1998,6 +2055,24 @@
  },
  {
   "year": 2013,
+  "date": "2013-03",
+  "title": "Mayer-Schönberger and Cukier publish Big Data",
+  "track": "idea",
+  "text": "Viktor Mayer-Schönberger and Kenneth Cukier publish Big Data. They argue that analyzing very large datasets lets people find useful patterns, and that knowing what is correlated can matter more than knowing why.",
+  "why": "danah boyd and Kate Crawford questioned big data claims in 2012, and David Lazer and colleagues questioned them in 2014.",
+  "source": {
+   "label": "Cukier & Mayer-Schoenberger, \"The Rise of Big Data,\" Foreign Affairs, May/June 2013 (adapted from the book)",
+   "url": "https://www.foreignaffairs.com/articles/2013-04-03/rise-big-data"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Viktor_Mayer-Sch%C3%B6nberger_%28cropped%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Viktor_Mayer-Schönberger_(cropped).jpg",
+   "credit": "Chatham House, CC BY 2.0",
+   "alt": "Viktor Mayer-Schönberger, professor at the Oxford Internet Institute, at a Chatham House event in 2013."
+  }
+ },
+ {
+  "year": 2013,
   "date": "2013-05",
   "title": "Steve Aoki's \"Singularity\" features Ray Kurzweil",
   "track": "culture",
@@ -2009,6 +2084,24 @@
   },
   "image": null,
   "keep": true
+ },
+ {
+  "year": 2013,
+  "date": "2013-06-05",
+  "title": "Guardian publishes Snowden leaks on NSA data collection",
+  "track": "society",
+  "text": "The Guardian reports a secret court order requiring Verizon to give the NSA call records of millions of customers. The documents come from Edward Snowden, an NSA contractor. The U.S. government says the program is legal and useful.",
+  "why": "In 2014 a Privacy and Civil Liberties Oversight Board majority said the program lacked a viable legal foundation.",
+  "source": {
+   "label": "Greenwald, \"NSA collecting phone records of millions of Verizon customers daily,\" The Guardian",
+   "url": "https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Edward_Snowden-2.jpg",
+   "credit": "Laura Poitras / Praxis Films, CC BY 3.0",
+   "alt": "Edward Snowden during an interview in a Hong Kong hotel in June 2013, first published in The Guardian."
+  }
  },
  {
   "year": 2013,
@@ -2040,6 +2133,19 @@
    "credit": "Ian Goodfellow, CC BY-SA 4.0",
    "alt": "Ian Goodfellow in Mountain View, California, in 2017."
   }
+ },
+ {
+  "year": 2014,
+  "date": "2014-06-02",
+  "title": "Kramer, Guillory and Hancock publish Facebook mood study",
+  "track": "society",
+  "text": "Researchers at Facebook and Cornell report an experiment on 689,003 Facebook users in 2012. Reducing positive or negative posts in News Feeds slightly shifted the emotional words in users' own posts. PNAS editor Inder Verma later expressed concern about informed consent.",
+  "why": "The authors say Facebook's Data Use Policy, which users accept at sign-up, constitutes informed consent for the research.",
+  "source": {
+   "label": "Kramer, Guillory & Hancock (2014), PNAS 111(24), 8788-8790",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4066473/"
+  },
+  "image": null
  },
  {
   "year": 2014,
@@ -2188,6 +2294,19 @@
  },
  {
   "year": 2016,
+  "date": "2016-05-23",
+  "title": "ProPublica reports racial bias in COMPAS risk scores",
+  "track": "society",
+  "text": "ProPublica reports that COMPAS, a risk-score tool made by Northpointe, wrongly labeled Black defendants in Broward County, Florida as higher risk almost twice as often as white defendants. Northpointe disputes the analysis.",
+  "why": "Kleinberg, Mullainathan and Raghavan show that, except in highly constrained special cases, no method meets three fairness conditions at once.",
+  "source": {
+   "label": "Angwin, Larson, Mattu & Kirchner, \"Machine Bias,\" ProPublica, May 23, 2016",
+   "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+  },
+  "image": null
+ },
+ {
+  "year": 2016,
   "date": "2016-06-09",
   "title": "Sharp and Goodwin release Sunspring, an AI-scripted short",
   "track": "culture",
@@ -2198,6 +2317,24 @@
    "url": "https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/"
   },
   "image": null
+ },
+ {
+  "year": 2016,
+  "date": "2016-09-06",
+  "title": "Cathy O'Neil publishes Weapons of Math Destruction",
+  "track": "idea",
+  "text": "Mathematician Cathy O'Neil argues that some algorithms, which she calls weapons of math destruction, are hard to see or question, affect many people and cause harm. Her examples include teacher scoring, credit scores and sentencing models.",
+  "why": "Kleinberg, Ludwig, Mullainathan and Sunstein wrote in 2019 that algorithms, with safeguards, can be a positive force for equity.",
+  "source": {
+   "label": "Penguin Random House, Weapons of Math Destruction (publisher page)",
+   "url": "https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cathy_O%27Neil_at_Google_Cambridge.jpg/960px-Cathy_O%27Neil_at_Google_Cambridge.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cathy_O'Neil_at_Google_Cambridge.jpg",
+   "credit": "GRuban, CC BY-SA 4.0",
+   "alt": "Cathy O'Neil, American mathematician and author, speaking at Google Cambridge in 2016 about her book."
+  }
  },
  {
   "year": 2016,
@@ -2307,6 +2444,37 @@
  },
  {
   "year": 2018,
+  "date": "2018-02",
+  "title": "Safiya Noble publishes Algorithms of Oppression",
+  "track": "idea",
+  "text": "Safiya Umoja Noble argues that search engines are not neutral. She shows that Google results for terms like \"black girls\" returned pornographic content, and she links this to advertising and to the market power of a few companies.",
+  "why": "Noble argues that search ranking can reflect and spread social bias.",
+  "source": {
+   "label": "NYU Press, Algorithms of Oppression (publisher page)",
+   "url": "https://nyupress.org/9781479837243/algorithms-of-oppression/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Re_publica_18_-_Day_1_%2826984263637%29_%28cropped%29.jpg/960px-Re_publica_18_-_Day_1_%2826984263637%29_%28cropped%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Re_publica_18_-_Day_1_(26984263637)_(cropped).jpg",
+   "credit": "re:publica from Germany, CC BY-SA 2.0",
+   "alt": "Safiya Umoja Noble speaking at the re:publica conference in Berlin, May 2018."
+  }
+ },
+ {
+  "year": 2018,
+  "date": "2018-03-17",
+  "title": "Observer reveals Cambridge Analytica's use of Facebook data",
+  "track": "society",
+  "text": "The Observer reports that Cambridge Analytica obtained data on more than 50 million Facebook profiles. Facebook says the app developer gained access legitimately but broke its rules by passing the data on, and says it was not a data breach.",
+  "why": "Margaret Hu notes a record $5 billion Federal Trade Commission penalty against Facebook in 2019.",
+  "source": {
+   "label": "Cadwalladr & Graham-Harrison, \"Revealed: 50 million Facebook profiles harvested for Cambridge Analytica,\" The Guardian/Observer",
+   "url": "https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election"
+  },
+  "image": null
+ },
+ {
+  "year": 2018,
   "date": "2018-05-25",
   "title": "Quantic Dream releases Detroit: Become Human",
   "track": "culture",
@@ -2315,6 +2483,32 @@
   "source": {
    "label": "PlayStation.Blog, \"Detroit: Become Human, David Cage on Creating the Perfect Android\" (June 22, 2017); release date from OpenCritic",
    "url": "https://blog.playstation.com/?p=192345"
+  },
+  "image": null
+ },
+ {
+  "year": 2018,
+  "date": "2018-05-25",
+  "title": "EU General Data Protection Regulation takes effect",
+  "track": "society",
+  "text": "The European Union's General Data Protection Regulation begins to apply. It gives people rights over their personal data and limits decisions made only by automated processing, such as profiling. Scholars disagree about how much explanation of such decisions people can demand.",
+  "why": "Companies serving European customers had to follow it; Frey and Presidente report lower profits for technology firms, mainly smaller ones.",
+  "source": {
+   "label": "GDPR Article 99, \"Entry into force and application\" (unofficial copy at gdpr-info.eu)",
+   "url": "https://gdpr-info.eu/art-99-gdpr/"
+  },
+  "image": null
+ },
+ {
+  "year": 2018,
+  "date": "2018-10-10",
+  "title": "Reuters reports Amazon dropped a biased hiring tool",
+  "track": "society",
+  "text": "Reuters, citing five people familiar with the effort, reports that Amazon built an experimental tool to score job applicants' résumés. The system learned from ten years of mostly male résumés and penalized the word \"women's.\" Amazon says recruiters never used it to evaluate candidates.",
+  "why": "Reuters reports that a model trained on past hiring repeated past bias.",
+  "source": {
+   "label": "Dastin, \"Amazon scraps secret AI recruiting tool that showed bias against women,\" Reuters, Oct. 10, 2018",
+   "url": "https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G/"
   },
   "image": null
  },
@@ -2382,6 +2576,24 @@
  },
  {
   "year": 2019,
+  "date": "2019-01-15",
+  "title": "Shoshana Zuboff publishes The Age of Surveillance Capitalism",
+  "track": "idea",
+  "text": "Shoshana Zuboff argues that some technology companies collect data about human behavior, turn it into predictions and sell those predictions to others. She calls this surveillance capitalism and says it undermines democracy.",
+  "why": "Evgeny Morozov wrote in 2019 that Zuboff does not weigh rival frameworks.",
+  "source": {
+   "label": "PublicAffairs, The Age of Surveillance Capitalism (publisher page)",
+   "url": "https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg/960px-Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg",
+   "credit": "Alexander von Humboldt Institut for internet and society, CC BY 3.0",
+   "alt": "Shoshana Zuboff speaking at the Alexander von Humboldt Institute for Internet and Society in Berlin, November 2019."
+  }
+ },
+ {
+  "year": 2019,
   "date": "2019-03-06",
   "title": "Mario Klingemann's AI portraits go to Sotheby's",
   "track": "culture",
@@ -2431,6 +2643,24 @@
    "url": "https://www.dezeen.com/2019/05/16/barbican-ai-more-than-human-exhibition/"
   },
   "image": null
+ },
+ {
+  "year": 2019,
+  "date": "2019-06",
+  "title": "Ruha Benjamin publishes Race After Technology",
+  "track": "idea",
+  "text": "Princeton professor Ruha Benjamin argues that new technologies can hide or deepen racial discrimination while seeming neutral. She calls this the \"New Jim Code\" and describes designs that amplify bias, ignore it while replicating it, or try to fix it and do the opposite.",
+  "why": "Kleinberg, Ludwig, Mullainathan and Sunstein wrote in 2019 that algorithms can make discrimination easier to detect, given safeguards.",
+  "source": {
+   "label": "Reed catalog record, Race After Technology (Polity, 2019; publisher summary)",
+   "url": "https://suny-fre.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9912826225104830&context=L&vid=01SUNY_FRE:01SUNY_FRE"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ruha_Benjamin%2C_Databite_124%2C_2019_%28cropped%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ruha_Benjamin,_Databite_124,_2019_(cropped).jpg",
+   "credit": "Data & Society Research Institute, CC BY 3.0",
+   "alt": "Princeton professor Ruha Benjamin presenting at the Data & Society Research Institute's Databites series in 2019."
+  }
  },
  {
   "year": 2019,
