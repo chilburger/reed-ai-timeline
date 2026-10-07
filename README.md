@@ -23,4 +23,13 @@ Keyboard and screen reader support, reduced motion, captions and transcript note
 
 ## Credits and licenses
 
-Images come from Wikimedia Commons; each card credits its image and license. Quotes are short, attributed, and linked to their sources. A license for this project's own code and text has not been chosen yet.
+Images come from Wikimedia Commons; each card credits its image and license. Quotes are short, attributed, and linked to their sources.
+
+- Code: MIT License (`LICENSE`).
+- Milestone text and data: CC BY 4.0 (`LICENSE-CONTENT.md`).
+
+Both are free to reuse with credit.
+
+## Services for other libraries
+
+The timeline is free to reuse under the licenses above. Reed Library plans to offer services at cost-recovery rates, tiered by institution (SUNY campuses lowest, then other public institutions, then private institutions): hosting on Reed's network, a campus's own collection and catalog links, new subject timelines, and training and support. Contributions help sustain the work and the librarians who curate it. Details to come.
