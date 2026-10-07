@@ -1,0 +1,3308 @@
+{
+  "Apollonius of Rhodes writes of bronze Talos": [
+    {
+      "qid": "Q739529",
+      "label": "Argonautica",
+      "description": "poem by Apollonius Rhodius that tells the epic journey of the Argonauts",
+      "role": "work",
+      "lc": "n80008540",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q657174",
+      "label": "Talos",
+      "description": "mythological bronze automaton guarding Crete",
+      "role": "thing",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Mythological automaton; no date in Wikidata; no LC ID on the item"
+    }
+  ],
+  "Liezi's text tells of Yan Shi's automaton": [
+    {
+      "qid": "Q434429",
+      "label": "Liezi",
+      "description": "classic book of Chinese philosophy",
+      "role": "work",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Wikidata has no date; the card itself says the text's date is uncertain"
+    }
+  ],
+  "Al-Khwarizmi's name gives us \"algorithm\"": [
+    {
+      "qid": "Q9038",
+      "label": "Muḥammad ibn Musa al-Khwarizmi",
+      "description": "9th-century Persian mathematician and astronomer",
+      "role": "person",
+      "lc": "n84020660",
+      "confidence": "high"
+    }
+  ],
+  "Al-Jazari's book of ingenious machines": [
+    {
+      "qid": "Q102112338",
+      "label": "The Book of Knowledge of Ingenious Mechanical Devices",
+      "description": "manuscript by al-Jazari",
+      "role": "work",
+      "lc": "n80012432",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q81627",
+      "label": "al-Jazari",
+      "description": "mathematician and engineer from Jazira, Artuqid State (1164–1206)",
+      "role": "person",
+      "lc": "n80013610",
+      "confidence": "high"
+    }
+  ],
+  "Pascal builds the Pascaline": [
+    {
+      "qid": "Q873501",
+      "label": "Pascal's calculator",
+      "description": "mechanical calculator",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q1290",
+      "label": "Blaise Pascal",
+      "description": "French mathematician, physicist, inventor, writer, and Christian philosopher (1623-1662)",
+      "role": "person",
+      "lc": "n79084279",
+      "confidence": "high"
+    }
+  ],
+  "Von Kempelen unveils the Mechanical Turk chess automaton": [
+    {
+      "qid": "Q275924",
+      "label": "The Turk",
+      "description": "chess automaton hoax",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high",
+      "note": "Wikidata inception 1769; card unveils it 1770"
+    },
+    {
+      "qid": "Q252041",
+      "label": "Wolfgang von Kempelen",
+      "description": "Austrian dramatic, graphic, constructer, linguist, painter, writer, inventor and nobleman (1734-1804)",
+      "role": "person",
+      "lc": "nr91009922",
+      "confidence": "high"
+    }
+  ],
+  "Hoffmann publishes The Sandman, with its automaton Olympia": [
+    {
+      "qid": "Q798227",
+      "label": "The Sandman",
+      "description": "short story by E.T.A. Hoffmann",
+      "role": "work",
+      "lc": "no97072993",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q150471",
+      "label": "E. T. A. Hoffmann",
+      "description": "German writer (1776-1822)",
+      "role": "person",
+      "lc": "n80075856",
+      "confidence": "high"
+    }
+  ],
+  "Shelley publishes Frankenstein": [
+    {
+      "qid": "Q150827",
+      "label": "Frankenstein; or, The Modern Prometheus",
+      "description": "1818 novel by Mary Shelley",
+      "role": "work",
+      "lc": "n84007242",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q47152",
+      "label": "Mary Shelley",
+      "description": "English writer (1797–1851)",
+      "role": "person",
+      "lc": "n79061063",
+      "confidence": "high"
+    }
+  ],
+  "Babbage designs the Analytical Engine": [
+    {
+      "qid": "Q485257",
+      "label": "analytical engine",
+      "description": "proposed mechanical general-purpose computer, designed by Charles Babbage",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q46633",
+      "label": "Charles Babbage",
+      "description": "English mathematician, philosopher, and engineer (1791–1871)",
+      "role": "person",
+      "lc": "n50031102",
+      "confidence": "high"
+    }
+  ],
+  "Auerbach and other writers print the Prague Golem": [
+    {
+      "qid": "Q215085",
+      "label": "golem",
+      "description": "animated anthropomorphic being in Jewish folklore",
+      "role": "thing",
+      "lc": "sh85055800",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q76715",
+      "label": "Berthold Auerbach",
+      "description": "German author (1812–1882)",
+      "role": "person",
+      "lc": "n85017032",
+      "confidence": "high"
+    }
+  ],
+  "Lovelace says the engine cannot originate anything": [
+    {
+      "qid": "Q7259",
+      "label": "Ada Lovelace",
+      "description": "English mathematician (1815–1852)",
+      "role": "person",
+      "lc": "n78030997",
+      "confidence": "high"
+    }
+  ],
+  "Butler publishes Erewhon, a land that banned machines": [
+    {
+      "qid": "Q1350048",
+      "label": "Erewhon",
+      "description": "1872 novel by Samuel Butler",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q312829",
+      "label": "Samuel Butler",
+      "description": "English novelist and critic (1835–1902)",
+      "role": "person",
+      "lc": "n79056643",
+      "confidence": "high"
+    }
+  ],
+  "Carlo Collodi publishes The Adventures of Pinocchio": [
+    {
+      "qid": "Q8065468",
+      "label": "The Adventures of Pinocchio",
+      "description": "1883 novel by Carlo Collodi",
+      "role": "work",
+      "lc": "n83121651",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q199588",
+      "label": "Carlo Collodi",
+      "description": "Italian writer (1826–1890)",
+      "role": "person",
+      "lc": "n79063096",
+      "confidence": "high"
+    }
+  ],
+  "Villiers de l'Isle-Adam publishes L'Ève future": [
+    {
+      "qid": "Q2411636",
+      "label": "The Future Eve",
+      "description": "1886 novel by Auguste Villiers de L'Isle-Adam",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q366285",
+      "label": "Auguste Villiers de l'Isle-Adam",
+      "description": "French writer (1838–1889)",
+      "role": "person",
+      "lc": "n79072911",
+      "confidence": "high"
+    }
+  ],
+  "Forster publishes the story The Machine Stops": [
+    {
+      "qid": "Q287448",
+      "label": "The Machine Stops",
+      "description": "1909 E.M. Forster science fiction short story",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q189119",
+      "label": "E. M. Forster",
+      "description": "English novelist (1879-1970)",
+      "role": "person",
+      "lc": "n79091231",
+      "confidence": "high"
+    }
+  ],
+  "Horacio Quiroga serializes El hombre artificial": [
+    {
+      "qid": "Q16864",
+      "label": "Horacio Quiroga",
+      "description": "Uruguayan playwright, poet, and short story writer (1878–1937)",
+      "role": "person",
+      "lc": "n81059872",
+      "confidence": "high",
+      "note": "No Wikidata item found for the novella itself"
+    }
+  ],
+  "R.U.R. gives us the word \"robot\"": [
+    {
+      "qid": "Q1164094",
+      "label": "R.U.R.",
+      "description": "1920 Czech play by Karel Čapek which introduced the word \"robot\"",
+      "role": "work",
+      "lc": "no2014165645",
+      "confidence": "high",
+      "lc_all": [
+        "no2014165645",
+        "n2002030503"
+      ]
+    },
+    {
+      "qid": "Q155855",
+      "label": "Karel Čapek",
+      "description": "Czech writer (1890–1938)",
+      "role": "person",
+      "lc": "n50035042",
+      "confidence": "high"
+    }
+  ],
+  "Metropolis puts a robot on screen": [
+    {
+      "qid": "Q151599",
+      "label": "Metropolis",
+      "description": "1927 German science fiction film directed by Fritz Lang",
+      "role": "work",
+      "lc": "n91033510",
+      "confidence": "high"
+    }
+  ],
+  "Lester del Rey publishes Helen O'Loy": [
+    {
+      "qid": "Q5702922",
+      "label": "Helen O'Loy",
+      "description": "short story by Lester del Rey",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q684748",
+      "label": "Lester del Rey",
+      "description": "American science fiction author (1915–1993)",
+      "role": "person",
+      "lc": "n79023308",
+      "confidence": "high"
+    }
+  ],
+  "Bioy Casares publishes The Invention of Morel": [
+    {
+      "qid": "Q2563052",
+      "label": "The Invention of Morel",
+      "description": "novel by Adolfo Bioy Casares",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q298035",
+      "label": "Adolfo Bioy Casares",
+      "description": "Argentine novelist (1914-1999)",
+      "role": "person",
+      "lc": "n79069837",
+      "confidence": "high"
+    }
+  ],
+  "Asimov's Three Laws of Robotics": [
+    {
+      "qid": "Q23758",
+      "label": "Three Laws of Robotics",
+      "description": "set of rules devised by the science fiction author Isaac Asimov",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q34981",
+      "label": "Isaac Asimov",
+      "description": "American writer and biochemist (1920–1992)",
+      "role": "person",
+      "lc": "n80126289",
+      "confidence": "high",
+      "lc_all": [
+        "n80126289",
+        "nb90003414"
+      ]
+    }
+  ],
+  "McCulloch and Pitts model the neuron": [
+    {
+      "qid": "Q962174",
+      "label": "Warren Sturgis McCulloch",
+      "description": "American neuroscientist (1898–1969)",
+      "role": "person",
+      "lc": "n88016252",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q705010",
+      "label": "Walter Pitts",
+      "description": "American logician and computational neuroscientist (1923-1969)",
+      "role": "person",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "C. L. Moore publishes No Woman Born": [
+    {
+      "qid": "Q110010646",
+      "label": "No Woman Born",
+      "description": "American 1994 science fiction story",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q242530",
+      "label": "Catherine Lucile Moore",
+      "description": "American author (1911-1987)",
+      "role": "person",
+      "lc": "n50028286",
+      "confidence": "high"
+    }
+  ],
+  "Murray Leinster publishes A Logic Named Joe": [
+    {
+      "qid": "Q4657896",
+      "label": "A Logic Named Joe",
+      "description": "1946 short story by Murray Leinster",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q550449",
+      "label": "Murray Leinster",
+      "description": "novelist, short story writer (1896–1975)",
+      "role": "person",
+      "lc": "n81083061",
+      "confidence": "high"
+    }
+  ],
+  "Jack Williamson publishes With Folded Hands": [
+    {
+      "qid": "Q6675460",
+      "label": "With Folded Hands ...",
+      "description": "1947 novelette by Jack Williamson",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q316788",
+      "label": "Jack Williamson",
+      "description": "American science fiction writer (1908–2006)",
+      "role": "person",
+      "lc": "n79027136",
+      "confidence": "high"
+    }
+  ],
+  "Turing proposes the imitation game": [
+    {
+      "qid": "Q772056",
+      "label": "Computing Machinery and Intelligence",
+      "description": "1950 article by Alan Turing on artificial intelligence that introduced the Turing test",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q189223",
+      "label": "Turing test",
+      "description": "test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human",
+      "role": "thing",
+      "lc": "sh93008808",
+      "confidence": "high"
+    }
+  ],
+  "Wise directs The Day the Earth Stood Still": [
+    {
+      "qid": "Q425992",
+      "label": "The Day the Earth Stood Still",
+      "description": "1951 US science fiction horror film directed by Robert Wise",
+      "role": "work",
+      "lc": "no2008080566",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q59821",
+      "label": "Robert Wise",
+      "description": "American film director, film producer and film editor (1914–2005)",
+      "role": "person",
+      "lc": "n85344558",
+      "confidence": "high"
+    }
+  ],
+  "Grace Hopper builds the A-0 compiler": [
+    {
+      "qid": "Q277713",
+      "label": "A-0 System",
+      "description": "programming language",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q11641",
+      "label": "Grace Hopper",
+      "description": "American computer scientist and United States Navy officer (1906–1992)",
+      "role": "person",
+      "lc": "n83175996",
+      "confidence": "high"
+    }
+  ],
+  "Tezuka begins the manga Astro Boy": [
+    {
+      "qid": "Q673036",
+      "label": "Astro Boy",
+      "description": "Japanese manga series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q193300",
+      "label": "Osamu Tezuka",
+      "description": "Japanese cartoonist and animator (1928–1989)",
+      "role": "person",
+      "lc": "n84050367",
+      "confidence": "high"
+    }
+  ],
+  "The term \"artificial intelligence\" is coined": [
+    {
+      "qid": "Q11660",
+      "label": "artificial intelligence",
+      "description": "field that develops and studies software enabling machines to exhibit intelligent behavior",
+      "role": "thing",
+      "lc": "sh85008180",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q92739",
+      "label": "John McCarthy",
+      "description": "American computer scientist and cognitive scientist (1927-2011)",
+      "role": "person",
+      "lc": "n82098492",
+      "confidence": "high"
+    }
+  ],
+  "Fred Wilcox's Forbidden Planet introduces Robby the Robot": [
+    {
+      "qid": "Q1331230",
+      "label": "Forbidden Planet",
+      "description": "1956 science fiction movie directed by Fred M. Wilcox",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q2277376",
+      "label": "Robby the Robot",
+      "description": "fictional character and science fiction icon who first appeared in the 1956 film Forbidden Planet",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Hiller and Isaacson's Illiac Suite: a computer-composed score": [
+    {
+      "qid": "Q17096290",
+      "label": "Illiac Suite",
+      "description": "1957 electronic music composition",
+      "role": "work",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Wikidata dates the composition 1957; the card's premiere is 1956"
+    },
+    {
+      "qid": "Q899159",
+      "label": "Lejaren Hiller",
+      "description": "American composer, music theorist and chemist",
+      "role": "person",
+      "lc": "n81132097",
+      "confidence": "high"
+    }
+  ],
+  "Isaac Asimov publishes The Last Question": [
+    {
+      "qid": "Q979311",
+      "label": "The Last Question",
+      "description": "short story by Isaac Asimov first published in 1956",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q34981",
+      "label": "Isaac Asimov",
+      "description": "American writer and biochemist (1920–1992)",
+      "role": "person",
+      "lc": "n80126289",
+      "confidence": "high",
+      "lc_all": [
+        "n80126289",
+        "nb90003414"
+      ]
+    }
+  ],
+  "Serling's Twilight Zone stages robots in two episodes": [
+    {
+      "qid": "Q742103",
+      "label": "The Twilight Zone",
+      "description": "American TV anthology series (1959–1964)",
+      "role": "work",
+      "lc": "n83200033",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q435920",
+      "label": "Rod Serling",
+      "description": "American screenwriter (1924–1975)",
+      "role": "person",
+      "lc": "n83200032",
+      "confidence": "high"
+    }
+  ],
+  "Wiener warns about the goals given to machines": [
+    {
+      "qid": "Q178577",
+      "label": "Norbert Wiener",
+      "description": "American mathematician, scientist in cybernetics and artificial intelligence (1894–1964)",
+      "role": "person",
+      "lc": "n50016209",
+      "confidence": "high"
+    }
+  ],
+  "Mathews, Kelly and Lochbaum make a computer sing": [
+    {
+      "qid": "Q3268487",
+      "label": "Daisy Bell",
+      "description": "song written and composed by Harry Dacre",
+      "role": "work",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Song item has no date in Wikidata; the card is about the 1961 recording"
+    },
+    {
+      "qid": "Q2587669",
+      "label": "Max Mathews",
+      "description": "American pioneer in computer music",
+      "role": "person",
+      "lc": "n88137591",
+      "confidence": "high"
+    }
+  ],
+  "Satyajit Ray begins the Professor Shonku stories": [
+    {
+      "qid": "Q5228311",
+      "label": "Professor Shonku",
+      "description": "fictional Indian inventor",
+      "role": "thing",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Fictional-character item; Wikidata's 1911 is the character's birth year, not comparable"
+    },
+    {
+      "qid": "Q8873",
+      "label": "Satyajit Ray",
+      "description": "Indian filmmaker and writer (1921–1992)",
+      "role": "person",
+      "lc": "n80002447",
+      "confidence": "high"
+    }
+  ],
+  "The Jetsons introduce Rosey the robot": [
+    {
+      "qid": "Q457409",
+      "label": "The Jetsons",
+      "description": "American animated sit-com (1962–1987)",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q108657408",
+      "label": "Rosie the Robot",
+      "description": "fictional character from The Jetsons animated sitcom",
+      "role": "thing",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Wikidata spells the character Rosie; no date"
+    }
+  ],
+  "Nam June Paik and Shuya Abe's Robot K-456": [
+    {
+      "qid": "Q158056",
+      "label": "Nam June Paik",
+      "description": "American video art pioneer (1932–2006)",
+      "role": "person",
+      "lc": "n81089468",
+      "confidence": "high",
+      "note": "No Wikidata item found for Robot K-456"
+    }
+  ],
+  "Ishinomori's Cyborg 009 manga turns captives into cyborgs": [
+    {
+      "qid": "Q1070661",
+      "label": "Cyborg 009",
+      "description": "Japanese manga series by Shōtarō Ishinomori",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q471103",
+      "label": "Shōtarō Ishinomori",
+      "description": "Japanese manga artist (1938–1998)",
+      "role": "person",
+      "lc": "n87903772",
+      "confidence": "high"
+    }
+  ],
+  "DENDRAL, an early expert system": [
+    {
+      "qid": "Q3022317",
+      "label": "Dendral",
+      "description": "1960s artificial intelligence project",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "I. J. Good's \"intelligence explosion\"": [
+    {
+      "qid": "Q224372",
+      "label": "I. J. Good",
+      "description": "British statistician and cryptographer (1916–2009)",
+      "role": "person",
+      "lc": "n81149667",
+      "confidence": "high"
+    }
+  ],
+  "Ivakhnenko trains early deep networks": [
+    {
+      "qid": "Q4196973",
+      "label": "Alexey Ivakhnenko",
+      "description": "Ukrainian mathematician (1913-2007)",
+      "role": "person",
+      "lc": "n81076424",
+      "confidence": "high"
+    }
+  ],
+  "Lem publishes Cyberiada, fables about robot inventors": [
+    {
+      "qid": "Q1048615",
+      "label": "The Cyberiad",
+      "description": "series of humorous short stories by Stanisław Lem",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q6530",
+      "label": "Stanisław Lem",
+      "description": "Polish science fiction author, philosopher and futurologist, studied medical doctor (1921–2006)",
+      "role": "person",
+      "lc": "n79100400",
+      "confidence": "high"
+    }
+  ],
+  "Jean-Luc Godard directs Alphaville": [
+    {
+      "qid": "Q542688",
+      "label": "Alphaville",
+      "description": "1965 film directed by Jean-Luc Godard",
+      "role": "work",
+      "lc": "no99047860",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q53001",
+      "label": "Jean-Luc Godard",
+      "description": "French and Swiss film director (1930–2022)",
+      "role": "person",
+      "lc": "n79055544",
+      "confidence": "high"
+    }
+  ],
+  "Nees, Nake and Noll show computer-made pictures": [
+    {
+      "qid": "Q5535768",
+      "label": "Georg Nees",
+      "description": "German artist (1926–2016)",
+      "role": "person",
+      "lc": "n80132098",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q92703",
+      "label": "Frieder Nake",
+      "description": "German mathematician and computer scientist (born 1938)",
+      "role": "person",
+      "lc": "n85346010",
+      "confidence": "high"
+    }
+  ],
+  "Heinlein publishes The Moon Is a Harsh Mistress": [
+    {
+      "qid": "Q1410482",
+      "label": "The Moon Is a Harsh Mistress",
+      "description": "novel by Robert A. Heinlein",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q123078",
+      "label": "Robert A. Heinlein",
+      "description": "American author and aeronautical engineer (1907–1988)",
+      "role": "person",
+      "lc": "n79067868",
+      "confidence": "high"
+    }
+  ],
+  "Pedler and Davis create Doctor Who's Cybermen": [
+    {
+      "qid": "Q3008212",
+      "label": "Cyberman",
+      "description": "fictional race of cyborgs",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q6417473",
+      "label": "Kit Pedler",
+      "description": "British medical scientist, parapsychologist and author (1927-1981)",
+      "role": "person",
+      "lc": "n81132509",
+      "confidence": "high"
+    }
+  ],
+  "ELIZA, an early chatbot": [
+    {
+      "qid": "Q580318",
+      "label": "ELIZA",
+      "description": "early natural language processing computer program",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q75778",
+      "label": "Joseph Weizenbaum",
+      "description": "German-American computer scientist (1923–2008)",
+      "role": "person",
+      "lc": "n85806359",
+      "confidence": "high"
+    }
+  ],
+  "Ellison publishes a story of a hostile computer": [
+    {
+      "qid": "Q2307397",
+      "label": "I Have No Mouth, and I Must Scream",
+      "description": "1966 short story by Harlan Ellison",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q311253",
+      "label": "Harlan Ellison",
+      "description": "American writer (1934–2018)",
+      "role": "person",
+      "lc": "n50010025",
+      "confidence": "high"
+    }
+  ],
+  "Dick publishes Do Androids Dream of Electric Sheep?": [
+    {
+      "qid": "Q605249",
+      "label": "Do Androids Dream of Electric Sheep?",
+      "description": "science fiction novel by Philip K. Dick",
+      "role": "work",
+      "lc": "no2007147733",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q171091",
+      "label": "Philip K. Dick",
+      "description": "American science fiction author (1928–1982)",
+      "role": "person",
+      "lc": "n79018147",
+      "confidence": "high"
+    }
+  ],
+  "Fontana's Star Trek episode lets a computer command": [
+    {
+      "qid": "Q3488835",
+      "label": "The Ultimate Computer",
+      "description": "24th episode of the second season of Star Trek: The Original Series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q450706",
+      "label": "D. C. Fontana",
+      "description": "American screenwriter (1939–2019)",
+      "role": "person",
+      "lc": "n96016931",
+      "confidence": "high"
+    }
+  ],
+  "HAL 9000 in 2001: A Space Odyssey": [
+    {
+      "qid": "Q103474",
+      "label": "2001: A Space Odyssey",
+      "description": "1968 film by Stanley Kubrick",
+      "role": "work",
+      "lc": "n92048865",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q833933",
+      "label": "HAL 9000",
+      "description": "fictional character in Arthur C. Clarke's Space Odyssey series",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Gordon Pask's Colloquy of Mobiles at Cybernetic Serendipity": [
+    {
+      "qid": "Q370461",
+      "label": "Gordon Pask",
+      "description": "British psychologist (1928–1996)",
+      "role": "person",
+      "lc": "n80056994",
+      "confidence": "high",
+      "note": "No Wikidata item found for Colloquy of Mobiles"
+    }
+  ],
+  "Jasia Reichardt curates Cybernetic Serendipity in London": [
+    {
+      "qid": "Q5197816",
+      "label": "Cybernetic Serendipity",
+      "description": "Exhibition of cybernetic art at ICA, London, 1968",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q4974363",
+      "label": "Jasia Reichardt",
+      "description": "British art critic",
+      "role": "person",
+      "lc": "n80023620",
+      "confidence": "high"
+    }
+  ],
+  "Thomas and Buscema introduce the Vision": [
+    {
+      "qid": "Q2307071",
+      "label": "Vision",
+      "description": "fictional character in Marvel Comics",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q2474195",
+      "label": "Ultron",
+      "description": "Marvel Comics character",
+      "role": "thing",
+      "lc": "no2019053341",
+      "confidence": "high"
+    }
+  ],
+  "Anne McCaffrey publishes The Ship Who Sang": [
+    {
+      "qid": "Q3823324",
+      "label": "The Ship Who Sang",
+      "description": "science fiction novel by Anne McCaffrey",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q233046",
+      "label": "Anne McCaffrey",
+      "description": "American-Irish novelist (1926–2011)",
+      "role": "person",
+      "lc": "n50009225",
+      "confidence": "high"
+    }
+  ],
+  "Fujiko F. Fujio creates Doraemon, the robot cat": [
+    {
+      "qid": "Q235311",
+      "label": "Doraemon",
+      "description": "Japanese manga series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q17572",
+      "label": "Fujiko F. Fujio",
+      "description": "Japanese mangaka, FUJIMOTO Hiroshi (1933–1996), pen name since 1989",
+      "role": "person",
+      "lc": "n81124613",
+      "confidence": "high",
+      "lc_all": [
+        "n81124613",
+        "no2015047766"
+      ]
+    }
+  ],
+  "Edward Ihnatowicz unveils the Senster for Philips": [
+    {
+      "qid": "Q1231464",
+      "label": "Senster",
+      "description": "robotic sculpture by Edward Ihnatowicz, at Evoluon from 1970 till 1974",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q5343589",
+      "label": "Edward Ihnatowicz",
+      "description": "Polish cybernetic artist (1926-1988)",
+      "role": "person",
+      "lc": "n2017072065",
+      "confidence": "high"
+    }
+  ],
+  "Joseph Sargent directs Colossus: The Forbin Project": [
+    {
+      "qid": "Q1111873",
+      "label": "Colossus: The Forbin Project",
+      "description": "1969 film by Joseph Sargent",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Spärck Jones weights rare search words": [
+    {
+      "qid": "Q14254",
+      "label": "Karen Spärck Jones",
+      "description": "British computer scientist (1935–2007)",
+      "role": "person",
+      "lc": "n50021679",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q796584",
+      "label": "tf–idf",
+      "description": "statistic which reflects how important a word is to a document in a collection or corpus",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Harold Cohen's AARON makes drawings": [
+    {
+      "qid": "Q4649926",
+      "label": "AARON",
+      "description": "artificial intelligence program",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q92723",
+      "label": "Harold Cohen",
+      "description": "English painter and computer artist, active in the United States (1928–2016)",
+      "role": "person",
+      "lc": "n80014425",
+      "confidence": "high"
+    }
+  ],
+  "Michael Crichton writes and directs Westworld": [
+    {
+      "qid": "Q503343",
+      "label": "Westworld",
+      "description": "1973 film directed by Michael Crichton",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q172140",
+      "label": "Michael Crichton",
+      "description": "American author, screenwriter, film director (1942–2008)",
+      "role": "person",
+      "lc": "n50018616",
+      "confidence": "high"
+    }
+  ],
+  "Fassbinder directs World on a Wire for television": [
+    {
+      "qid": "Q481467",
+      "label": "World on a Wire",
+      "description": "1973 television serial directed by Rainer Werner Fassbinder",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q44426",
+      "label": "Rainer Werner Fassbinder",
+      "description": "German filmmaker, playwright and actor (1945-1982)",
+      "role": "person",
+      "lc": "n50011988",
+      "confidence": "high"
+    }
+  ],
+  "Bryan Forbes directs The Stepford Wives": [
+    {
+      "qid": "Q764639",
+      "label": "The Stepford Wives",
+      "description": "1975 film by Bryan Forbes",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Weizenbaum warns against computer judgment": [
+    {
+      "qid": "Q5157465",
+      "label": "Computer Power and Human Reason",
+      "description": "1976 book by Joseph Weizenbaum",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q75778",
+      "label": "Joseph Weizenbaum",
+      "description": "German-American computer scientist (1923–2008)",
+      "role": "person",
+      "lc": "n85806359",
+      "confidence": "high"
+    }
+  ],
+  "Star Wars droids R2-D2 and C-3PO": [
+    {
+      "qid": "Q51788",
+      "label": "R2-D2",
+      "description": "fictional character from Star Wars",
+      "role": "thing",
+      "lc": "no2015163810",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q51787",
+      "label": "C-3PO",
+      "description": "robot character from the Star Wars universe",
+      "role": "thing",
+      "lc": "no2015165310",
+      "confidence": "high",
+      "lc_all": [
+        "no2015165310",
+        "sh00007446"
+      ]
+    }
+  ],
+  "Kraftwerk release The Man-Machine and The Robots": [
+    {
+      "qid": "Q111395498",
+      "label": "The Man-Machine",
+      "description": "1978 studio album by Kraftwerk",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q44892",
+      "label": "Kraftwerk",
+      "description": "German music band",
+      "role": "thing",
+      "lc": "nr90007336",
+      "confidence": "high"
+    }
+  ],
+  "Tamburini and Liberatore create RanXerox in Cannibale": [
+    {
+      "qid": "Q2130573",
+      "label": "RanXerox",
+      "description": "comic-book character",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q2602111",
+      "label": "Stefano Tamburini",
+      "description": "Italian comic creator (1955-1986)",
+      "role": "person",
+      "lc": "n86873195",
+      "confidence": "high"
+    }
+  ],
+  "Douglas Adams's Hitchhiker's Guide begins with Marvin": [
+    {
+      "qid": "Q3521267",
+      "label": "The Hitchhiker's Guide to the Galaxy",
+      "description": "science fiction comedy radio series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q264685",
+      "label": "Marvin the Paranoid Android",
+      "description": "robot in The Hitchhiker's Guide to The Galaxy",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Gary Numan's Tubeway Army reaches UK number one": [
+    {
+      "qid": "Q2860768",
+      "label": "Are 'Friends' Electric?",
+      "description": "1979 single by Tubeway Army",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q331731",
+      "label": "Gary Numan",
+      "description": "British musician (born 1958)",
+      "role": "person",
+      "lc": "n84126273",
+      "confidence": "high"
+    }
+  ],
+  "Ridley Scott directs Alien": [
+    {
+      "qid": "Q103569",
+      "label": "Alien",
+      "description": "1979 film by Ridley Scott",
+      "role": "work",
+      "lc": "n83314511",
+      "confidence": "high"
+    }
+  ],
+  "Fukushima's Neocognitron recognizes shapes": [
+    {
+      "qid": "Q669754",
+      "label": "Neocognitron",
+      "description": "type of artificial neural network",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q61904879",
+      "label": "Kunihiko Fukushima",
+      "description": "Japanese computer scientist",
+      "role": "person",
+      "lc": "nr91013232",
+      "confidence": "high"
+    }
+  ],
+  "Searle's Chinese Room argument": [
+    {
+      "qid": "Q304726",
+      "label": "Chinese room",
+      "description": "thought experiment arguing that a computer cannot exhibit \"understanding\"",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q295012",
+      "label": "John Searle",
+      "description": "American philosopher (1932–2025)",
+      "role": "person",
+      "lc": "n79055656",
+      "confidence": "high"
+    }
+  ],
+  "David Cope begins Experiments in Musical Intelligence": [
+    {
+      "qid": "Q5232553",
+      "label": "David Cope",
+      "description": "American composer and scientist",
+      "role": "person",
+      "lc": "n50017993",
+      "confidence": "high",
+      "note": "No Wikidata item found for the program itself"
+    }
+  ],
+  "Stanisław Lem publishes Golem XIV": [
+    {
+      "qid": "Q1536250",
+      "label": "Golem XIV",
+      "description": "collection of philosophical essays by a fictional supercomputer, written by Stanisław Lem",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q6530",
+      "label": "Stanisław Lem",
+      "description": "Polish science fiction author, philosopher and futurologist, studied medical doctor (1921–2006)",
+      "role": "person",
+      "lc": "n79100400",
+      "confidence": "high"
+    }
+  ],
+  "Glen Larson's Knight Rider stars an AI car": [
+    {
+      "qid": "Q464009",
+      "label": "Knight Rider",
+      "description": "1982–1986 American television series",
+      "role": "work",
+      "lc": "no2010123888",
+      "confidence": "high"
+    }
+  ],
+  "Ridley Scott's Blade Runner opens in theaters": [
+    {
+      "qid": "Q184843",
+      "label": "Blade Runner",
+      "description": "1982 film directed by Ridley Scott",
+      "role": "work",
+      "lc": "n91079105",
+      "confidence": "high"
+    }
+  ],
+  "Lisberger's Tron puts programs inside a computer": [
+    {
+      "qid": "Q626483",
+      "label": "Tron",
+      "description": "1982 film directed by Steven Lisberger",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Lasker, Parkes and Badham make WarGames": [
+    {
+      "qid": "Q504697",
+      "label": "WarGames",
+      "description": "1983 film directed by John Badham",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Gibson publishes Neuromancer, a novel of cyberspace": [
+    {
+      "qid": "Q662029",
+      "label": "Neuromancer",
+      "description": "1984 novel by William Gibson",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q188987",
+      "label": "William Gibson",
+      "description": "American-Canadian speculative fiction writer (born 1948)",
+      "role": "person",
+      "lc": "n85146890",
+      "confidence": "high"
+    }
+  ],
+  "The Terminator shows AI at war": [
+    {
+      "qid": "Q162255",
+      "label": "The Terminator",
+      "description": "1984 film by James Cameron",
+      "role": "work",
+      "lc": "n97032745",
+      "confidence": "high"
+    }
+  ],
+  "Morton and Jankel's Max Headroom, an AI host": [
+    {
+      "qid": "Q4276016",
+      "label": "Max Headroom: 20 Minutes into the Future",
+      "description": "1985 cyberpunk television movie",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q16203925",
+      "label": "Max Headroom",
+      "description": "fictional British character",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Badham's Short Circuit gives a robot a mind": [
+    {
+      "qid": "Q540125",
+      "label": "Short Circuit",
+      "description": "1986 film directed by John Badham",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Banks publishes Consider Phlebas, the first Culture novel": [
+    {
+      "qid": "Q261728",
+      "label": "Consider Phlebas",
+      "description": "1987 novel by Iain M. Banks",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q312579",
+      "label": "Iain Banks",
+      "description": "Scottish writer (1954–2013)",
+      "role": "person",
+      "lc": "n82253191",
+      "confidence": "high"
+    }
+  ],
+  "Verhoeven's RoboCop opens, about a police cyborg": [
+    {
+      "qid": "Q372514",
+      "label": "RoboCop",
+      "description": "1987 film directed by Paul Verhoeven",
+      "role": "work",
+      "lc": "no2016083525",
+      "confidence": "high"
+    }
+  ],
+  "Melinda Snodgrass puts Data on trial": [
+    {
+      "qid": "Q3507037",
+      "label": "The Measure of a Man",
+      "description": "9th episode of the second season of Star Trek: The Next Generation",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q3196860",
+      "label": "Melinda M. Snodgrass",
+      "description": "American writer",
+      "role": "person",
+      "lc": "n87872073",
+      "confidence": "high"
+    }
+  ],
+  "Shirow begins the manga Ghost in the Shell": [
+    {
+      "qid": "Q92582",
+      "label": "Ghost in the Shell",
+      "description": "Japanese manga series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q442602",
+      "label": "Masamune Shirow",
+      "description": "Japanese manga artist",
+      "role": "person",
+      "lc": "n96105426",
+      "confidence": "high"
+    }
+  ],
+  "Kishiro's Gunnm follows a cyborg without a past": [
+    {
+      "qid": "Q810987",
+      "label": "Battle Angel Alita",
+      "description": "Japanese manga series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q983424",
+      "label": "Yukito Kishiro",
+      "description": "Japanese manga artist",
+      "role": "person",
+      "lc": "no97064603",
+      "confidence": "high"
+    }
+  ],
+  "Marge Piercy publishes He, She and It": [
+    {
+      "qid": "Q1347897",
+      "label": "He, She and It",
+      "description": "novel by Marge Piercy",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q273385",
+      "label": "Marge Piercy",
+      "description": "American novelist and poet (born 1936)",
+      "role": "person",
+      "lc": "n79088854",
+      "confidence": "high"
+    }
+  ],
+  "Vinge predicts a \"technological singularity\"": [
+    {
+      "qid": "Q237525",
+      "label": "technological singularity",
+      "description": "hypothetic future event in which artificial intelligence iteratively redesigns itself to rapidly become more intelligent, causing technological and social change beyond prediction",
+      "role": "thing",
+      "lc": "sh2017004997",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q312405",
+      "label": "Vernor Vinge",
+      "description": "American mathematician, computer scientist, and science fiction writer (1944–2024)",
+      "role": "person",
+      "lc": "n84078385",
+      "confidence": "high"
+    }
+  ],
+  "Wallace & Gromit's robotic Techno Trousers": [
+    {
+      "qid": "Q1969617",
+      "label": "The Wrong Trousers",
+      "description": "1993 stop motion animated short film directed by Nick Park",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q691528",
+      "label": "Wallace & Gromit",
+      "description": "British media franchise",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Doug Church and Looking Glass release System Shock": [
+    {
+      "qid": "Q1151634",
+      "label": "System Shock",
+      "description": "1994 video game",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q1131475",
+      "label": "Looking Glass Studios",
+      "description": "defunct videogame company",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Oshii directs the anime Ghost in the Shell": [
+    {
+      "qid": "Q1066948",
+      "label": "Ghost in the Shell",
+      "description": "1995 film by Mamoru Oshii",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q285084",
+      "label": "Mamoru Oshii",
+      "description": "Japanese filmmaker, television director, and writer",
+      "role": "person",
+      "lc": "nr97010722",
+      "confidence": "high"
+    }
+  ],
+  "Kismet, a robot with a face": [
+    {
+      "qid": "Q912212",
+      "label": "Kismet",
+      "description": "experimental robot built to test human responses to simulated facial expressions",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high",
+      "note": "Wikidata inception 1996; card says 1997"
+    },
+    {
+      "qid": "Q21585",
+      "label": "Cynthia Breazeal",
+      "description": "American computer scientist",
+      "role": "person",
+      "lc": "n2001005608",
+      "confidence": "high"
+    }
+  ],
+  "Radiohead release OK Computer": [
+    {
+      "qid": "Q202996",
+      "label": "OK Computer",
+      "description": "1997 studio album by Radiohead",
+      "role": "work",
+      "lc": "n2004070950",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q44190",
+      "label": "Radiohead",
+      "description": "British band",
+      "role": "thing",
+      "lc": "no97045991",
+      "confidence": "high"
+    }
+  ],
+  "UB software reads handwritten addresses": [
+    {
+      "qid": "Q5059983",
+      "label": "Center of Excellence for Document Analysis and Recognition",
+      "description": "research laboratory at SUNY, Buffalo, New York, US",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Deep Blue beats Kasparov": [
+    {
+      "qid": "Q187899",
+      "label": "Deep Blue",
+      "description": "chess-playing supercomputer built by IBM",
+      "role": "thing",
+      "lc": "sh97006015",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q28614",
+      "label": "Garry Kasparov",
+      "description": "Russian chess grandmaster and activist",
+      "role": "person",
+      "lc": "n84068163",
+      "confidence": "high"
+    }
+  ],
+  "Serial Experiments Lain, by Nakamura and Konaka": [
+    {
+      "qid": "Q858387",
+      "label": "Serial Experiments Lain",
+      "description": "Japanese anime television series",
+      "role": "work",
+      "lc": "n2003018087",
+      "confidence": "high"
+    }
+  ],
+  "Brin and Page present Google and PageRank": [
+    {
+      "qid": "Q184316",
+      "label": "PageRank",
+      "description": "Algorithm used by Google Search to rank web pages",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q95",
+      "label": "Google",
+      "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+      "role": "thing",
+      "lc": "no00095539",
+      "confidence": "high"
+    }
+  ],
+  "The Wachowskis write and direct The Matrix": [
+    {
+      "qid": "Q83495",
+      "label": "The Matrix",
+      "description": "1999 American science fiction action thriller film",
+      "role": "work",
+      "lc": "no2001013717",
+      "confidence": "high"
+    }
+  ],
+  "Bird's Iron Giant refuses to be a weapon": [
+    {
+      "qid": "Q867283",
+      "label": "The Iron Giant",
+      "description": "1999 film by Brad Bird",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Robin Williams plays a robot in Bicentennial Man": [
+    {
+      "qid": "Q170250",
+      "label": "Bicentennial Man",
+      "description": "1999 film directed by Chris Columbus",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Warren Spector and Ion Storm release Deus Ex": [
+    {
+      "qid": "Q644793",
+      "label": "Deus Ex",
+      "description": "2000 video game",
+      "role": "work",
+      "lc": "n86725175",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q964255",
+      "label": "Warren Spector",
+      "description": "American game designer",
+      "role": "person",
+      "lc": "n2002068849",
+      "confidence": "high"
+    }
+  ],
+  "Daft Punk release Discovery, then Human After All": [
+    {
+      "qid": "Q1901313",
+      "label": "Discovery",
+      "description": "2001 album by Daft Punk",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q185828",
+      "label": "Daft Punk",
+      "description": "French electronic music band",
+      "role": "thing",
+      "lc": "no97063566",
+      "confidence": "high"
+    }
+  ],
+  "Spielberg finishes Kubrick's A.I. project": [
+    {
+      "qid": "Q221113",
+      "label": "A.I. Artificial Intelligence",
+      "description": "2001 film directed by Steven Spielberg",
+      "role": "work",
+      "lc": "no2001052379",
+      "confidence": "high"
+    }
+  ],
+  "iRobot launches the Roomba": [
+    {
+      "qid": "Q74050",
+      "label": "Roomba",
+      "description": "series of autonomous robotic vacuum cleaners sold by iRobot",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Urasawa retells Tezuka's Astro Boy story in Pluto": [
+    {
+      "qid": "Q348436",
+      "label": "Naoki Urasawa",
+      "description": "Japanese mangaka",
+      "role": "person",
+      "lc": "nr96035371",
+      "confidence": "high",
+      "note": "No Wikidata item found for the manga Pluto"
+    }
+  ],
+  "Moore and Eick remake Battlestar Galactica": [
+    {
+      "qid": "Q237072",
+      "label": "Battlestar Galactica",
+      "description": "2004–2009 American science fiction television series, reimagining of a 1970s series",
+      "role": "work",
+      "lc": "no2009062249",
+      "confidence": "high"
+    }
+  ],
+  "Alex Proyas directs the film I, Robot": [
+    {
+      "qid": "Q200572",
+      "label": "I, Robot",
+      "description": "2004 film directed by Alex Proyas",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Charles Stross publishes Accelerando": [
+    {
+      "qid": "Q2300209",
+      "label": "Accelerando",
+      "description": "science fiction novel by Charles Stross, fix-up of nine previous short stories and novellas",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q345249",
+      "label": "Charles Stross",
+      "description": "British science fiction writer and blogger",
+      "role": "person",
+      "lc": "n96066054",
+      "confidence": "high"
+    }
+  ],
+  "Michael Mateas and Andrew Stern release Façade": [
+    {
+      "qid": "Q3067738",
+      "label": "Façade",
+      "description": "2005 video game",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q65015461",
+      "label": "Michael Mateas",
+      "description": "American artificial intelligence researcher",
+      "role": "person",
+      "lc": "n2002035914",
+      "confidence": "high"
+    }
+  ],
+  "Peter Watts publishes Blindsight": [
+    {
+      "qid": "Q2511421",
+      "label": "Blindsight",
+      "description": "hard science fiction novel by Peter Watts",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q983672",
+      "label": "Peter Watts",
+      "description": "Canadian biologist and sci-fi author",
+      "role": "person",
+      "lc": "no98080341",
+      "confidence": "high"
+    }
+  ],
+  "Netflix offers $1 million to improve recommendations": [
+    {
+      "qid": "Q4045251",
+      "label": "Netflix Prize",
+      "description": "competition from 2006-2009 to improve Netflix's personalization algorithm",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Narayanan and Shmatikov re-identify Netflix Prize users": [
+    {
+      "qid": "Q4045251",
+      "label": "Netflix Prize",
+      "description": "competition from 2006-2009 to improve Netflix's personalization algorithm",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q16442100",
+      "label": "Arvind Narayanan",
+      "description": "associate professor of computer science",
+      "role": "person",
+      "lc": "n2016024843",
+      "confidence": "medium",
+      "note": "Wikidata description is only 'associate professor of computer science'; no birth date to check"
+    }
+  ],
+  "Crypton Future Media releases Hatsune Miku": [
+    {
+      "qid": "Q552682",
+      "label": "Hatsune Miku",
+      "description": "Vocaloid character",
+      "role": "thing",
+      "lc": "n2017004603",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q558629",
+      "label": "Crypton Future Media",
+      "description": "Japanese media company",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Valve's Kim Swift and Erik Wolpaw release Portal": [
+    {
+      "qid": "Q274897",
+      "label": "Portal",
+      "description": "2007 first-person puzzle video game",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "BioWare releases Mass Effect for Xbox 360": [
+    {
+      "qid": "Q275960",
+      "label": "Mass Effect",
+      "description": "2007 sci-fi role-playing video game",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q219758",
+      "label": "BioWare",
+      "description": "Canadian video game developer",
+      "role": "thing",
+      "lc": "nr2003028123",
+      "confidence": "high"
+    }
+  ],
+  "Alex Rivera's Sleep Dealer links workers to robots": [
+    {
+      "qid": "Q204190",
+      "label": "Sleep Dealer",
+      "description": "2008 film by Alex Rivera",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q4717691",
+      "label": "Alex Rivera",
+      "description": "American filmmaker",
+      "role": "person",
+      "lc": "no2006010292",
+      "confidence": "high"
+    }
+  ],
+  "Andrew Stanton's WALL-E opens, a robot love story": [
+    {
+      "qid": "Q104905",
+      "label": "WALL-E",
+      "description": "2008 animated film directed by Andrew Stanton",
+      "role": "work",
+      "lc": "n2007039815",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q328723",
+      "label": "Andrew Stanton",
+      "description": "American animator, film director and screenwriter (born 1965)",
+      "role": "person",
+      "lc": "no2003118723",
+      "confidence": "high"
+    }
+  ],
+  "Google starts a self-driving car project": [
+    {
+      "qid": "Q15330",
+      "label": "Waymo",
+      "description": "autonomous car technology company",
+      "role": "thing",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Waymo inception is 2016; the card describes its 2009 predecessor project"
+    }
+  ],
+  "Hosoda's Summer Wars unleashes a rogue AI": [
+    {
+      "qid": "Q715526",
+      "label": "Summer Wars",
+      "description": "2009 Japanese anime film",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q720771",
+      "label": "Mamoru Hosoda",
+      "description": "Japanese anime director",
+      "role": "person",
+      "lc": "no2011049634",
+      "confidence": "high"
+    }
+  ],
+  "ImageNet labels millions of images": [
+    {
+      "qid": "Q24901201",
+      "label": "ImageNet",
+      "description": "image dataset organized according to the WordNet hierarchy",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q18686107",
+      "label": "Fei-Fei Li",
+      "description": "American computer scientist",
+      "role": "person",
+      "lc": "n2001058396",
+      "confidence": "high"
+    }
+  ],
+  "Chiang publishes The Lifecycle of Software Objects": [
+    {
+      "qid": "Q7747230",
+      "label": "The Lifecycle of Software Objects",
+      "description": "2010 novella by Ted Chiang",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q503095",
+      "label": "Ted Chiang",
+      "description": "American science fiction writer",
+      "role": "person",
+      "lc": "n2001156449",
+      "confidence": "high"
+    }
+  ],
+  "Janelle Monáe releases The ArchAndroid": [
+    {
+      "qid": "Q1933237",
+      "label": "The ArchAndroid",
+      "description": "album by Janelle Monáe",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q234356",
+      "label": "Janelle Monáe",
+      "description": "American singer and actress (born 1985)",
+      "role": "person",
+      "lc": "no2006100538",
+      "confidence": "high"
+    }
+  ],
+  "Victor Mair posted \"Character Amnesia\" on Language Log": [
+    {
+      "qid": "Q7925964",
+      "label": "Victor H. Mair",
+      "description": "American sinologist and linguist (1943-2026)",
+      "role": "person",
+      "lc": "n83024653",
+      "confidence": "high"
+    }
+  ],
+  "Hirata and Ishiguro premiere Sayonara with an android": [
+    {
+      "qid": "Q3136214",
+      "label": "Oriza Hirata",
+      "description": "Japanese writer and director",
+      "role": "person",
+      "lc": "nr97034142",
+      "confidence": "high",
+      "note": "No Wikidata item found for the play Sayonara"
+    },
+    {
+      "qid": "Q382950",
+      "label": "Hiroshi Ishiguro",
+      "description": "Japanese roboticist",
+      "role": "person",
+      "lc": "n2008061277",
+      "confidence": "high"
+    }
+  ],
+  "Shankar's Enthiran puts a rogue robot on screen": [
+    {
+      "qid": "Q283490",
+      "label": "Enthiran",
+      "description": "2010 Indian film directed by S. Shankar",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Nolan's Person of Interest centers on an all-seeing Machine": [
+    {
+      "qid": "Q564345",
+      "label": "Person of Interest",
+      "description": "2011 American science fiction crime drama television series",
+      "role": "work",
+      "lc": "no2017127624",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q372788",
+      "label": "Jonathan Nolan",
+      "description": "British-American filmmaker (born 1976)",
+      "role": "person",
+      "lc": "no2002006552",
+      "confidence": "high"
+    }
+  ],
+  "IBM Watson wins Jeopardy!": [
+    {
+      "qid": "Q12253",
+      "label": "Watson",
+      "description": "artificial intelligence computer system made by IBM",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Bright Eyes release \"Singularity\"": [
+    {
+      "qid": "Q1163539",
+      "label": "The People's Key",
+      "description": "album by Bright Eyes",
+      "role": "work",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Album that carries the song; the song itself has no Wikidata item"
+    },
+    {
+      "qid": "Q915714",
+      "label": "Bright Eyes",
+      "description": "American indie rock band",
+      "role": "thing",
+      "lc": "no2002083698",
+      "confidence": "high"
+    }
+  ],
+  "Voice assistants reach phones": [
+    {
+      "qid": "Q582159",
+      "label": "Siri",
+      "description": "intelligent personal assistant on various Apple devices",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Charlie Brooker's Black Mirror begins on Channel 4": [
+    {
+      "qid": "Q558112",
+      "label": "Black Mirror",
+      "description": "British television series",
+      "role": "work",
+      "lc": "no2017134709",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q2960837",
+      "label": "Charlie Brooker",
+      "description": "journalist, broadcaster and writer from England",
+      "role": "person",
+      "lc": "nb2002068655",
+      "confidence": "high"
+    }
+  ],
+  "Psycho-Pass, by Urobuchi and Fukami, scores citizens' minds": [
+    {
+      "qid": "Q1315951",
+      "label": "Psycho-Pass",
+      "description": "Japanese anime television series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Lundström's Real Humans puts hubots in Swedish homes": [
+    {
+      "qid": "Q2690883",
+      "label": "Real Humans",
+      "description": "Swedish science-fiction television series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Duhigg reports Target scores shoppers for pregnancy": [],
+  "Her shows a relationship with an AI": [
+    {
+      "qid": "Q788822",
+      "label": "Her",
+      "description": "2013 film by Spike Jonze",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q259913",
+      "label": "Spike Jonze",
+      "description": "American filmmaker (born 1969)",
+      "role": "person",
+      "lc": "no00038713",
+      "confidence": "high"
+    }
+  ],
+  "Leckie publishes Ancillary Justice, a starship AI's story": [
+    {
+      "qid": "Q17001721",
+      "label": "Ancillary Justice",
+      "description": "2013 novel by Ann Leckie",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q16204354",
+      "label": "Ann Leckie",
+      "description": "American science-fiction author",
+      "role": "person",
+      "lc": "n2013008575",
+      "confidence": "high"
+    }
+  ],
+  "Chen Qiufan publishes Waste Tide": [
+    {
+      "qid": "Q39059524",
+      "label": "Waste Tide",
+      "description": "2013 novel by Chen Qiufan",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q8941041",
+      "label": "Chen Qiufan",
+      "description": "Chinese science fiction author",
+      "role": "person",
+      "lc": "no2018154735",
+      "confidence": "high"
+    }
+  ],
+  "Bujalski's Computer Chess stages a 1980s programmers' tournament": [
+    {
+      "qid": "Q13512523",
+      "label": "Computer Chess",
+      "description": "2013 film by Andrew Bujalski",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q503951",
+      "label": "Andrew Bujalski",
+      "description": "American film director",
+      "role": "person",
+      "lc": "no2006033782",
+      "confidence": "high"
+    }
+  ],
+  "Mayer-Schönberger and Cukier publish Big Data": [
+    {
+      "qid": "Q2524339",
+      "label": "Viktor Mayer-Schönberger",
+      "description": "Austrian academic",
+      "role": "person",
+      "lc": "n91005230",
+      "confidence": "medium",
+      "note": "The book has no Wikidata item found; person matched by name and generic description only"
+    }
+  ],
+  "Steve Aoki's \"Singularity\" features Ray Kurzweil": [
+    {
+      "qid": "Q298341",
+      "label": "Raymond Kurzweil",
+      "description": "American computer scientist, author, entrepreneur, futurist and inventor (born 1948)",
+      "role": "person",
+      "lc": "n88274457",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q459955",
+      "label": "Steve Aoki",
+      "description": "American DJ and music producer (born 1971)",
+      "role": "person",
+      "lc": "no2012021223",
+      "confidence": "high",
+      "note": "No Wikidata item found for the song"
+    }
+  ],
+  "Guardian publishes Snowden leaks on NSA data collection": [],
+  "Chinese Characters Dictation Competition debuts on CCTV": [
+    {
+      "qid": "Q15081219",
+      "label": "Chinese Characters Dictation Competition",
+      "description": "spelling bee-like TV show in China",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q7925964",
+      "label": "Victor H. Mair",
+      "description": "American sinologist and linguist (1943-2026)",
+      "role": "person",
+      "lc": "n83024653",
+      "confidence": "high"
+    }
+  ],
+  "Annie Dorsen's machine-made Hamlet plays BAM": [
+    {
+      "qid": "Q68571662",
+      "label": "Annie Dorsen",
+      "description": "American theater artist",
+      "role": "person",
+      "lc": "n2008085194",
+      "confidence": "high",
+      "note": "No Wikidata item found for A Piece of Work"
+    }
+  ],
+  "Goodfellow introduces GANs": [
+    {
+      "qid": "Q25104379",
+      "label": "generative adversarial network",
+      "description": "deep learning method in which two neural networks compete with each other in a game, learning to generate new data with the same statistics as the training set",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q26703063",
+      "label": "Ian Goodfellow",
+      "description": "American scientist, author",
+      "role": "person",
+      "lc": "n2016031948",
+      "confidence": "high"
+    }
+  ],
+  "Kramer, Guillory and Hancock publish Facebook mood study": [],
+  "Bostrom's Superintelligence and the control problem": [
+    {
+      "qid": "Q18386449",
+      "label": "Superintelligence",
+      "description": "2014 essay by Nick Bostrom",
+      "role": "work",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Wikidata describes this item as a 2014 essay; it appears to be the book"
+    },
+    {
+      "qid": "Q460475",
+      "label": "Nick Bostrom",
+      "description": "philosopher and writer (born 1973)",
+      "role": "person",
+      "lc": "n2001093242",
+      "confidence": "high"
+    }
+  ],
+  "Jordan Harrison's Marjorie Prime opens in Los Angeles": [
+    {
+      "qid": "Q136540598",
+      "label": "Marjorie Prime",
+      "description": "2014 stage play by Jordan Harrison",
+      "role": "work",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Wikidata has two items for the play (also Q31842090); chose the one with the fuller description"
+    },
+    {
+      "qid": "Q16205034",
+      "label": "Jordan Harrison",
+      "description": "playwright",
+      "role": "person",
+      "lc": "no2007102607",
+      "confidence": "high"
+    }
+  ],
+  "Croteam releases The Talos Principle, a puzzle game": [
+    {
+      "qid": "Q18620506",
+      "label": "The Talos Principle",
+      "description": "2014 video game",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q2340010",
+      "label": "Croteam",
+      "description": "Croatian video game developer",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Lemire and Nguyen launch the comic Descender": [
+    {
+      "qid": "Q48832962",
+      "label": "Descender",
+      "description": "American comic",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q1686329",
+      "label": "Jeff Lemire",
+      "description": "Canadian cartoonist and comic book writer and artist",
+      "role": "person",
+      "lc": "no2007069236",
+      "confidence": "high"
+    }
+  ],
+  "Blomkamp's Chappie gives a police robot a childhood": [
+    {
+      "qid": "Q15209986",
+      "label": "Chappie",
+      "description": "2015 film directed by Neill Blomkamp",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Garland writes and directs Ex Machina": [
+    {
+      "qid": "Q16635326",
+      "label": "Ex Machina",
+      "description": "2014 film directed by Alex Garland",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q542634",
+      "label": "Alex Garland",
+      "description": "British writer, scriptwriter and film director (born 1970)",
+      "role": "person",
+      "lc": "n96059080",
+      "confidence": "high"
+    }
+  ],
+  "Brackley and Vincent's Humans brings synths home": [
+    {
+      "qid": "Q19572149",
+      "label": "Humans",
+      "description": "2015 British-American science fiction TV series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Mordvintsev, Olah and Tyka show what networks see": [
+    {
+      "qid": "Q20856875",
+      "label": "DeepDream",
+      "description": "computer vision software program",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Frictional Games and Thomas Grip release SOMA": [
+    {
+      "qid": "Q15121353",
+      "label": "SOMA",
+      "description": "2015 video game",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q1441169",
+      "label": "Frictional Games",
+      "description": "Swedish video game developer",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "AlphaGo beats Lee Sedol": [
+    {
+      "qid": "Q22329209",
+      "label": "AlphaGo",
+      "description": "computer program developed by Google DeepMind to play the board game Go",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q486559",
+      "label": "Lee Se-dol",
+      "description": "South Korean Go player",
+      "role": "person",
+      "lc": "n2013068298",
+      "confidence": "high"
+    }
+  ],
+  "ProPublica reports racial bias in COMPAS risk scores": [],
+  "Sharp and Goodwin release Sunspring, an AI-scripted short": [
+    {
+      "qid": "Q24807047",
+      "label": "Sunspring",
+      "description": "2016 film by Oscar Sharp",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q30145798",
+      "label": "Oscar Sharp",
+      "description": "British film director",
+      "role": "person",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Cathy O'Neil publishes Weapons of Math Destruction": [
+    {
+      "qid": "Q30325523",
+      "label": "Weapons of Math Destruction",
+      "description": "non-fiction work by Cathy O'Neil",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q16499729",
+      "label": "Cathy O'Neil",
+      "description": "American mathematician",
+      "role": "person",
+      "lc": "no2013123474",
+      "confidence": "high"
+    }
+  ],
+  "Nolan and Joy's Westworld premieres on HBO": [
+    {
+      "qid": "Q17572811",
+      "label": "Westworld",
+      "description": "2016 American science fiction television series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Obama discusses AI's promise and risks with WIRED": [],
+  "Yoko Taro and PlatinumGames release NieR: Automata": [
+    {
+      "qid": "Q21078985",
+      "label": "NieR: Automata",
+      "description": "2017 action role-playing video game",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q11542446",
+      "label": "Yoko Taro",
+      "description": "video game director, writer and designer",
+      "role": "person",
+      "lc": "n2018027962",
+      "confidence": "high"
+    }
+  ],
+  "The transformer and large language models": [
+    {
+      "qid": "Q85810444",
+      "label": "transformer",
+      "description": "machine-learning model architecture first developed by Google Brain",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q30249683",
+      "label": "Attention Is All You Need",
+      "description": "scientific article published in June 2017",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Villeneuve's Blade Runner 2049 returns to the replicants": [
+    {
+      "qid": "Q21500755",
+      "label": "Blade Runner 2049",
+      "description": "2017 film directed by Denis Villeneuve",
+      "role": "work",
+      "lc": "no2017147459",
+      "confidence": "high"
+    }
+  ],
+  "Hanson Robotics' Sophia is granted Saudi citizenship": [
+    {
+      "qid": "Q42330811",
+      "label": "Sophia",
+      "description": "2016 social humanoid robot",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q48999902",
+      "label": "Hanson Robotics",
+      "description": "Hong Kong-based engineering and robotics company",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Gender Shades finds bias in face analysis": [
+    {
+      "qid": "Q55711990",
+      "label": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification",
+      "description": "conference paper from 'Conference on Fairness, Accountability and Transparency' published in 2018",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q31359093",
+      "label": "Joy Buolamwini",
+      "description": "American computer scientist and digital activist",
+      "role": "person",
+      "lc": "n2023050069",
+      "confidence": "high"
+    }
+  ],
+  "Safiya Noble publishes Algorithms of Oppression": [
+    {
+      "qid": "Q48816548",
+      "label": "Algorithms of Oppression",
+      "description": "2018 non-fiction work by Safiya Noble",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q54856700",
+      "label": "Safiya Noble",
+      "description": "American professor and author",
+      "role": "person",
+      "lc": "n2015049203",
+      "confidence": "high"
+    }
+  ],
+  "Observer reveals Cambridge Analytica's use of Facebook data": [
+    {
+      "qid": "Q24083484",
+      "label": "Cambridge Analytica",
+      "description": "2013–2018 British political consulting firm",
+      "role": "thing",
+      "lc": "nb2019000565",
+      "confidence": "high"
+    }
+  ],
+  "Quantic Dream releases Detroit: Become Human": [
+    {
+      "qid": "Q21246348",
+      "label": "Detroit: Become Human",
+      "description": "2018 adventure video game developed by Quantic Dream",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "EU General Data Protection Regulation takes effect": [],
+  "Reuters reports Amazon dropped a biased hiring tool": [],
+  "Christie's sells an AI-made portrait": [
+    {
+      "qid": "Q56299046",
+      "label": "Edmond de Belamy",
+      "description": "painting by AI",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Masakhane builds tools for African languages": [
+    {
+      "qid": "Q107088186",
+      "label": "Masakhane",
+      "description": "open source AI project to develop machine translation for African languages",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Frant Gwo's The Wandering Earth adapts Liu Cixin": [
+    {
+      "qid": "Q57966215",
+      "label": "The Wandering Earth",
+      "description": "2019 science fiction film directed by Frant Gwo",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q607588",
+      "label": "Liu Cixin",
+      "description": "Chinese science fiction writer",
+      "role": "person",
+      "lc": "n2005083742",
+      "confidence": "high"
+    }
+  ],
+  "Miller's Love, Death and Robots collects animated shorts": [
+    {
+      "qid": "Q61740435",
+      "label": "Love, Death & Robots",
+      "description": "American animated television series",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Shoshana Zuboff publishes The Age of Surveillance Capitalism": [
+    {
+      "qid": "Q75804726",
+      "label": "The Age of Surveillance Capitalism",
+      "description": "2018 non-fiction work by Shoshana Zuboff",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q15953956",
+      "label": "Shoshana Zuboff",
+      "description": "American sociologist, professor emerita at Harvard Business School and author",
+      "role": "person",
+      "lc": "n87910612",
+      "confidence": "high"
+    }
+  ],
+  "Mario Klingemann's AI portraits go to Sotheby's": [
+    {
+      "qid": "Q55767529",
+      "label": "Mario Klingemann",
+      "description": "German artist",
+      "role": "person",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Ian McEwan publishes Machines Like Me": [
+    {
+      "qid": "Q64031447",
+      "label": "Machines Like Me",
+      "description": "novel by Ian McEwan",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q190379",
+      "label": "Ian McEwan",
+      "description": "British author (born 1948)",
+      "role": "person",
+      "lc": "n79008865",
+      "confidence": "high"
+    }
+  ],
+  "Holly Herndon releases Proto with her AI Spawn": [
+    {
+      "qid": "Q65062691",
+      "label": "Proto",
+      "description": "2019 studio album by Holly Herndon",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q16203447",
+      "label": "Holly Herndon",
+      "description": "American composer and musician (born 1980)",
+      "role": "person",
+      "lc": "no2013033235",
+      "confidence": "high"
+    }
+  ],
+  "Barbican opens AI: More than Human": [
+    {
+      "qid": "Q141394695",
+      "label": "AI: More than Human",
+      "description": "2019 exhibition at the Barbican Centre, London",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q653858",
+      "label": "Barbican Centre",
+      "description": "Performing arts centre in the City of London",
+      "role": "thing",
+      "lc": "n82067190",
+      "confidence": "high"
+    }
+  ],
+  "Ruha Benjamin publishes Race After Technology": [
+    {
+      "qid": "Q106130284",
+      "label": "Race After Technology",
+      "description": "2019 non-fiction work by Ruha Benjamin",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q28935115",
+      "label": "Ruha Benjamin",
+      "description": "American sociologist",
+      "role": "person",
+      "lc": "no2013018841",
+      "confidence": "high"
+    }
+  ],
+  "Crawford and Paglen open Training Humans in Milan": [
+    {
+      "qid": "Q6375450",
+      "label": "Kate Crawford",
+      "description": "Australian researcher",
+      "role": "person",
+      "lc": "no2018153298",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q7839361",
+      "label": "Trevor Paglen",
+      "description": "American contemporary artist (born 1974)",
+      "role": "person",
+      "lc": "no2006112502",
+      "confidence": "high"
+    }
+  ],
+  "Hugging Face opens up language models": [
+    {
+      "qid": "Q108943604",
+      "label": "Hugging Face",
+      "description": "American company",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Nick Walton releases AI Dungeon 2 text game": [
+    {
+      "qid": "Q85738917",
+      "label": "AI Dungeon",
+      "description": "text adventure game generated by artificial intelligence",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "OpenAI announces GPT-3": [
+    {
+      "qid": "Q95726734",
+      "label": "GPT-3",
+      "description": "series of large language models developed by OpenAI",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q21708200",
+      "label": "OpenAI",
+      "description": "American artificial intelligence research organization",
+      "role": "thing",
+      "lc": "no2023052542",
+      "confidence": "high"
+    }
+  ],
+  "Schrader's I'm Your Man gives a scholar a robot partner": [
+    {
+      "qid": "Q105438931",
+      "label": "I'm Your Man",
+      "description": "2021 film directed by Maria Schrader",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Kogonada's After Yang follows a family's android loss": [
+    {
+      "qid": "Q63398229",
+      "label": "After Yang",
+      "description": "2021 film directed by Kogonada",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q40039676",
+      "label": "Kogonada",
+      "description": "Korean-American film critic and filmmaker",
+      "role": "person",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "DALL-E turns text into images": [
+    {
+      "qid": "Q105078662",
+      "label": "DALL-E",
+      "description": "image-generating deep-learning model",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Bender and colleagues publish \"Stochastic Parrots\"": [
+    {
+      "qid": "Q105943036",
+      "label": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜",
+      "description": "published conference paper for FAccT ’21",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q33122366",
+      "label": "Emily M. Bender",
+      "description": "American linguist",
+      "role": "person",
+      "lc": "n2003045291",
+      "confidence": "high"
+    }
+  ],
+  "Kazuo Ishiguro publishes Klara and the Sun": [
+    {
+      "qid": "Q105704813",
+      "label": "Klara and the Sun",
+      "description": "2021 novel by Kazuo Ishiguro",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q272855",
+      "label": "Kazuo Ishiguro",
+      "description": "British novelist (born 1954)",
+      "role": "person",
+      "lc": "n81151284",
+      "confidence": "high"
+    }
+  ],
+  "AlphaFold predicts protein shapes": [
+    {
+      "qid": "Q60827595",
+      "label": "AlphaFold",
+      "description": "software by DeepMind that has predicated how every protein folds",
+      "role": "thing",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Item inception is 2018; the 2021 system is AlphaFold2 (Q107711739)"
+    },
+    {
+      "qid": "Q15733006",
+      "label": "Google DeepMind",
+      "description": "artificial intelligence company owned by Google",
+      "role": "thing",
+      "lc": "n2024028469",
+      "confidence": "high"
+    }
+  ],
+  "Kai-Fu Lee and Chen Qiufan publish AI 2041": [
+    {
+      "qid": "Q108897960",
+      "label": "AI 2041",
+      "description": "2021 book by Kai-Fu Lee and Chen Qiufan",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q699605",
+      "label": "Kai-Fu Lee",
+      "description": "Taiwanese businessman",
+      "role": "person",
+      "lc": "n88119198",
+      "confidence": "high"
+    }
+  ],
+  "UB forms an AI and data science institute": [],
+  "BLOOM, an open multilingual language model": [
+    {
+      "qid": "Q113013356",
+      "label": "BLOOM",
+      "description": "Open-access multilingual language model",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Jason Allen wins state fair with Midjourney image": [
+    {
+      "qid": "Q117481190",
+      "label": "Théâtre D'opéra Spatial",
+      "description": "2022 artwork",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Refik Anadol's Unsupervised opens at MoMA": [
+    {
+      "qid": "Q63718992",
+      "label": "Refik Anadol",
+      "description": "Turkish artist (born 1985)",
+      "role": "person",
+      "lc": null,
+      "confidence": "high",
+      "note": "No Wikidata item found for the artwork Unsupervised"
+    }
+  ],
+  "ChatGPT launches to the public": [
+    {
+      "qid": "Q115564437",
+      "label": "ChatGPT",
+      "description": "artificial intelligence chatbot developed by OpenAI",
+      "role": "thing",
+      "lc": "n2023013228",
+      "confidence": "high"
+    }
+  ],
+  "The Dalles drops suit; Google water use disclosed": [],
+  "New York City schools ban, then allow, ChatGPT": [],
+  "NSF funds UB-led AI institute for children": [],
+  "Andersen, McKernan and Ortiz sue Stability AI": [],
+  "Researchers sign open letters on AI risk": [],
+  "Turnitin launches AI detector; Vanderbilt turns it off": [
+    {
+      "qid": "Q7856068",
+      "label": "Turnitin",
+      "description": "Internet-based plagiarism-prevention service",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Ghostwriter977's AI Drake and Weeknd song is pulled": [
+    {
+      "qid": "Q117802159",
+      "label": "Heart on My Sleeve",
+      "description": "song written and produced by TikTok user ghostwriter977",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Geoffrey Hinton leaves Google to warn about AI": [
+    {
+      "qid": "Q92894",
+      "label": "Geoffrey Hinton",
+      "description": "British-Canadian computer scientist and psychologist",
+      "role": "person",
+      "lc": "n80165215",
+      "confidence": "high"
+    }
+  ],
+  "Sam Altman asks the Senate to regulate AI": [],
+  "New York City requires audits of hiring AI": [],
+  "Bill Gates: AI risks manageable, expertise soon free": [],
+  "China's Cyberspace Administration issues generative AI rules": [],
+  "Blumenthal and Hawley propose a bipartisan AI framework": [],
+  "Schumer opens the Senate's AI Insight Forums": [],
+  "Hollywood writers and actors win AI rules": [],
+  "Robin Williams's daughter objects to AI recreations": [],
+  "U.S. executive order on AI, later revoked": [],
+  "Rishi Sunak hosts the Bletchley AI Safety Summit": [],
+  "Beatles finish \"Now and Then\" with machine learning": [
+    {
+      "qid": "Q3293037",
+      "label": "Now and Then",
+      "description": "song by John Lennon (1977-79), completed by the Beatles (2023)",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q1299",
+      "label": "The Beatles",
+      "description": "English pop rock band (1960–1970)",
+      "role": "thing",
+      "lc": "n79018119",
+      "confidence": "high"
+    }
+  ],
+  "New York proposes Empire AI": [],
+  "Wole Talabi publishes Convergence Problems": [
+    {
+      "qid": "Q135094610",
+      "label": "Convergence Problems",
+      "description": "2024 short story collection by Wole Talabi",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q108753885",
+      "label": "Wole Talabi",
+      "description": "Nigerian engineer, science fiction writer, and editing staff (born 1986)",
+      "role": "person",
+      "lc": "no2021021403",
+      "confidence": "high"
+    }
+  ],
+  "Elon Musk sues OpenAI over its nonprofit mission": [],
+  "Scarlett Johansson objects to OpenAI's Sky voice": [],
+  "The EU adopts the AI Act": [],
+  "Pope Francis addresses G7 leaders on AI": [],
+  "Sutskever launches Safe Superintelligence Inc.": [
+    {
+      "qid": "Q130302670",
+      "label": "Safe Superintelligence Inc.",
+      "description": "artificial intelligence company (2024-)",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q21712134",
+      "label": "Ilya Sutskever",
+      "description": "Canadian-Israeli AI researcher",
+      "role": "person",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Academic publishers license research to AI companies": [],
+  "Reasoning models work in steps": [
+    {
+      "qid": "Q130288245",
+      "label": "OpenAI o1",
+      "description": "2024 AI model from OpenAI",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "UB to lead $10 million AI literacy center": [],
+  "Chris Sanders adapts Peter Brown's The Wild Robot": [
+    {
+      "qid": "Q124378349",
+      "label": "The Wild Robot",
+      "description": "2024 animated film directed by Chris Sanders",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q130723969",
+      "label": "The Wild Robot",
+      "description": "2016 novel by Peter Brown",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Gavin Newsom vetoes California's SB 1047 AI bill": [],
+  "Nobel Prizes honor AI research": [
+    {
+      "qid": "Q92894",
+      "label": "Geoffrey Hinton",
+      "description": "British-Canadian computer scientist and psychologist",
+      "role": "person",
+      "lc": "n80165215",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q391237",
+      "label": "John Hopfield",
+      "description": "American scientist (born 1933)",
+      "role": "person",
+      "lc": "no2001093889",
+      "confidence": "high"
+    }
+  ],
+  "43North awards $1 million to two AI startups": [],
+  "Families sue Character.AI and OpenAI over teen deaths": [],
+  "Wallace & Gromit's smart gnome, Norbot": [
+    {
+      "qid": "Q126390903",
+      "label": "Wallace and Gromit: Vengeance Most Fowl",
+      "description": "2024 film directed by Nick Park and Merlin Crossingham",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "SUNY adds AI to information literacy": [],
+  "Nnedi Okorafor publishes Death of the Author": [
+    {
+      "qid": "Q131751419",
+      "label": "Death of the Author",
+      "description": "2025 novel by Nnedi Okorafor",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q3877423",
+      "label": "Nnedi Okorafor",
+      "description": "Nigerian-American writer of fantasy, science fiction, and comics (born 1974)",
+      "role": "person",
+      "lc": "n2004028670",
+      "confidence": "high"
+    }
+  ],
+  "Trump, OpenAI, SoftBank, Oracle announce Stargate": [],
+  "AI agents start using computers": [],
+  "Karpathy coins \"vibe coding\"": [
+    {
+      "qid": "Q133150082",
+      "label": "vibe coding",
+      "description": "software development practice with AI assistance",
+      "role": "thing",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Concept item has no date; coinage is 2025 per the card"
+    },
+    {
+      "qid": "Q56037405",
+      "label": "Andrej Karpathy",
+      "description": "Slovakian-Canadian AI researcher (born 1986)",
+      "role": "person",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "xAI edits Grok after answers about Musk, Trump": [
+    {
+      "qid": "Q123361035",
+      "label": "Grok",
+      "description": "chatbot developed by SpaceXAI",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Court rules AI alone cannot be an author": [],
+  "AI Futures Project forecasts superintelligence by 2027": [
+    {
+      "qid": "Q138196018",
+      "label": "AI Futures Project",
+      "description": "nonprofit research organization focused on forecasting advanced artificial intelligence",
+      "role": "thing",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Organization item has no date; the AI 2027 report has no item"
+    },
+    {
+      "qid": "Q75738671",
+      "label": "Daniel Bendisi Kokotajlo",
+      "description": "American AI researcher (born 1992)",
+      "role": "person",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "UAlbany launches an AI and Society College": [],
+  "UB creates a Department of AI and Society": [],
+  "Trump and White House post AI-made images": [],
+  "Pope Leo XIV links his name to AI": [],
+  "Karen Hao's Empire of AI": [
+    {
+      "qid": "Q134722215",
+      "label": "Empire of AI",
+      "description": "2025 book documenting OpenAI's origins",
+      "role": "work",
+      "lc": null,
+      "confidence": "high"
+    },
+    {
+      "qid": "Q106111546",
+      "label": "Karen Hao",
+      "description": "American journalist and data scientist",
+      "role": "person",
+      "lc": "no2025058406",
+      "confidence": "high"
+    }
+  ],
+  "404 Media, Illinois audit find federal Flock searches": [],
+  "MIT Media Lab records EEG during ChatGPT essays": [
+    {
+      "qid": "Q1373549",
+      "label": "MIT Media Lab",
+      "description": "interdisciplinary research laboratory at the Massachusetts Institute of Technology",
+      "role": "thing",
+      "lc": "n86031018",
+      "confidence": "high"
+    },
+    {
+      "qid": "Q88311705",
+      "label": "Nataliya Kosmyna",
+      "description": "researcher",
+      "role": "person",
+      "lc": null,
+      "confidence": "medium",
+      "note": "Wikidata description is only 'researcher'; identity matched by name"
+    }
+  ],
+  "Altman blogs that \"the takeoff has started\"": [],
+  "Zuckerberg launches Meta Superintelligence Labs": [
+    {
+      "qid": "Q135397403",
+      "label": "Meta Superintelligence Labs",
+      "description": "American artificial intelligence firm",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Senate votes 99-1 to drop state AI ban": [],
+  "Shelby County permits xAI turbines; NAACP appeals": [],
+  "White House issues America's AI Action Plan": [],
+  "Tucson council rejects Amazon-linked Project Blue data center": [],
+  "Seneca Nation challenges STAMP data center approvals": [],
+  "Bernie Sanders warns of AI job losses": [],
+  "Buffalo News reports rise in AI-generated Bills posts": [],
+  "Future of Life Institute urges superintelligence ban": [
+    {
+      "qid": "Q18356657",
+      "label": "Future of Life Institute",
+      "description": "nonprofit organization",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Trump signs Genesis Mission order for AI science": [],
+  "DeSantis proposes a Florida AI Bill of Rights": [],
+  "Trump orders federal challenge to state AI laws": [],
+  "New York passes the RAISE Act": [],
+  "Evanston, Austin and dozens more drop Flock cameras": [],
+  "Ocasio-Cortez and Sanders propose data center moratorium": [],
+  "Professors bring back blue books and oral exams": [],
+  "Maine Governor Mills vetoes data center moratorium": [],
+  "SUNY adopts a systemwide AI policy": [],
+  "Ocasio-Cortez asks EPA about data center water quality": [],
+  "Google pledges to replenish more water by 2030": [],
+  "Governor Hochul orders pause on large data centers": [],
+  "Hochul announces Empire AI Beta online at UB": [],
+  "Bills choose AiFi checkout-free stands for stadium": [
+    {
+      "qid": "Q117213364",
+      "label": "AiFi Corp",
+      "description": "AI technology company",
+      "role": "thing",
+      "lc": null,
+      "confidence": "high"
+    }
+  ],
+  "Georgia families sue Meta over well water": [],
+  "Trump orders agencies to say \"Super Intelligence\"": []
+}

@@ -72,6 +72,13 @@ for d in data:
         path = ''.join('M%d %dh1v1h-1z' % (x, y) for y, row in enumerate(m) for x, v in enumerate(row) if v)
         svg = "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 %d %d' shape-rendering='crispEdges'><path d='%s'/></svg>" % (n, n, path)
         L['qr'] = 'data:image/svg+xml,' + svg.replace('<', '%3C').replace('>', '%3E').replace('#', '%23')
+# Library of Congress headings via Wikidata (build_lc_headings.py): subject or author links, tested in Reed's catalog
+if os.path.exists('LC-HEADINGS.json'):
+    LCH = json.load(io.open('LC-HEADINGS.json', encoding='utf8'))
+    for d in data:
+        if LCH.get(d['title']):
+            d['lc'] = [{'label': h['label'], 'heading': h['heading'], 'field': h['field']} for h in LCH[d['title']]]
+    print('LC links on', sum(1 for d in data if d.get('lc')), 'cards')
 widget = io.open('ail-timeline-widget.html', encoding='utf8').read()
 KEEP_REED = ('kind', 'title', 'by', 'note', 'url')
 for d in data:
@@ -123,6 +130,6 @@ if os.path.isdir(REPO):
     io.open(os.path.join(REPO, 'dist', 'ail-timeline.js'), 'w', encoding='utf8').write(loader)
     io.open(os.path.join(REPO, 'dist', 'timeline-data.json'), 'w', encoding='utf8').write(json.dumps(data, ensure_ascii=False, separators=(',', ':')))
     io.open(os.path.join(REPO, 'dist', 'embed.html'), 'w', encoding='utf8').write(embed)
-    for f in ('TIMELINE-CONTENT.json', 'build_timeline.py', 'ail-timeline-widget.html', 'merge_batch.py', 'harvest_campus.py'):
+    for f in ('TIMELINE-CONTENT.json', 'build_timeline.py', 'ail-timeline-widget.html', 'merge_batch.py', 'harvest_campus.py', 'build_lc_headings.py', 'LC-HEADINGS.json', 'WIKIDATA-MATCHES.json'):
         io.open(os.path.join(REPO, 'source', f), 'w', encoding='utf8').write(io.open(f, encoding='utf8').read())
     print('published dist to', REPO, '| embed', len(embed), 'chars | data', os.path.getsize(os.path.join(REPO, 'dist', 'timeline-data.json')), 'bytes')

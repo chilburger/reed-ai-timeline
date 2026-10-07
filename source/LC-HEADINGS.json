@@ -1,0 +1,960 @@
+{
+ "Apollonius of Rhodes writes of bronze Talos": [
+  {
+   "label": "Argonautica",
+   "heading": "Apollonius, Rhodius. Argonautica",
+   "qid": "Q739529",
+   "field": "sub",
+   "hits_fre": 2
+  }
+ ],
+ "Al-Khwarizmi's name gives us \"algorithm\"": [
+  {
+   "label": "Muḥammad ibn Musa al-Khwarizmi",
+   "heading": "Khuwārizmī, Muḥammad ibn Mūsá, active 813-846",
+   "qid": "Q9038",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Pascal builds the Pascaline": [
+  {
+   "label": "Blaise Pascal",
+   "heading": "Pascal, Blaise, 1623-1662",
+   "qid": "Q1290",
+   "field": "sub",
+   "hits_fre": 31
+  }
+ ],
+ "Von Kempelen unveils the Mechanical Turk chess automaton": [
+  {
+   "label": "Wolfgang von Kempelen",
+   "heading": "Kempelen, Wolfgang von, 1734-1804",
+   "qid": "Q252041",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Shelley publishes Frankenstein": [
+  {
+   "label": "Frankenstein; or, The Modern Prometheus",
+   "heading": "Shelley, Mary Wollstonecraft, 1797-1851. Frankenstein",
+   "qid": "Q150827",
+   "field": "sub",
+   "hits_fre": 22
+  },
+  {
+   "label": "Mary Shelley",
+   "heading": "Shelley, Mary Wollstonecraft, 1797-1851",
+   "qid": "Q47152",
+   "field": "sub",
+   "hits_fre": 45
+  }
+ ],
+ "Babbage designs the Analytical Engine": [
+  {
+   "label": "Charles Babbage",
+   "heading": "Babbage, Charles, 1791-1871",
+   "qid": "Q46633",
+   "field": "sub",
+   "hits_fre": 7
+  }
+ ],
+ "Auerbach and other writers print the Prague Golem": [
+  {
+   "label": "golem",
+   "heading": "Golem",
+   "qid": "Q215085",
+   "field": "sub",
+   "hits_fre": 66
+  },
+  {
+   "label": "Berthold Auerbach",
+   "heading": "Auerbach, Berthold, 1812-1882",
+   "qid": "Q76715",
+   "field": "sub",
+   "hits_fre": 2
+  }
+ ],
+ "Lovelace says the engine cannot originate anything": [
+  {
+   "label": "Ada Lovelace",
+   "heading": "Lovelace, Ada King, Countess of, 1815-1852",
+   "qid": "Q7259",
+   "field": "sub",
+   "hits_fre": 9
+  }
+ ],
+ "Butler publishes Erewhon, a land that banned machines": [
+  {
+   "label": "Samuel Butler",
+   "heading": "Butler, Samuel, 1835-1902",
+   "qid": "Q312829",
+   "field": "sub",
+   "hits_fre": 13
+  }
+ ],
+ "Carlo Collodi publishes The Adventures of Pinocchio": [
+  {
+   "label": "Carlo Collodi",
+   "heading": "Collodi, Carlo, 1826-1890",
+   "qid": "Q199588",
+   "field": "creator",
+   "hits_fre": 6
+  }
+ ],
+ "Villiers de l'Isle-Adam publishes L'Ève future": [
+  {
+   "label": "Auguste Villiers de l'Isle-Adam",
+   "heading": "Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889",
+   "qid": "Q366285",
+   "field": "sub",
+   "hits_fre": 3
+  }
+ ],
+ "Horacio Quiroga serializes El hombre artificial": [
+  {
+   "label": "Horacio Quiroga",
+   "heading": "Quiroga, Horacio, 1878-1937",
+   "qid": "Q16864",
+   "field": "sub",
+   "hits_fre": 4
+  }
+ ],
+ "R.U.R. gives us the word \"robot\"": [
+  {
+   "label": "R.U.R.",
+   "heading": "Čapek, Karel, 1890-1938. R.U.R.",
+   "qid": "Q1164094",
+   "field": "sub",
+   "hits_fre": 1
+  },
+  {
+   "label": "Karel Čapek",
+   "heading": "Čapek, Karel, 1890-1938",
+   "qid": "Q155855",
+   "field": "sub",
+   "hits_fre": 6
+  }
+ ],
+ "Lester del Rey publishes Helen O'Loy": [
+  {
+   "label": "Lester del Rey",
+   "heading": "Del Rey, Lester, 1915-1993",
+   "qid": "Q684748",
+   "field": "creator",
+   "hits_fre": 17
+  }
+ ],
+ "Bioy Casares publishes The Invention of Morel": [
+  {
+   "label": "Adolfo Bioy Casares",
+   "heading": "Bioy Casares, Adolfo",
+   "qid": "Q298035",
+   "field": "sub",
+   "hits_fre": 6
+  }
+ ],
+ "Asimov's Three Laws of Robotics": [
+  {
+   "label": "Isaac Asimov",
+   "heading": "Asimov, Isaac, 1920-1992",
+   "qid": "Q34981",
+   "field": "sub",
+   "hits_fre": 11
+  }
+ ],
+ "Murray Leinster publishes A Logic Named Joe": [
+  {
+   "label": "Murray Leinster",
+   "heading": "Leinster, Murray, 1896-1975",
+   "qid": "Q550449",
+   "field": "creator",
+   "hits_fre": 58
+  }
+ ],
+ "Jack Williamson publishes With Folded Hands": [
+  {
+   "label": "Jack Williamson",
+   "heading": "Williamson, Jack, 1908-2006",
+   "qid": "Q316788",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Turing proposes the imitation game": [
+  {
+   "label": "Turing test",
+   "heading": "Turing test",
+   "qid": "Q189223",
+   "field": "sub",
+   "hits_fre": 328
+  }
+ ],
+ "Wise directs The Day the Earth Stood Still": [
+  {
+   "label": "Robert Wise",
+   "heading": "Wise, Robert, 1914-2005",
+   "qid": "Q59821",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Grace Hopper builds the A-0 compiler": [
+  {
+   "label": "Grace Hopper",
+   "heading": "Hopper, Grace Murray",
+   "qid": "Q11641",
+   "field": "sub",
+   "hits_fre": 3
+  }
+ ],
+ "Tezuka begins the manga Astro Boy": [
+  {
+   "label": "Osamu Tezuka",
+   "heading": "Tezuka, Osamu, 1928-1989",
+   "qid": "Q193300",
+   "field": "sub",
+   "hits_fre": 3
+  }
+ ],
+ "The term \"artificial intelligence\" is coined": [
+  {
+   "label": "artificial intelligence",
+   "heading": "Artificial intelligence",
+   "qid": "Q11660",
+   "field": "sub",
+   "hits_fre": 510606
+  }
+ ],
+ "Hiller and Isaacson's Illiac Suite: a computer-composed score": [
+  {
+   "label": "Lejaren Hiller",
+   "heading": "Hiller, Lejaren, 1924-1994",
+   "qid": "Q899159",
+   "field": "creator",
+   "hits_fre": 6
+  }
+ ],
+ "Isaac Asimov publishes The Last Question": [
+  {
+   "label": "Isaac Asimov",
+   "heading": "Asimov, Isaac, 1920-1992",
+   "qid": "Q34981",
+   "field": "sub",
+   "hits_fre": 11
+  }
+ ],
+ "Serling's Twilight Zone stages robots in two episodes": [
+  {
+   "label": "Rod Serling",
+   "heading": "Serling, Rod, 1924-1975",
+   "qid": "Q435920",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Wiener warns about the goals given to machines": [
+  {
+   "label": "Norbert Wiener",
+   "heading": "Wiener, Norbert, 1894-1964",
+   "qid": "Q178577",
+   "field": "sub",
+   "hits_fre": 3
+  }
+ ],
+ "Mathews, Kelly and Lochbaum make a computer sing": [
+  {
+   "label": "Max Mathews",
+   "heading": "Mathews, Max V.",
+   "qid": "Q2587669",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Satyajit Ray begins the Professor Shonku stories": [
+  {
+   "label": "Satyajit Ray",
+   "heading": "Ray, Satyajit, 1921-1992",
+   "qid": "Q8873",
+   "field": "sub",
+   "hits_fre": 5
+  }
+ ],
+ "Nam June Paik and Shuya Abe's Robot K-456": [
+  {
+   "label": "Nam June Paik",
+   "heading": "Paik, Nam June, 1932-2006",
+   "qid": "Q158056",
+   "field": "sub",
+   "hits_fre": 2
+  }
+ ],
+ "I. J. Good's \"intelligence explosion\"": [
+  {
+   "label": "I. J. Good",
+   "heading": "Good, Irving John",
+   "qid": "Q224372",
+   "field": "creator",
+   "hits_fre": 7
+  }
+ ],
+ "Lem publishes Cyberiada, fables about robot inventors": [
+  {
+   "label": "Stanisław Lem",
+   "heading": "Lem, Stanisław",
+   "qid": "Q6530",
+   "field": "sub",
+   "hits_fre": 2
+  }
+ ],
+ "Jean-Luc Godard directs Alphaville": [
+  {
+   "label": "Jean-Luc Godard",
+   "heading": "Godard, Jean-Luc, 1930-2022",
+   "qid": "Q53001",
+   "field": "sub",
+   "hits_fre": 7
+  }
+ ],
+ "Nees, Nake and Noll show computer-made pictures": [
+  {
+   "label": "Georg Nees",
+   "heading": "Nees, Georg",
+   "qid": "Q5535768",
+   "field": "creator",
+   "hits_fre": 6
+  },
+  {
+   "label": "Frieder Nake",
+   "heading": "Nake, F.",
+   "qid": "Q92703",
+   "field": "creator",
+   "hits_fre": 9
+  }
+ ],
+ "Pedler and Davis create Doctor Who's Cybermen": [
+  {
+   "label": "Kit Pedler",
+   "heading": "Pedler, Kit",
+   "qid": "Q6417473",
+   "field": "creator",
+   "hits_fre": 3
+  }
+ ],
+ "ELIZA, an early chatbot": [
+  {
+   "label": "Joseph Weizenbaum",
+   "heading": "Weizenbaum, Joseph",
+   "qid": "Q75778",
+   "field": "creator",
+   "hits_fre": 33
+  }
+ ],
+ "Ellison publishes a story of a hostile computer": [
+  {
+   "label": "Harlan Ellison",
+   "heading": "Ellison, Harlan",
+   "qid": "Q311253",
+   "field": "sub",
+   "hits_fre": 4
+  }
+ ],
+ "Dick publishes Do Androids Dream of Electric Sheep?": [
+  {
+   "label": "Philip K. Dick",
+   "heading": "Dick, Philip K.",
+   "qid": "Q171091",
+   "field": "sub",
+   "hits_fre": 17
+  }
+ ],
+ "Fontana's Star Trek episode lets a computer command": [
+  {
+   "label": "D. C. Fontana",
+   "heading": "Fontana, D. C.",
+   "qid": "Q450706",
+   "field": "creator",
+   "hits_fre": 6
+  }
+ ],
+ "Gordon Pask's Colloquy of Mobiles at Cybernetic Serendipity": [
+  {
+   "label": "Gordon Pask",
+   "heading": "Pask, Gordon",
+   "qid": "Q370461",
+   "field": "creator",
+   "hits_fre": 14
+  }
+ ],
+ "Jasia Reichardt curates Cybernetic Serendipity in London": [
+  {
+   "label": "Jasia Reichardt",
+   "heading": "Reichardt, Jasia",
+   "qid": "Q4974363",
+   "field": "creator",
+   "hits_fre": 15
+  }
+ ],
+ "Anne McCaffrey publishes The Ship Who Sang": [
+  {
+   "label": "Anne McCaffrey",
+   "heading": "McCaffrey, Anne",
+   "qid": "Q233046",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Spärck Jones weights rare search words": [
+  {
+   "label": "Karen Spärck Jones",
+   "heading": "Spärck Jones, Karen, 1935-2007",
+   "qid": "Q14254",
+   "field": "creator",
+   "hits_fre": 1
+  }
+ ],
+ "Michael Crichton writes and directs Westworld": [
+  {
+   "label": "Michael Crichton",
+   "heading": "Crichton, Michael, 1942-2008",
+   "qid": "Q172140",
+   "field": "creator",
+   "hits_fre": 7
+  }
+ ],
+ "Fassbinder directs World on a Wire for television": [
+  {
+   "label": "Rainer Werner Fassbinder",
+   "heading": "Fassbinder, Rainer Werner, 1945-1982",
+   "qid": "Q44426",
+   "field": "sub",
+   "hits_fre": 4
+  }
+ ],
+ "Weizenbaum warns against computer judgment": [
+  {
+   "label": "Joseph Weizenbaum",
+   "heading": "Weizenbaum, Joseph",
+   "qid": "Q75778",
+   "field": "creator",
+   "hits_fre": 33
+  }
+ ],
+ "Gary Numan's Tubeway Army reaches UK number one": [
+  {
+   "label": "Gary Numan",
+   "heading": "Numan, Gary, 1958-",
+   "qid": "Q331731",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Searle's Chinese Room argument": [
+  {
+   "label": "John Searle",
+   "heading": "Searle, John R.",
+   "qid": "Q295012",
+   "field": "sub",
+   "hits_fre": 10
+  }
+ ],
+ "David Cope begins Experiments in Musical Intelligence": [
+  {
+   "label": "David Cope",
+   "heading": "Cope, David, 1941-",
+   "qid": "Q5232553",
+   "field": "sub",
+   "hits_fre": 3
+  }
+ ],
+ "Stanisław Lem publishes Golem XIV": [
+  {
+   "label": "Stanisław Lem",
+   "heading": "Lem, Stanisław",
+   "qid": "Q6530",
+   "field": "sub",
+   "hits_fre": 2
+  }
+ ],
+ "Gibson publishes Neuromancer, a novel of cyberspace": [
+  {
+   "label": "William Gibson",
+   "heading": "Gibson, William, 1948-",
+   "qid": "Q188987",
+   "field": "sub",
+   "hits_fre": 5
+  }
+ ],
+ "Banks publishes Consider Phlebas, the first Culture novel": [
+  {
+   "label": "Iain Banks",
+   "heading": "Banks, Iain, 1954-2013",
+   "qid": "Q312579",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Marge Piercy publishes He, She and It": [
+  {
+   "label": "Marge Piercy",
+   "heading": "Piercy, Marge",
+   "qid": "Q273385",
+   "field": "sub",
+   "hits_fre": 7
+  }
+ ],
+ "Vinge predicts a \"technological singularity\"": [
+  {
+   "label": "Vernor Vinge",
+   "heading": "Vinge, Vernor",
+   "qid": "Q312405",
+   "field": "creator",
+   "hits_fre": 15
+  }
+ ],
+ "Oshii directs the anime Ghost in the Shell": [
+  {
+   "label": "Mamoru Oshii",
+   "heading": "Oshii, Mamoru",
+   "qid": "Q285084",
+   "field": "creator",
+   "hits_fre": 1
+  }
+ ],
+ "Kismet, a robot with a face": [
+  {
+   "label": "Cynthia Breazeal",
+   "heading": "Breazeal, Cynthia L.",
+   "qid": "Q21585",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Serial Experiments Lain, by Nakamura and Konaka": [
+  {
+   "label": "Serial Experiments Lain",
+   "heading": "Lain",
+   "qid": "Q858387",
+   "field": "sub",
+   "hits_fre": 7
+  }
+ ],
+ "Brin and Page present Google and PageRank": [
+  {
+   "label": "Google",
+   "heading": "Google (Firm)",
+   "qid": "Q95",
+   "field": "sub",
+   "hits_fre": 55
+  }
+ ],
+ "Warren Spector and Ion Storm release Deus Ex": [
+  {
+   "label": "Deus Ex",
+   "heading": "DX",
+   "qid": "Q644793",
+   "field": "sub",
+   "hits_fre": 2
+  },
+  {
+   "label": "Warren Spector",
+   "heading": "Spector, Warren",
+   "qid": "Q964255",
+   "field": "creator",
+   "hits_fre": 3
+  }
+ ],
+ "Charles Stross publishes Accelerando": [
+  {
+   "label": "Charles Stross",
+   "heading": "Stross, Charles",
+   "qid": "Q345249",
+   "field": "creator",
+   "hits_fre": 8
+  }
+ ],
+ "Michael Mateas and Andrew Stern release Façade": [
+  {
+   "label": "Michael Mateas",
+   "heading": "Mateas, Michael",
+   "qid": "Q65015461",
+   "field": "creator",
+   "hits_fre": 95
+  }
+ ],
+ "Andrew Stanton's WALL-E opens, a robot love story": [
+  {
+   "label": "Andrew Stanton",
+   "heading": "Stanton, Andrew",
+   "qid": "Q328723",
+   "field": "creator",
+   "hits_fre": 43
+  }
+ ],
+ "ImageNet labels millions of images": [
+  {
+   "label": "Fei-Fei Li",
+   "heading": "Li, Fei Fei, 1976-",
+   "qid": "Q18686107",
+   "field": "creator",
+   "hits_fre": 1
+  }
+ ],
+ "Chiang publishes The Lifecycle of Software Objects": [
+  {
+   "label": "Ted Chiang",
+   "heading": "Chiang, Ted",
+   "qid": "Q503095",
+   "field": "creator",
+   "hits_fre": 12
+  }
+ ],
+ "Janelle Monáe releases The ArchAndroid": [
+  {
+   "label": "Janelle Monáe",
+   "heading": "Monáe, Janelle",
+   "qid": "Q234356",
+   "field": "sub",
+   "hits_fre": 2
+  }
+ ],
+ "Victor Mair posted \"Character Amnesia\" on Language Log": [
+  {
+   "label": "Victor H. Mair",
+   "heading": "Mair, Victor H., 1943-",
+   "qid": "Q7925964",
+   "field": "creator",
+   "hits_fre": 4
+  }
+ ],
+ "Hirata and Ishiguro premiere Sayonara with an android": [
+  {
+   "label": "Hiroshi Ishiguro",
+   "heading": "Ishiguro, Hiroshi, 1963-",
+   "qid": "Q382950",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Nolan's Person of Interest centers on an all-seeing Machine": [
+  {
+   "label": "Jonathan Nolan",
+   "heading": "Nolan, Jonathan",
+   "qid": "Q372788",
+   "field": "creator",
+   "hits_fre": 31
+  }
+ ],
+ "Charlie Brooker's Black Mirror begins on Channel 4": [
+  {
+   "label": "Charlie Brooker",
+   "heading": "Brooker, Charlie",
+   "qid": "Q2960837",
+   "field": "creator",
+   "hits_fre": 52
+  }
+ ],
+ "Her shows a relationship with an AI": [
+  {
+   "label": "Spike Jonze",
+   "heading": "Jonze, Spike",
+   "qid": "Q259913",
+   "field": "creator",
+   "hits_fre": 7
+  }
+ ],
+ "Leckie publishes Ancillary Justice, a starship AI's story": [
+  {
+   "label": "Ann Leckie",
+   "heading": "Leckie, Ann",
+   "qid": "Q16204354",
+   "field": "creator",
+   "hits_fre": 2
+  }
+ ],
+ "Steve Aoki's \"Singularity\" features Ray Kurzweil": [
+  {
+   "label": "Raymond Kurzweil",
+   "heading": "Kurzweil, Ray",
+   "qid": "Q298341",
+   "field": "creator",
+   "hits_fre": 61
+  }
+ ],
+ "Chinese Characters Dictation Competition debuts on CCTV": [
+  {
+   "label": "Victor H. Mair",
+   "heading": "Mair, Victor H., 1943-",
+   "qid": "Q7925964",
+   "field": "creator",
+   "hits_fre": 4
+  }
+ ],
+ "Annie Dorsen's machine-made Hamlet plays BAM": [
+  {
+   "label": "Annie Dorsen",
+   "heading": "Dorsen, Annie",
+   "qid": "Q68571662",
+   "field": "creator",
+   "hits_fre": 13
+  }
+ ],
+ "Goodfellow introduces GANs": [
+  {
+   "label": "Ian Goodfellow",
+   "heading": "Goodfellow, Ian",
+   "qid": "Q26703063",
+   "field": "creator",
+   "hits_fre": 198
+  }
+ ],
+ "Bostrom's Superintelligence and the control problem": [
+  {
+   "label": "Nick Bostrom",
+   "heading": "Bostrom, Nick, 1973-",
+   "qid": "Q460475",
+   "field": "creator",
+   "hits_fre": 9
+  }
+ ],
+ "Jordan Harrison's Marjorie Prime opens in Los Angeles": [
+  {
+   "label": "Jordan Harrison",
+   "heading": "Harrison, Jordan",
+   "qid": "Q16205034",
+   "field": "creator",
+   "hits_fre": 160
+  }
+ ],
+ "Garland writes and directs Ex Machina": [
+  {
+   "label": "Alex Garland",
+   "heading": "Garland, Alex, 1970-",
+   "qid": "Q542634",
+   "field": "creator",
+   "hits_fre": 1
+  }
+ ],
+ "Cathy O'Neil publishes Weapons of Math Destruction": [
+  {
+   "label": "Cathy O'Neil",
+   "heading": "O'Neil, Cathy",
+   "qid": "Q16499729",
+   "field": "creator",
+   "hits_fre": 20
+  }
+ ],
+ "Gender Shades finds bias in face analysis": [
+  {
+   "label": "Joy Buolamwini",
+   "heading": "Buolamwini, Joy",
+   "qid": "Q31359093",
+   "field": "creator",
+   "hits_fre": 6
+  }
+ ],
+ "Safiya Noble publishes Algorithms of Oppression": [
+  {
+   "label": "Safiya Noble",
+   "heading": "Noble, Safiya Umoja",
+   "qid": "Q54856700",
+   "field": "creator",
+   "hits_fre": 45
+  }
+ ],
+ "Observer reveals Cambridge Analytica's use of Facebook data": [
+  {
+   "label": "Cambridge Analytica",
+   "heading": "Cambridge Analytica Ltd.",
+   "qid": "Q24083484",
+   "field": "sub",
+   "hits_fre": 2
+  }
+ ],
+ "Frant Gwo's The Wandering Earth adapts Liu Cixin": [
+  {
+   "label": "Liu Cixin",
+   "heading": "Liu, Cixin",
+   "qid": "Q607588",
+   "field": "creator",
+   "hits_fre": 5
+  }
+ ],
+ "Shoshana Zuboff publishes The Age of Surveillance Capitalism": [
+  {
+   "label": "Shoshana Zuboff",
+   "heading": "Zuboff, Shoshana, 1951-",
+   "qid": "Q15953956",
+   "field": "creator",
+   "hits_fre": 1
+  }
+ ],
+ "Ian McEwan publishes Machines Like Me": [
+  {
+   "label": "Ian McEwan",
+   "heading": "McEwan, Ian",
+   "qid": "Q190379",
+   "field": "sub",
+   "hits_fre": 4
+  }
+ ],
+ "Holly Herndon releases Proto with her AI Spawn": [
+  {
+   "label": "Holly Herndon",
+   "heading": "Herndon, Holly",
+   "qid": "Q16203447",
+   "field": "creator",
+   "hits_fre": 2
+  }
+ ],
+ "Barbican opens AI: More than Human": [
+  {
+   "label": "Barbican Centre",
+   "heading": "Barbican Centre for Arts and Conferences",
+   "qid": "Q653858",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Ruha Benjamin publishes Race After Technology": [
+  {
+   "label": "Ruha Benjamin",
+   "heading": "Benjamin, Ruha",
+   "qid": "Q28935115",
+   "field": "creator",
+   "hits_fre": 23
+  }
+ ],
+ "Crawford and Paglen open Training Humans in Milan": [
+  {
+   "label": "Kate Crawford",
+   "heading": "Crawford, Kate, 1976-",
+   "qid": "Q6375450",
+   "field": "creator",
+   "hits_fre": 2
+  },
+  {
+   "label": "Trevor Paglen",
+   "heading": "Paglen, Trevor",
+   "qid": "Q7839361",
+   "field": "creator",
+   "hits_fre": 39
+  }
+ ],
+ "OpenAI announces GPT-3": [
+  {
+   "label": "OpenAI",
+   "heading": "OpenAI (Firm)",
+   "qid": "Q21708200",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Kazuo Ishiguro publishes Klara and the Sun": [
+  {
+   "label": "Kazuo Ishiguro",
+   "heading": "Ishiguro, Kazuo, 1954-",
+   "qid": "Q272855",
+   "field": "sub",
+   "hits_fre": 6
+  }
+ ],
+ "AlphaFold predicts protein shapes": [
+  {
+   "label": "Google DeepMind",
+   "heading": "Google DeepMind (Firm)",
+   "qid": "Q15733006",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Kai-Fu Lee and Chen Qiufan publish AI 2041": [
+  {
+   "label": "Kai-Fu Lee",
+   "heading": "Lee, Kai-Fu",
+   "qid": "Q699605",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "ChatGPT launches to the public": [
+  {
+   "label": "ChatGPT",
+   "heading": "ChatGPT",
+   "qid": "Q115564437",
+   "field": "sub",
+   "hits_fre": 34
+  }
+ ],
+ "Geoffrey Hinton leaves Google to warn about AI": [
+  {
+   "label": "Geoffrey Hinton",
+   "heading": "Hinton, Geoffrey E.",
+   "qid": "Q92894",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ],
+ "Beatles finish \"Now and Then\" with machine learning": [
+  {
+   "label": "The Beatles",
+   "heading": "Beatles",
+   "qid": "Q1299",
+   "field": "sub",
+   "hits_fre": 46
+  }
+ ],
+ "Wole Talabi publishes Convergence Problems": [
+  {
+   "label": "Wole Talabi",
+   "heading": "Talabi, Wole",
+   "qid": "Q108753885",
+   "field": "creator",
+   "hits_fre": 2
+  }
+ ],
+ "Nobel Prizes honor AI research": [
+  {
+   "label": "Geoffrey Hinton",
+   "heading": "Hinton, Geoffrey E.",
+   "qid": "Q92894",
+   "field": "sub",
+   "hits_fre": 1
+  },
+  {
+   "label": "John Hopfield",
+   "heading": "Hopfield, John J.",
+   "qid": "Q391237",
+   "field": "creator",
+   "hits_fre": 19
+  }
+ ],
+ "Nnedi Okorafor publishes Death of the Author": [
+  {
+   "label": "Nnedi Okorafor",
+   "heading": "Okorafor, Nnedi",
+   "qid": "Q3877423",
+   "field": "creator",
+   "hits_fre": 29
+  }
+ ],
+ "Karen Hao's Empire of AI": [
+  {
+   "label": "Karen Hao",
+   "heading": "Hao, Karen",
+   "qid": "Q106111546",
+   "field": "creator",
+   "hits_fre": 24
+  }
+ ],
+ "MIT Media Lab records EEG during ChatGPT essays": [
+  {
+   "label": "MIT Media Lab",
+   "heading": "Massachusetts Institute of Technology. Media Laboratory",
+   "qid": "Q1373549",
+   "field": "sub",
+   "hits_fre": 1
+  }
+ ]
+}
