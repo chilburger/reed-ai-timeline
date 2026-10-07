@@ -148,3 +148,13 @@
 }
 @media (prefers-reduced-motion:reduce){#ail-tl,#ail-tl .ail-tl-sky,#ail-tl .ail-tl-card,#ail-tl .ail-tl-year-fill,#ail-tl .ail-tl-gap-bar i{transition:none}}
 @media print{#ail-tl{display:none}}
+.ail-tl-hl{margin:10px 0 0;display:grid;gap:6px}
+.ail-tl-hl-k{margin:0;font-size:12px;letter-spacing:.06em;text-transform:uppercase;opacity:.85}
+.ail-tl-hl-i{margin:0;font-size:15px;line-height:1.35}
+.ail-tl-hl-all .k-one,.ail-tl[data-hl="stack"] .k-one,.ail-tl[data-hl="one"] .k-all{display:none}
+.ail-tl[data-hl="one"] .ail-tl-card .ail-tl-hl-i:not(.is-pick){display:none}
+.ail-tl[data-hl="stack"] .ail-tl-card .ail-tl-hl-i{padding:6px 10px;border:1px solid currentColor;border-radius:3px;box-shadow:3px 3px 0 rgba(0,0,0,.25)}
+.ail-tl[data-hl="stack"] .ail-tl-card .ail-tl-hl-i:nth-of-type(2n){margin-left:10px}
+.ail-tl-hlbtn{min-height:44px;padding:0 14px;font-size:15px;cursor:pointer}
+.ail-tl-card.is-open{outline:2px dashed currentColor;outline-offset:-10px}
+.ail-tl-lc{font-style:italic}

@@ -60,7 +60,7 @@ for fname in ('CULTURE-ENRICH-APPROVED.json', 'SONGS-ENRICH.json', 'NEW-ENRICH.j
         for d in data:
             e = enr.get(d['title'])
             if e:
-                for k in ('quotes', 'reading', 'reading_src', 'read_free', 'listen', 'audio'):
+                for k in ('quotes', 'reading', 'reading_src', 'read_free', 'listen', 'audio', 'headlines', 'lc'):
                     if e.get(k):
                         d[k] = e[k]
 for d in data:
@@ -107,7 +107,7 @@ if os.path.isdir(REPO):
               "function MAIN(){" + js_full + "}\n"
               "if(window.AIL_TL_DATA){MAIN();return;}"
               "fetch(root.getAttribute('data-src')||'" + BASE + "timeline-data.json').then(function(r){return r.json();})"
-              ".then(function(d){window.AIL_TL_DATA=d;MAIN();})"
+              ".then(function(d){if(d&&d.cards){window.AIL_TL_TOPIC=d.topic||{};d=d.cards;}window.AIL_TL_DATA=d;MAIN();})"
               ".catch(function(){root.insertAdjacentHTML('afterbegin','<p style=\"padding:12px\">The timeline could not load. The full list of milestones is below.</p>');});})();\n")
     markup = _re.sub(r'<style>.*?</style>', '', widget, flags=_re.S)
     markup = _re.sub(r'<script>.*?</script>', '', markup, flags=_re.S)
@@ -119,6 +119,6 @@ if os.path.isdir(REPO):
     io.open(os.path.join(REPO, 'dist', 'ail-timeline.js'), 'w', encoding='utf8').write(loader)
     io.open(os.path.join(REPO, 'dist', 'timeline-data.json'), 'w', encoding='utf8').write(json.dumps(data, ensure_ascii=False, separators=(',', ':')))
     io.open(os.path.join(REPO, 'dist', 'embed.html'), 'w', encoding='utf8').write(embed)
-    for f in ('TIMELINE-CONTENT.json', 'build_timeline.py', 'ail-timeline-widget.html', 'merge_batch.py'):
+    for f in ('TIMELINE-CONTENT.json', 'build_timeline.py', 'ail-timeline-widget.html', 'merge_batch.py', 'harvest_campus.py'):
         io.open(os.path.join(REPO, 'source', f), 'w', encoding='utf8').write(io.open(f, encoding='utf8').read())
     print('published dist to', REPO, '| embed', len(embed), 'chars | data', os.path.getsize(os.path.join(REPO, 'dist', 'timeline-data.json')), 'bytes')

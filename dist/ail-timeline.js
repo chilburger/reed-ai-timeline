@@ -1,15 +1,21 @@
 (function(){var root=document.getElementById('ail-tl');if(!root||window.AIL_TL_LOADED)return;window.AIL_TL_LOADED=1;function MAIN(){
   var root=document.getElementById('ail-tl');if(!root||root.getAttribute('data-wired'))return;root.setAttribute('data-wired','1');
-  var DATA=(window.AIL_TL_DATA||[]).slice();if(!DATA.length)return;
+  var TOPIC=window.AIL_TL_TOPIC||{};var DATA=(window.AIL_TL_DATA||[]).slice();if(!DATA.length)return;
   /* New milestones from Christina's Google Sheet ("AI Timeline additions (Reed Library)"). Rows marked example or researched are skipped;
      researched rows already live in the data above. The sheet must be shared as "Anyone with the link can view". */
-  var SHEET='11GZu6bNznczW5tlxueDwR7oQXf3gJVH0igeJGh3wz28';
+  var SHEET=TOPIC.sheet!=null?TOPIC.sheet:'11GZu6bNznczW5tlxueDwR7oQXf3gJVH0igeJGh3wz28';
+  /* another library's own catalog records for each card: data-campus="01SUNY_GEN" (or a URL), built by harvest_campus.py */
+  var CAMPUS=null;
+  function loadCampus(next){var c=root.getAttribute('data-campus'),done=false,go=function(){if(!done){done=true;next();}};if(!c||!window.fetch)return go();
+    var u=/^https?:/.test(c)?c:(root.getAttribute('data-src')||'').replace(/[^\/]*$/,'')+'campus/'+c+'.json';setTimeout(go,4000);
+    fetch(u).then(function(r){return r.ok?r.json():null;}).then(function(j){if(j&&j.items)CAMPUS=j;go();}).catch(go);}
+  function skey(d){var p=String(d.date||d.year).replace(/^-/,'').split('-');return (+d.year)*10000+(+p[1]||0)*100+(+p[2]||0);}
   function parseCSV(t){var rows=[],row=[],f='',q=false;for(var i=0;i<t.length;i++){var c=t[i];if(q){if(c==='"'){if(t[i+1]==='"'){f+='"';i++;}else q=false;}else f+=c;}else if(c==='"')q=true;else if(c===','){row.push(f);f='';}else if(c==='\n'){row.push(f);rows.push(row);row=[];f='';}else if(c!=='\r')f+=c;}if(f||row.length){row.push(f);rows.push(row);}return rows;}
   function fromSheet(t){var R=parseCSV(t);if(R.length<2)return [];var H=R[0].map(function(h){return h.trim().toLowerCase();}),col=function(r,n){var i=H.indexOf(n);return i<0?'':(r[i]||'').trim();};var have={};DATA.forEach(function(d){have[d.title.toLowerCase()]=1;});
     return R.slice(1).map(function(r){var st=col(r,'status').toLowerCase(),y=parseInt(col(r,'year'),10),ti=col(r,'title');if(st==='example'||st==='researched'||!ti||!y||have[ti.toLowerCase()])return null;
       var d={year:y,date:col(r,'date')||String(y),title:ti,track:col(r,'topic').toLowerCase(),text:col(r,'what happened'),why:col(r,'why it mattered'),isNew:true};
       if(col(r,'source link'))d.source={label:'Source',url:col(r,'source link')};if(col(r,'reed link'))d.reed=[{kind:'item',title:'Reed Library item',url:col(r,'reed link')}];if(col(r,"christina's note"))d.musing=col(r,"christina's note");return d;}).filter(Boolean);}
-  function start(extra){if(extra&&extra.length){DATA=DATA.concat(extra);DATA.sort(function(a,b){return String(a.date||a.year).padStart(10,'0')<String(b.date||b.year).padStart(10,'0')?-1:1;});}boot();}
+  function start(extra){if(extra&&extra.length){DATA=DATA.concat(extra);DATA.sort(function(a,b){return skey(a)-skey(b);});}loadCampus(boot);}
   var started=false;function once(x){if(started)return;started=true;start(x);}
   if(SHEET&&window.fetch){setTimeout(function(){once([]);},3500);fetch('https://docs.google.com/spreadsheets/d/'+SHEET+'/gviz/tq?tqx=out:csv').then(function(r){return r.ok?r.text():'';}).then(function(t){once(t?fromSheet(t):[]);}).catch(function(){once([]);});}else once([]);
   function boot(){
@@ -18,9 +24,17 @@
   var yOut=root.querySelector('.ail-tl-year-out'),yFill=root.querySelector('.ail-tl-year-fill'),eraL=root.querySelector('.ail-tl-era');
   var sr=root.querySelector('.ail-tl-sr'),count=root.querySelector('.ail-tl-count'),pull=root.querySelector('.ail-tl-pull'),pullT=root.querySelector('.ail-tl-pull-t'),back=root.querySelector('.ail-tl-back');
   var gapV=root.querySelector('.ail-tl-gap-v'),gapBar=root.querySelector('.ail-tl-gap-bar i');
-  var TRACKS={tech:'Technology',idea:'Ideas & fiction',culture:'Pop culture & art',society:'Society & policy',edu:'Education',suny:'SUNY'};
+  var TRACKS={tech:'Technology',idea:'Ideas & fiction',culture:'Pop culture & art',society:'Society & policy',edu:'Education',suny:'SUNY'};if(TOPIC.tracks)TRACKS=TOPIC.tracks;
   var PROFILE='https://fredonia.libguides.com/prf.php?account_id=230679';
   var RS='https://suny-fre.primo.exlibrisgroup.com/discovery/search?vid=01SUNY_FRE:01SUNY_FRE&tab=Everything&search_scope=MyInst_and_CI&query=any,contains,';
+  var HOME='Reed’s collection',SRCH='ReedSearch';
+  if(CAMPUS){HOME=CAMPUS.name+'’s collection';SRCH=CAMPUS.searchLabel||'the catalog';RS=CAMPUS.host+'/discovery/search?vid='+CAMPUS.vid+'&tab=Everything&search_scope=MyInst_and_CI&query=any,contains,';
+    DATA.forEach(function(d){d.cited=d.reed;d.reed=CAMPUS.items[d.title]||[];});}
+  var RSUB=RS.replace('any,contains,','sub,exact,');
+  function yl(y){return +y<0?(-y)+' BCE':String(y);}
+  function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;}return a;}
+  var HLMODE='one';try{HLMODE=localStorage.getItem('ail-tl-hl')||'one';}catch(e){}root.setAttribute('data-hl',HLMODE);
+  if(TOPIC.title){var kk=root.querySelector('.ail-tl-kicker');if(kk)kk.textContent=TOPIC.title;}
   var SUGGEST='';/* link to the suggestion form; the line stays hidden while this is empty */
   (function(){var sg=root.parentNode.querySelector('.ail-tl-suggest');if(sg&&SUGGEST){sg.querySelector('a').href=SUGGEST;sg.hidden=false;}})();
   var KINDS={book:'Book',ebook:'E-book',video:'Video',nyt:'NYT',article:'Article',essay:'Essay',film:'Film analysis',chapter:'Chapter',review:'Review',reference:'Reference',news:'News',dissertation:'Dissertation'};
@@ -32,18 +46,18 @@
     {to:1994,id:'terminal',b:'green',f:'VT323,monospace',c:'#33ff66',l:'Green-screen terminal, 1980s'},
     {to:2009,id:'y2k',b:'blue',f:'Orbitron,Arial,sans-serif',c:'#9cc8ff',l:'Y2K future, late 1990s and 2000s'},
     {to:2019,id:'modern',b:'die',f:'"Space Grotesk",Arial,sans-serif',c:'#f3f1ea',l:'Clean modern sans, 2010s'},
-    {to:9999,id:'now',b:'die',f:'"JetBrains Mono",monospace',c:'#c4d600',l:'Code font, 2020s'}];
+    {to:9999,id:'now',b:'die',f:'"JetBrains Mono",monospace',c:'#c4d600',l:'Code font, 2020s'}];if(TOPIC.eras)ERAS=TOPIC.eras;
   var BOARDS={gears:{bg:'#1a1209',line:'rgba(205,165,90,.20)',pad:'rgba(205,165,90,.30)',pk:'255,214,140',glow:'#e8c27a'},
     tubes:{bg:'#120c08',line:'rgba(184,115,51,.26)',pad:'rgba(255,140,60,.30)',pk:'255,160,80',glow:'#ffb36b'},
     dip:{bg:'#241a0c',line:'rgba(214,170,80,.24)',pad:'rgba(230,190,110,.34)',pk:'255,200,110',glow:'#ffc46b'},
     green:{bg:'#06210f',line:'rgba(110,200,120,.22)',pad:'rgba(220,200,120,.32)',pk:'90,255,130',glow:'#5cff8a'},
     blue:{bg:'#051226',line:'rgba(110,160,230,.22)',pad:'rgba(200,210,230,.30)',pk:'150,200,255',glow:'#9cc8ff'},
     die:{bg:'#05070d',line:'rgba(150,170,200,.16)',pad:'rgba(196,214,0,.30)',pk:'215,242,90',glow:'#d7f25a'}};
-  var PHOTOS={"gears": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/A_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg/1920px-A_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg", "page": "https://commons.wikimedia.org/wiki/File:A_Jacquard_loom_showing_information_punchcards,_National_Museum_of_Scotland.jpg", "credit": "Jacquard loom punch cards (Stephencdickson, CC BY-SA 4.0)"}, "tubes": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ENIAC_Tubes_%282585374699%29.jpg/1920px-ENIAC_Tubes_%282585374699%29.jpg", "page": "https://commons.wikimedia.org/wiki/File:ENIAC_Tubes_(2585374699).jpg", "credit": "ENIAC vacuum tubes (Erik Pitti, CC BY 2.0)"}, "dip": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fairchild_7447A_die_mit5x.jpg/1920px-Fairchild_7447A_die_mit5x.jpg", "page": "https://commons.wikimedia.org/wiki/File:Fairchild_7447A_die_mit5x.jpg", "credit": "Fairchild 7447A chip die (John McMaster, CC BY 4.0)"}, "green": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IBM_PC_Motherboard_%281981%29.jpg/1920px-IBM_PC_Motherboard_%281981%29.jpg", "page": "https://commons.wikimedia.org/wiki/File:IBM_PC_Motherboard_(1981).jpg", "credit": "IBM PC motherboard, 1981 (German, CC BY-SA 3.0)"}, "blue": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Intel_Dixon_%28Pentium_II%29_die_shot.jpg/1920px-Intel_Dixon_%28Pentium_II%29_die_shot.jpg", "page": "https://commons.wikimedia.org/wiki/File:Intel_Dixon_(Pentium_II)_die_shot.jpg", "credit": "Intel Pentium II die (Martijn Boer, Public domain)"}, "die": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zen2_Matisse_Ryzen_7nm_Core_Die_shot.jpg/1920px-Zen2_Matisse_Ryzen_7nm_Core_Die_shot.jpg", "page": "https://commons.wikimedia.org/wiki/File:Zen2_Matisse_Ryzen_7nm_Core_Die_shot.jpg", "credit": "AMD Zen 2 processor die (Fritzchens Fritz, CC0)"}};
+  var PHOTOS={"gears": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/A_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg/1920px-A_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg", "page": "https://commons.wikimedia.org/wiki/File:A_Jacquard_loom_showing_information_punchcards,_National_Museum_of_Scotland.jpg", "credit": "Jacquard loom punch cards (Stephencdickson, CC BY-SA 4.0)"}, "tubes": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ENIAC_Tubes_%282585374699%29.jpg/1920px-ENIAC_Tubes_%282585374699%29.jpg", "page": "https://commons.wikimedia.org/wiki/File:ENIAC_Tubes_(2585374699).jpg", "credit": "ENIAC vacuum tubes (Erik Pitti, CC BY 2.0)"}, "dip": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fairchild_7447A_die_mit5x.jpg/1920px-Fairchild_7447A_die_mit5x.jpg", "page": "https://commons.wikimedia.org/wiki/File:Fairchild_7447A_die_mit5x.jpg", "credit": "Fairchild 7447A chip die (John McMaster, CC BY 4.0)"}, "green": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IBM_PC_Motherboard_%281981%29.jpg/1920px-IBM_PC_Motherboard_%281981%29.jpg", "page": "https://commons.wikimedia.org/wiki/File:IBM_PC_Motherboard_(1981).jpg", "credit": "IBM PC motherboard, 1981 (German, CC BY-SA 3.0)"}, "blue": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Intel_Dixon_%28Pentium_II%29_die_shot.jpg/1920px-Intel_Dixon_%28Pentium_II%29_die_shot.jpg", "page": "https://commons.wikimedia.org/wiki/File:Intel_Dixon_(Pentium_II)_die_shot.jpg", "credit": "Intel Pentium II die (Martijn Boer, Public domain)"}, "die": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zen2_Matisse_Ryzen_7nm_Core_Die_shot.jpg/1920px-Zen2_Matisse_Ryzen_7nm_Core_Die_shot.jpg", "page": "https://commons.wikimedia.org/wiki/File:Zen2_Matisse_Ryzen_7nm_Core_Die_shot.jpg", "credit": "AMD Zen 2 processor die (Fritzchens Fritz, CC0)"}};if(TOPIC.photos)PHOTOS=TOPIC.photos;if(TOPIC.boards)for(var bk in TOPIC.boards)BOARDS[bk]=TOPIC.boards[bk];
   function eraOf(y){for(var i=0;i<ERAS.length;i++)if(y<=ERAS[i].to)return ERAS[i];return ERAS[ERAS.length-1];}
   function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;}
-  function fmtDate(d){var p=String(d.date||d.year).split('-');var M=['January','February','March','April','May','June','July','August','September','October','November','December'];if(p.length===3)return M[+p[1]-1]+' '+(+p[2])+', '+p[0];if(p.length===2)return M[+p[1]-1]+' '+p[0];return p[0];}
-  function months(d){var p=String(d.date||d.year).split('-');return (+p[0])*12+((p[1]?+p[1]:6)-1);}
+  function fmtDate(d){if(+d.year<0)return yl(d.year);var p=String(d.date||d.year).split('-');var M=['January','February','March','April','May','June','July','August','September','October','November','December'];if(p.length===3)return M[+p[1]-1]+' '+(+p[2])+', '+p[0];if(p.length===2)return M[+p[1]-1]+' '+p[0];return p[0];}
+  function months(d){if(+d.year<0)return (+d.year)*12;var p=String(d.date||d.year).split('-');return (+p[0])*12+((p[1]?+p[1]:6)-1);}
   function gapText(a,b){var m=months(b)-months(a);if(m>=24)return '+'+Math.round(m/12)+' years';if(m>=12)return '+1 year';if(m<=0)return 'same time';return '+'+m+(m===1?' month':' months');}
   DATA.forEach(function(d){d.track=d.track||d.kind||'tech';if(!TRACKS[d.track])d.track='tech';});
   var on={};Object.keys(TRACKS).forEach(function(t){on[t]=true;});
@@ -52,18 +66,21 @@
   /* cards */
   var MORE=[];
   var cards=DATA.map(function(d,i){
-    var a=el('article','ail-tl-card');a.setAttribute('aria-hidden','true');a.setAttribute('data-track',d.track);
+    var a=el('article','ail-tl-card'+(d.open?' is-open':''));a.setAttribute('aria-hidden','true');a.setAttribute('data-track',d.track);
     var fig=el('div','ail-tl-img');
     if(d.image&&d.image.src){var im=new Image();im.src=d.image.src;im.alt=d.image.alt||'';im.loading='lazy';im.decoding='async';fig.appendChild(im);}
-    else{var n=el('div','ail-tl-noimg',String(d.year));n.style.setProperty('--yf',eraOf(d.year).f);n.setAttribute('aria-hidden','true');fig.appendChild(n);}
+    else{var n=el('div','ail-tl-noimg',yl(d.year));n.style.setProperty('--yf',eraOf(d.year).f);n.setAttribute('aria-hidden','true');fig.appendChild(n);}
     a.appendChild(fig);
     var b=el('div','ail-tl-body');b.appendChild(el('p','ail-tl-tag',TRACKS[d.track]));if(d.isNew)b.appendChild(el('p','ail-tl-new','Recently added'));b.appendChild(el('p','ail-tl-date',fmtDate(d)));b.appendChild(el('h3','ail-tl-title',d.title));
     b.appendChild(el('p','ail-tl-text',d.text));
+    /* headlines from several outlets: shuffled on every visit; "one" shows the first, "stack" shows all; the pop-up always lists all */
+    if(d.headlines&&d.headlines.length>1){var hs=shuffle(d.headlines),hw=el('div','ail-tl-hl');var hk=el('p','ail-tl-hl-k');hk.appendChild(el('span','k-one','Headline (one of '+hs.length+', picked at random each visit)'));hk.appendChild(el('span','k-all','How '+hs.length+' outlets headlined it (random order)'));hw.appendChild(hk);
+      hs.forEach(function(h,j){var hp=el('p','ail-tl-hl-i'+(j?'':' is-pick'));var ha=el('a',null,'“'+h.headline+'”');ha.href=h.url;hp.appendChild(ha);hp.appendChild(document.createTextNode(' '+h.outlet+(h.date?', '+h.date:'')));hw.appendChild(hp);});b.appendChild(hw);var hw2=hw.cloneNode(true);hw2.className='ail-tl-hl ail-tl-hl-all';var vk=document.createElement('p');vk.className='ail-tl-hl-k';vk.textContent='Compare headlines';hw2.replaceChild(vk,hw2.firstChild);b._hl=hw2;}
     if(d.why){var w=el('p','ail-tl-why');w.appendChild(el('strong',null,'Why it mattered: '));w.appendChild(document.createTextNode(d.why));b.appendChild(w);}
     var meta=el('p','ail-tl-meta');
     if(d.source&&d.source.url){meta.appendChild(document.createTextNode('Source: '));var s=el('a',null,d.source.label||'source');s.href=d.source.url;meta.appendChild(s);}
     if(d.image&&d.image.credit){meta.appendChild(document.createTextNode((meta.childNodes.length?'. ':'')+'Image: '));if(d.image.page){var c=el('a',null,d.image.credit);c.href=d.image.page;meta.appendChild(c);}else meta.appendChild(document.createTextNode(d.image.credit));}
-    var more=el('div','ail-tl-more');
+    var more=el('div','ail-tl-more');if(b._hl)more.appendChild(b._hl);
     (d.quotes||[]).forEach(function(q){var bq=el('blockquote','ail-tl-q');bq.appendChild(document.createTextNode('“'+q.q+'”'));var ci=el('cite');ci.appendChild(document.createTextNode(q.who+(q.src?', ':'')));if(q.src){var qa=el('a',null,q.src.label);qa.href=q.src.url;ci.appendChild(qa);}bq.appendChild(ci);more.appendChild(bq);});
     if(d.reading){var rd=el('p','ail-tl-read');rd.appendChild(el('strong',null,'How people read it: '));rd.appendChild(document.createTextNode(d.reading+' '));if(d.reading_src&&d.reading_src.url){var rsa=el('a',null,'('+(d.reading_src.label||'source')+')');rsa.href=d.reading_src.url;rd.appendChild(rsa);}more.appendChild(rd);}
     if(d.musing_sources&&d.musing_sources.length){var ms2=el('div','ail-tl-reed');ms2.appendChild(el('strong',null,'Sources behind Christina’s note'));var ul2=el('ul');d.musing_sources.forEach(function(x){var li=el('li');var a2=el('a',null,x.label);a2.href=x.url;li.appendChild(a2);if(x.note)li.appendChild(document.createTextNode(' ('+x.note+')'));ul2.appendChild(li);});ms2.appendChild(ul2);more.appendChild(ms2);}
@@ -73,10 +90,12 @@
       if(d.listen.spotify){var sp=el('a','ail-tl-lbtn','Open in Spotify');sp.href=d.listen.spotify;ls.appendChild(sp);}
       if(d.listen.qr){var qi=new Image();qi.className='ail-tl-qr';qi.src=d.listen.qr;qi.alt='QR code: listen to '+(d.listen.label||d.title)+' on your phone';ls.appendChild(qi);}
       b.appendChild(ls);}
-    if(d.search&&d.search.length){var sx2=el('div','ail-tl-search');sx2.appendChild(el('span','ail-tl-search-l','Explore in ReedSearch:'));d.search.forEach(function(t){var sa=el('a',null,t.term);sa.href=RS+encodeURIComponent(t.term);sa.title='Search Reed Library for '+t.term;sx2.appendChild(sa);});more.appendChild(sx2);}
+    if((d.search&&d.search.length)||(d.lc&&d.lc.length)){var sx2=el('div','ail-tl-search');sx2.appendChild(el('span','ail-tl-search-l','Explore in '+SRCH+':'));(d.search||[]).forEach(function(t){var sa=el('a',null,t.term);sa.href=RS+encodeURIComponent(t.term);sa.title='Search '+SRCH+' for '+t.term;sx2.appendChild(sa);});
+      (d.lc||[]).forEach(function(h){var la=el('a','ail-tl-lc','Subject: '+(h.label||h.heading));la.href=RSUB+encodeURIComponent(h.heading);la.title='Library of Congress heading: '+h.heading;sx2.appendChild(la);});more.appendChild(sx2);}
     if(d.musing){var mu=el('p','ail-tl-musing');var ml=el('a','ail-tl-musing-by','Librarian’s note · Christina');ml.href=PROFILE;mu.appendChild(ml);mu.appendChild(document.createTextNode(' '));mu.appendChild(document.createTextNode(d.musing));b.appendChild(mu);}
     more.appendChild(meta);
-    if(d.reed&&d.reed.length){var rb=el('div','ail-tl-reed');rb.appendChild(el('strong',null,'In Reed’s collection'));var ul=el('ul');d.reed.forEach(function(x){var li=el('li');li.appendChild(el('span','ail-tl-kind',KINDS[x.kind]||'Item'));var t=x.title.split(' : ')[0].split(': ')[0];if(t.length>70)t=t.slice(0,67)+'...';var ra=el('a',null,t);ra.href=x.url;ra.title=x.title+(x.by?', '+x.by:'')+(x.note?' ('+x.note+')':'');li.appendChild(ra);ul.appendChild(li);});rb.appendChild(ul);more.appendChild(rb);}
+    if(d.reed&&d.reed.length){var rb=el('div','ail-tl-reed');rb.appendChild(el('strong',null,'In '+HOME));var ul=el('ul');d.reed.forEach(function(x){var li=el('li');li.appendChild(el('span','ail-tl-kind',KINDS[x.kind]||'Item'));var t=x.title.split(' : ')[0].split(': ')[0];if(t.length>70)t=t.slice(0,67)+'...';var ra=el('a',null,t);ra.href=x.url;ra.title=x.title+(x.by?', '+x.by:'')+(x.note?' ('+x.note+')':'');li.appendChild(ra);ul.appendChild(li);});rb.appendChild(ul);more.appendChild(rb);}
+    if(CAMPUS&&d.cited&&d.cited.length){var cw=el('div','ail-tl-reed');cw.appendChild(el('strong',null,'Works this card cites (Reed Library, SUNY Fredonia)'));var cu=el('ul');d.cited.forEach(function(x){var li=el('li');li.appendChild(el('span','ail-tl-kind',KINDS[x.kind]||'Item'));var t=x.title.split(' : ')[0].split(': ')[0];li.appendChild(document.createTextNode(t+' '));var fa=el('a',null,'(find it in '+SRCH+')');fa.href=RS+encodeURIComponent(t);li.appendChild(fa);cu.appendChild(li);});cw.appendChild(cu);more.appendChild(cw);}
     if(d.contributor||d.reviewer){var cr=el('p','ail-tl-meta');if(d.contributor)cr.appendChild(document.createTextNode('Contributed by '+d.contributor+'. '));if(d.reviewer)cr.appendChild(document.createTextNode('Reviewed by '+d.reviewer+'.'));more.appendChild(cr);}
     MORE[i]=more;var ob=el('button','ail-tl-open','Sources and links');ob.type='button';ob.setAttribute('aria-haspopup','dialog');ob.addEventListener('click',function(e){e.stopPropagation();openMore(i,ob);});b.appendChild(ob);
     a.appendChild(b);
@@ -95,7 +114,7 @@
   var ol=root.parentNode.querySelector('.ail-tl-list ol');
   DATA.forEach(function(d){var li=el('li');li.appendChild(el('strong',null,fmtDate(d)+' ('+TRACKS[d.track]+'): '+d.title+'. '));li.appendChild(document.createTextNode(d.text+(d.why?' '+d.why:'')+(d.reading?' How people read it: '+d.reading:'')+(d.musing?' Librarian’s note (Christina Hilburger): '+d.musing:'')+' '));
     if(d.source&&d.source.url){var s=el('span','ail-tl-src');s.appendChild(document.createTextNode('Source: '));var a=el('a',null,d.source.label||'source');a.href=d.source.url;s.appendChild(a);li.appendChild(s);}
-    if(d.reed&&d.reed.length){var rs=el('span','ail-tl-src');rs.appendChild(document.createTextNode(' In Reed’s collection: '));d.reed.forEach(function(x,j){if(j)rs.appendChild(document.createTextNode('; '));var ra=el('a',null,x.title);ra.href=x.url;rs.appendChild(ra);});li.appendChild(rs);}
+    if(d.reed&&d.reed.length){var rs=el('span','ail-tl-src');rs.appendChild(document.createTextNode(' In '+HOME+': '));d.reed.forEach(function(x,j){if(j)rs.appendChild(document.createTextNode('; '));var ra=el('a',null,x.title);ra.href=x.url;rs.appendChild(ra);});li.appendChild(rs);}
     if(d.listen){var lsn=el('span','ail-tl-src');lsn.appendChild(document.createTextNode(' Listen: '));if(d.listen.youtube){var ya=el('a',null,'YouTube');ya.href='https://www.youtube.com/watch?v='+d.listen.youtube;lsn.appendChild(ya);}if(d.listen.spotify){if(d.listen.youtube)lsn.appendChild(document.createTextNode(', '));var sa=el('a',null,'Spotify');sa.href=d.listen.spotify;lsn.appendChild(sa);}li.appendChild(lsn);}
     ol.appendChild(li);});
   /* circuit path through points: horizontal runs, 45-degree bends, vertical jogs */
@@ -188,9 +207,9 @@
   var yearAnim=null;
   function showYear(from,to){var e=eraOf(to);root.setAttribute('data-era',e.id);root.style.setProperty('--yf',e.f);root.style.setProperty('--yc',e.c);eraL.textContent='Type style: '+e.l;
     root.classList.remove('is-filled');
-    if(reduce||from===to){yOut.textContent=yFill.textContent=String(to);requestAnimationFrame(function(){root.classList.add('is-filled');});return;}
+    if(reduce||from===to){yOut.textContent=yFill.textContent=yl(to);requestAnimationFrame(function(){root.classList.add('is-filled');});return;}
     cancelAnimationFrame(yearAnim);var t0=performance.now(),dur=Math.min(1100,350+Math.abs(to-from)*3);
-    (function step(t){var k=Math.min(1,(t-t0)/dur);k=1-Math.pow(1-k,3);var y=Math.round(from+(to-from)*k);yOut.textContent=yFill.textContent=String(y);if(k<1)yearAnim=requestAnimationFrame(step);else root.classList.add('is-filled');})(t0);}
+    (function step(t){var k=Math.min(1,(t-t0)/dur);k=1-Math.pow(1-k,3);var y=Math.round(from+(to-from)*k);yOut.textContent=yFill.textContent=yl(y);if(k<1)yearAnim=requestAnimationFrame(step);else root.classList.add('is-filled');})(t0);}
   /* blend: the next era's board fades in over the two cards before it; the last era's board lingers one card after */
   function bOf(i){var x=DATA[seq[i]];return x?eraOf(x.year).b:null;}
   function blend(){var p=bOf(cur),m={};m[p]=1;var n1=bOf(cur+1),n2=bOf(cur+2),b1=bOf(cur-1);
@@ -200,7 +219,7 @@
     if(!seq.length||k<0||k>=seq.length)return;var prevYear=(DATA[seq[cur]]||DATA[seq[k]]).year,fwd=k>cur;cur=k;layout();var d=DATA[seq[cur]];showYear(prevYear,d.year);blend();if(!fromFilter)runPulse(fwd);
     count.textContent=(cur+1)+' / '+seq.length;sr.textContent='Milestone '+(cur+1)+' of '+seq.length+': '+fmtDate(d)+', '+d.title;
     back.disabled=cur===0;
-    if(cur<seq.length-1){var nx=DATA[seq[cur+1]];pull.disabled=false;pullT.textContent='Follow the circuit: '+nx.year;pull.setAttribute('aria-label','Next milestone: '+nx.year+', '+nx.title);
+    if(cur<seq.length-1){var nx=DATA[seq[cur+1]];pull.disabled=false;pullT.textContent='Follow the circuit: '+yl(nx.year);pull.setAttribute('aria-label','Next milestone: '+yl(nx.year)+', '+nx.title);
       var g=months(nx)-months(d);gapV.textContent=gapText(d,nx);gapBar.style.width=Math.max(3,Math.round(Math.sqrt(Math.max(g,1)/maxGap)*100))+'%';
       target=reduce?0:Math.min(14,.3+8/Math.sqrt(Math.max(g,1)));}
     else{pull.disabled=true;pullT.textContent='You have reached today';pull.removeAttribute('aria-label');gapV.textContent='';gapBar.style.width='0';target=.5;}}
@@ -209,6 +228,8 @@
   function syncBtns(){var every=Object.keys(on).every(function(t){return on[t];});allBtn.setAttribute('aria-pressed',every?'true':'false');filt.querySelectorAll('button[data-track]').forEach(function(b){b.setAttribute('aria-pressed',on[b.getAttribute('data-track')]?'true':'false');});}
   function refilter(){var y=DATA[seq[cur]]?DATA[seq[cur]].year:DATA[0].year;build();var k=0;for(var j=0;j<seq.length;j++)if(DATA[seq[j]].year<=y)k=j;cur=Math.min(k,Math.max(0,seq.length-1));syncBtns();go(cur,true);}
   allBtn.addEventListener('click',function(){Object.keys(on).forEach(function(t){on[t]=true;});refilter();});filt.appendChild(allBtn);
+  if(DATA.some(function(d){return d.headlines&&d.headlines.length>1;})){var hb=el('button','ail-tl-hlbtn');hb.type='button';var setHl=function(m){HLMODE=m;root.setAttribute('data-hl',m);hb.textContent=m==='stack'?'Headlines: all, stacked':'Headlines: one at random';hb.setAttribute('aria-pressed',m==='stack'?'true':'false');try{localStorage.setItem('ail-tl-hl',m);}catch(e){}};
+    setHl(HLMODE);hb.addEventListener('click',function(){setHl(HLMODE==='stack'?'one':'stack');layout();});root.querySelector('.ail-tl-controls').appendChild(hb);}
   Object.keys(TRACKS).forEach(function(t){if(!DATA.some(function(d){return d.track===t;}))return;var bt=el('button',null,TRACKS[t]);bt.type='button';bt.setAttribute('data-track',t);
     bt.addEventListener('click',function(){var every=Object.keys(on).every(function(x){return on[x];});if(every){Object.keys(on).forEach(function(x){on[x]=x===t;});}else{on[t]=!on[t];if(!Object.keys(on).some(function(x){return on[x];}))on[t]=true;}refilter();});filt.appendChild(bt);});
   pull.addEventListener('click',function(){go(cur+1);});back.addEventListener('click',function(){go(cur-1);});
@@ -222,4 +243,4 @@
   window.addEventListener('beforeprint',function(){var d=root.parentNode.querySelector('.ail-tl-list');if(d)d.open=true;});
   }
 }
-if(window.AIL_TL_DATA){MAIN();return;}fetch(root.getAttribute('data-src')||'https://chilburger.github.io/reed-ai-timeline/dist/timeline-data.json').then(function(r){return r.json();}).then(function(d){window.AIL_TL_DATA=d;MAIN();}).catch(function(){root.insertAdjacentHTML('afterbegin','<p style="padding:12px">The timeline could not load. The full list of milestones is below.</p>');});})();
+if(window.AIL_TL_DATA){MAIN();return;}fetch(root.getAttribute('data-src')||'https://chilburger.github.io/reed-ai-timeline/dist/timeline-data.json').then(function(r){return r.json();}).then(function(d){if(d&&d.cards){window.AIL_TL_TOPIC=d.topic||{};d=d.cards;}window.AIL_TL_DATA=d;MAIN();}).catch(function(){root.insertAdjacentHTML('afterbegin','<p style="padding:12px">The timeline could not load. The full list of milestones is below.</p>');});})();

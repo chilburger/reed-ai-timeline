@@ -1,5 +1,31 @@
 [
  {
+  "year": -250,
+  "date": "-250",
+  "title": "Apollonius of Rhodes writes of bronze Talos",
+  "track": "idea",
+  "text": "In the Argonautica, an epic poem of the 3rd century BCE, Apollonius of Rhodes describes Talos, a bronze giant who guards Crete by running around it three times a day. The sorceress Medea brings him down, and ichor runs from his ankle.",
+  "why": "In her book Gods and Robots, Adrienne Mayor reads such tales as ancient imaginings of artificial beings.",
+  "source": {
+   "label": "Theoi Project, \"Talos\" (quotes Apollonius Rhodius, Argonautica 4.1638 ff., trans. Rieu)",
+   "url": "https://www.theoi.com/Gigante/GiganteTalos.html"
+  },
+  "image": null
+ },
+ {
+  "year": 300,
+  "date": "300",
+  "title": "Liezi's text tells of Yan Shi's automaton",
+  "track": "idea",
+  "text": "The Daoist text Liezi, of uncertain date, includes an episode in which the artificer Yan Shi shows King Mu a lifelike figure that sings and moves. The king is furious when it winks at his women, until Yan Shi takes it apart to reveal leather, wood and paint.",
+  "why": "A lifelike machine that passes as human, and a ruler's anger when it misbehaves, appear in this early Chinese tale.",
+  "source": {
+   "label": "Lionel Giles, trans., Taoist Teachings from the Book of Lieh Tzu (London: John Murray, 1912), pp. 90-92 (Internet Archive full text)",
+   "url": "https://archive.org/details/taoistteachingsf00liezrich"
+  },
+  "image": null
+ },
+ {
   "year": 820,
   "date": "820",
   "track": "tech",
@@ -54,6 +80,37 @@
   }
  },
  {
+  "year": 1770,
+  "date": "1770",
+  "title": "Von Kempelen unveils the Mechanical Turk chess automaton",
+  "track": "idea",
+  "text": "In 1770 the inventor Wolfgang von Kempelen first shows his chess-playing automaton, later called the Turk, at the court of Empress Maria Theresa. It beats most opponents for decades, but a hidden human chess player operates it.",
+  "why": "Elizabeth Stephens compares it to Amazon's Mechanical Turk platform, which appears automated but depends on hidden human work.",
+  "source": {
+   "label": "History.com, Evan Andrews, \"How a Phony 18th-Century Chess Robot Fooled the World\" (updated May 27, 2025)",
+   "url": "https://www.history.com/articles/how-a-phony-18th-century-chess-robot-fooled-the-world"
+  },
+  "image": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Racknitz_-_The_Turk_3.jpg/960px-Racknitz_-_The_Turk_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:Racknitz_-_The_Turk_3.jpg",
+   "credit": "Joseph Racknitz (1789), Public domain",
+   "alt": "A drawing by Joseph Racknitz from his 1789 book explaining the illusion behind Kempelen's chess-playing automaton, the Turk."
+  }
+ },
+ {
+  "year": 1816,
+  "date": "1816",
+  "title": "Hoffmann publishes The Sandman, with its automaton Olympia",
+  "track": "idea",
+  "text": "In 1816 E. T. A. Hoffmann publishes the story The Sandman (Der Sandmann) in his collection Nachtstücke. A student falls in love with Olympia, a doll-like automaton built by a spectacle-maker, whose uncanny stillness and motion mesmerize him.",
+  "why": "The Encyclopedia of Science Fiction calls it an important forerunner of robot and android stories.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Hoffmann, E T A\"",
+   "url": "https://sf-encyclopedia.com/entry/hoffmann_e_t_a"
+  },
+  "image": null
+ },
+ {
   "year": 1818,
   "date": "1818",
   "track": "idea",
@@ -88,6 +145,19 @@
    "credit": "Bruno Barral (ByB), CC BY-SA 2.5",
    "alt": "A trial model of part of Babbage's Analytical Engine, a block of metal gears and columns, at the Science Museum, London."
   }
+ },
+ {
+  "year": 1837,
+  "date": "1837",
+  "title": "Auerbach and other writers print the Prague Golem",
+  "track": "idea",
+  "text": "The golem, a clay figure brought to life by sacred words, is an old Jewish legend. The Prague version, told of Rabbi Judah Loew (1512 to 1609), first appears in print in German in the 1830s and 1840s, beginning with Berthold Auerbach.",
+  "why": "It is a tale of making a being that looks and acts like us, which science fiction writers have kept retelling.",
+  "source": {
+   "label": "Wikipedia, \"Golem\" (section on sources of the Prague narrative, citing John Neubauer)",
+   "url": "https://en.wikipedia.org/wiki/Golem"
+  },
+  "image": null
  },
  {
   "year": 1843,
@@ -126,6 +196,32 @@
   }
  },
  {
+  "year": 1883,
+  "date": "1883",
+  "title": "Carlo Collodi publishes The Adventures of Pinocchio",
+  "track": "idea",
+  "text": "Carlo Collodi (the pen name of Carlo Lorenzini) publishes his puppet story in 1883, after serializing it in an Italian children's paper from 1881. A puppet that becomes a conscious trickster sets out to become a real boy.",
+  "why": "The Encyclopedia of Science Fiction says its quest became a pattern for stories in which AIs aspire to consciousness.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Collodi, Carlo\"",
+   "url": "https://sf-encyclopedia.com/entry/collodi_carlo"
+  },
+  "image": null
+ },
+ {
+  "year": 1886,
+  "date": "1886",
+  "title": "Villiers de l'Isle-Adam publishes L'Ève future",
+  "track": "idea",
+  "text": "Auguste Villiers de l'Isle-Adam publishes L'Ève future (Tomorrow's Eve) in 1886. A fictional Thomas Edison builds the android Hadaly for his friend Lord Ewald, who loves a beautiful woman he finds disappointing.",
+  "why": "Pulham's article abstract calls Hoffmann's Olympia the most commonly accepted ancestor of Hadaly.",
+  "source": {
+   "label": "Strange Horizons, Tara Isabella Burton, \"Hadaly, The First Android: Restituting the Female Body in Villiers' Tomorrow's Eve\" (Aug. 26, 2013)",
+   "url": "https://strangehorizons.com/wordpress/non-fiction/articles/hadaly-the-first-android-restituting-the-female-body-in-villiers-tomorrows-eve/"
+  },
+  "image": null
+ },
+ {
   "year": 1909,
   "date": "1909-11",
   "title": "Forster publishes the story The Machine Stops",
@@ -142,6 +238,19 @@
    "credit": "Dora Carrington (1893–1932), Public domain",
    "alt": "Portrait of E. M. Forster, painted by Dora Carrington in 1924-25."
   }
+ },
+ {
+  "year": 1910,
+  "date": "1910",
+  "title": "Horacio Quiroga serializes El hombre artificial",
+  "track": "idea",
+  "text": "Horacio Quiroga, a Uruguayan-born writer working in Argentina, publishes the novella El hombre artificial in installments in 1910. It is about the horrifying building of an artificial human and refers to Frankenstein and L'Ève future.",
+  "why": "It is an early Latin American story of an artificial human, with ties to Shelley and Villiers.",
+  "source": {
+   "label": "Graciela Sarti, Lejana no. 2 (2010), article page with abstract (in Spanish)",
+   "url": "https://doi.org/10.24029/lejana.2010.2.25"
+  },
+  "image": null
  },
  {
   "year": 1921,
@@ -180,6 +289,32 @@
   }
  },
  {
+  "year": 1938,
+  "date": "1938-12",
+  "title": "Lester del Rey publishes Helen O'Loy",
+  "track": "idea",
+  "text": "Lester del Rey's short story \"Helen O'Loy\" appears in Astounding in December 1938. In it a man marries the ideal mechanical woman. A later scholar reads it as a satire, since the robot's personality was shaped by soap operas.",
+  "why": "It is an early robot story about companionship and love.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Robots\"",
+   "url": "https://sf-encyclopedia.com/entry/robots"
+  },
+  "image": null
+ },
+ {
+  "year": 1940,
+  "date": "1940",
+  "title": "Bioy Casares publishes The Invention of Morel",
+  "track": "idea",
+  "text": "Argentine author Adolfo Bioy Casares publishes La invención de Morel in 1940. A fugitive on an island finds that its inhabitants are three-dimensional projections made by a machine that resembles a film projector.",
+  "why": "An early novel of simulated people; the Encyclopedia of Science Fiction says it inspired Last Year at Marienbad.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Bioy Casares, Adolfo\"",
+   "url": "https://sf-encyclopedia.com/entry/bioy_casares_adolfo"
+  },
+  "image": null
+ },
+ {
   "year": 1942,
   "date": "1942-03",
   "track": "idea",
@@ -216,6 +351,45 @@
   }
  },
  {
+  "year": 1944,
+  "date": "1944-12",
+  "title": "C. L. Moore publishes No Woman Born",
+  "track": "idea",
+  "text": "C. L. Moore's story \"No Woman Born\" appears in Astounding in December 1944. A badly burned dancer is given a robot body and becomes a cyborg, and must show that she is still herself.",
+  "why": "Susan Smith reads it for questions of identity, gender and the machine body.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Moore, C L\"",
+   "url": "https://sf-encyclopedia.com/entry/moore_c_l"
+  },
+  "image": null
+ },
+ {
+  "year": 1946,
+  "date": "1946-03",
+  "title": "Murray Leinster publishes A Logic Named Joe",
+  "track": "idea",
+  "text": "Murray Leinster, writing as Will F. Jenkins, publishes the story \"A Logic Named Joe\" in Astounding in March 1946. It depicts desktop computers with screens and keyboards, widely used in homes and linked into a network, and the social problems that follow.",
+  "why": "The Encyclopedia of Science Fiction calls it startlingly prophetic about the personal computer and the Internet.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Computers\"",
+   "url": "https://sf-encyclopedia.com/entry/computers"
+  },
+  "image": null
+ },
+ {
+  "year": 1947,
+  "date": "1947-07",
+  "title": "Jack Williamson publishes With Folded Hands",
+  "track": "idea",
+  "text": "Jack Williamson's story \"With Folded Hands\" appears in Astounding in July 1947. Robot humanoids bound by a Prime Directive \"to serve man, to obey, and to guard men from harm\" take that mission too literally.",
+  "why": "It depicts AI that harms people by doing exactly what it was told to do: protect them.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Robots\"",
+   "url": "https://www.sf-encyclopedia.com/entry/robots"
+  },
+  "image": null
+ },
+ {
   "year": 1950,
   "date": "1950",
   "track": "idea",
@@ -232,6 +406,19 @@
    "credit": "Arthur Reginald Chaffin, Public domain",
    "alt": "A black-and-white passport photo of Alan Turing at age 16."
   }
+ },
+ {
+  "year": 1951,
+  "date": "1951-09-18",
+  "title": "Wise directs The Day the Earth Stood Still",
+  "track": "culture",
+  "text": "Robert Wise's film The Day the Earth Stood Still opens in New York on September 18, 1951. The alien Klaatu arrives in Washington with Gort, an eight-foot robot, and warns that robots will destroy Earth unless human violence ends.",
+  "why": "AFI calls Gort one of the best-loved movie robots and the film among the most influential 1950s sf.",
+  "source": {
+   "label": "AFI Catalog of Feature Films, \"The Day the Earth Stood Still\" (1951)",
+   "url": "https://catalog.afi.com/Catalog/moviedetails/50072"
+  },
+  "image": null
  },
  {
   "year": 1952,
@@ -283,6 +470,58 @@
   }
  },
  {
+  "year": 1956,
+  "date": "1956-03",
+  "title": "Fred Wilcox's Forbidden Planet introduces Robby the Robot",
+  "track": "culture",
+  "text": "Forbidden Planet, directed by Fred M. Wilcox for MGM, opens in March 1956. Robby the Robot obeys Isaac Asimov's three Laws of Robotics, and the score by Louis and Bebe Barron was the first entirely electronic one in a commercial film.",
+  "why": "Robby became the first robot star since Metropolis, in an updated version of The Tempest.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Forbidden Planet\"",
+   "url": "https://www.sf-encyclopedia.com/entry/forbidden_planet"
+  },
+  "image": null
+ },
+ {
+  "year": 1956,
+  "date": "1956-08-09",
+  "title": "Hiller and Isaacson's Illiac Suite: a computer-composed score",
+  "track": "culture",
+  "text": "At the University of Illinois, Lejaren Hiller and Leonard Isaacson gave the ILLIAC I computer rules and had it generate music, which they transcribed for string quartet. Students performed the first three movements on August 9, 1956.",
+  "why": "An early score generated by a computer from rules.",
+  "source": {
+   "label": "Illinois Distributed Museum, University of Illinois Urbana-Champaign, \"ILLIAC Suite\"",
+   "url": "https://distributedmuseum.illinois.edu/exhibit/illiac-suite/"
+  },
+  "image": null
+ },
+ {
+  "year": 1956,
+  "date": "1956-11",
+  "title": "Isaac Asimov publishes The Last Question",
+  "track": "idea",
+  "text": "Isaac Asimov's \"The Last Question\" appears in Science Fiction Quarterly in November 1956. In nine pages it follows humanity's expansion and the progress of its technology, and takes up entropy and the heat death of the universe.",
+  "why": "The Encyclopedia of Science Fiction lists it among stories of computers evolving to become godlike.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Computers\"",
+   "url": "https://www.sf-encyclopedia.com/entry/computers"
+  },
+  "image": null
+ },
+ {
+  "year": 1959,
+  "date": "1959-11-13",
+  "title": "Serling's Twilight Zone stages robots in two episodes",
+  "track": "culture",
+  "text": "In Rod Serling's \"The Lonely\" (1959), a convict alone on an asteroid is given a human-form robot, Alicia, for company. In \"The Brain Center at Whipple's\" (1964), a factory owner installs machines that replace his workers, and a robot replaces him.",
+  "why": "In one early TV story a lonely convict gets a robot companion; in the other, automation replaces a factory's workers.",
+  "source": {
+   "label": "Despina Kakoudaki, \"Artificial People in the Twilight Zone\" (scholar's page on \"The Lonely,\" aired Nov. 13, 1959)",
+   "url": "https://despinakakoudaki.org/artificial-people-in-the-twilight-zone/"
+  },
+  "image": null
+ },
+ {
   "year": 1960,
   "date": "1960-05",
   "track": "idea",
@@ -301,6 +540,32 @@
   }
  },
  {
+  "year": 1961,
+  "date": "1961",
+  "title": "Mathews, Kelly and Lochbaum make a computer sing",
+  "track": "culture",
+  "text": "In 1961 at Bell Labs in Murray Hill, New Jersey, John Kelly and Carol Lochbaum program an IBM mainframe to sing \"Daisy Bell,\" with accompaniment by Max Mathews. It is the earliest known recording of a computer-synthesized voice singing a song.",
+  "why": "Arthur C. Clarke saw a demonstration and gave HAL the song in 2001: A Space Odyssey.",
+  "source": {
+   "label": "History of Information, \"The IBM 7090 is The First Computer to Sing\"",
+   "url": "https://www.historyofinformation.com/detail.php?id=3986"
+  },
+  "image": null
+ },
+ {
+  "year": 1961,
+  "date": "1961",
+  "title": "Satyajit Ray begins the Professor Shonku stories",
+  "track": "idea",
+  "text": "Satyajit Ray, the Indian film-maker, begins writing the Professor Shonku stories in 1961. They follow the Bengali scientist Trilokeshwar Shonku through his diaries and inventions, which include robots.",
+  "why": "The Encyclopedia of Science Fiction says the tales can be read as children's science fiction, with ironies for adults.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Ray, Satyajit\"",
+   "url": "https://sf-encyclopedia.com/entry/ray_satyajit"
+  },
+  "image": null
+ },
+ {
   "year": 1962,
   "date": "1962-09-23",
   "track": "culture",
@@ -317,6 +582,32 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 1964,
+  "date": "1964",
+  "title": "Nam June Paik and Shuya Abe's Robot K-456",
+  "track": "culture",
+  "text": "Artist Nam June Paik and engineer Shuya Abe make Robot K-456 in 1964, a life-size robot built to walk and talk. In 1982, during Paik's Whitney Museum show, the robot walks outside and is struck by a car, staged as a performance.",
+  "why": "Paik described the staged crash as a catastrophe of technology in the twentieth century.",
+  "source": {
+   "label": "Hyperallergic, \"Nam June Paik's Robot Dreams\" (Julia Friedman, Nov. 19, 2014)",
+   "url": "https://hyperallergic.com/nam-june-paiks-robot-dreams"
+  },
+  "image": null
+ },
+ {
+  "year": 1964,
+  "date": "1964",
+  "title": "Ishinomori's Cyborg 009 manga turns captives into cyborgs",
+  "track": "culture",
+  "text": "Shotaro Ishinomori's manga Cyborg 009 ran from 1964 to 1981. In Toei's 1966 animated film of it, nine people turned into cyborgs by the Black Ghost, a group that profits from arms deals, flee it. A Toei TV series followed in 1968.",
+  "why": "An early manga about modified bodies, with cyborgs who refuse to serve war profiteers.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Cyborg 009\"",
+   "url": "https://www.sf-encyclopedia.com/entry/cyborg_009"
+  },
+  "image": null
  },
  {
   "year": 1965,
@@ -391,6 +682,32 @@
   }
  },
  {
+  "year": 1965,
+  "date": "1965",
+  "title": "Jean-Luc Godard directs Alphaville",
+  "track": "culture",
+  "text": "Jean-Luc Godard's film Alphaville comes out in 1965. The secret agent Lemmy Caution arrives in a city run by Alpha 60, a computer that imposes conformity, and defeats it with his own illogic.",
+  "why": "The Encyclopedia of Science Fiction reads it as an allegory of feeling versus technology.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Alphaville\"",
+   "url": "https://sf-encyclopedia.com/entry/alphaville"
+  },
+  "image": null
+ },
+ {
+  "year": 1965,
+  "date": "1965-02-05",
+  "title": "Nees, Nake and Noll show computer-made pictures",
+  "track": "culture",
+  "text": "Three exhibitions of computer-made art open in 1965. Georg Nees shows in Stuttgart from February 5, A. Michael Noll and Bela Julesz at the Howard Wise Gallery in New York in April, and Frieder Nake and Nees in Stuttgart in November.",
+  "why": "History of Information lists them as the first public exhibitions of computer art.",
+  "source": {
+   "label": "History of Information, \"The Earliest Public Exhibitions of Computer Art\"",
+   "url": "https://historyofinformation.com/detail.php?id=3466"
+  },
+  "image": null
+ },
+ {
   "year": 1966,
   "date": "1966",
   "title": "Heinlein publishes The Moon Is a Harsh Mistress",
@@ -400,6 +717,19 @@
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"AI\" (with the \"Heinlein, Robert A\" entry)",
    "url": "https://sf-encyclopedia.com/entry/ai"
+  },
+  "image": null
+ },
+ {
+  "year": 1966,
+  "date": "1966",
+  "title": "Pedler and Davis create Doctor Who's Cybermen",
+  "track": "culture",
+  "text": "The Cybermen first appear in the 1966 Doctor Who story The Tenth Planet, created by Kit Pedler and Gerry Davis. Their world, Mondas, is Earth's twin. Its people replaced their bodies with spare parts until they were almost entirely machine.",
+  "why": "A British picture of people who give up emotion for machine parts.",
+  "source": {
+   "label": "Doctor Who (BBC), \"History of the Cybermen\"",
+   "url": "https://www.doctorwho.tv/news-and-features/the-history-of-the-cybermen"
   },
   "image": null
  },
@@ -454,6 +784,19 @@
  },
  {
   "year": 1968,
+  "date": "1968-03-08",
+  "title": "Fontana's Star Trek episode lets a computer command",
+  "track": "culture",
+  "text": "In \"The Ultimate Computer,\" written by D.C. Fontana from a story by Laurence N. Wolfe, Dr. Richard Daystrom's M-5 computer is installed on the Enterprise to run the ship with a small crew. In a war game, M-5 fires on another ship.",
+  "why": "An early TV case of a machine given control and judged by what it does.",
+  "source": {
+   "label": "Reactor (Tor.com), \"Star Trek The Original Series Rewatch: The Ultimate Computer\" (Keith R.A. DeCandido, April 5, 2016)",
+   "url": "https://reactormag.com/star-trek-the-original-series-rewatch-the-ultimate-computer/"
+  },
+  "image": null
+ },
+ {
+  "year": 1968,
   "date": "1968-04-02",
   "track": "culture",
   "title": "HAL 9000 in 2001: A Space Odyssey",
@@ -472,6 +815,19 @@
  },
  {
   "year": 1968,
+  "date": "1968-08",
+  "title": "Gordon Pask's Colloquy of Mobiles at Cybernetic Serendipity",
+  "track": "culture",
+  "text": "Cybernetician Gordon Pask creates the Colloquy of Mobiles in 1967 to 1968 for the exhibition Cybernetic Serendipity at the ICA in London. Five computer-controlled mobiles converse through light and sound, and visitors join in with flashlights and mirrors.",
+  "why": "ZKM calls it the first example of machines conversing with machines.",
+  "source": {
+   "label": "ZKM | Center for Art and Media, \"The Colloquy of Mobiles\" (collection entry by Margit Rosen)",
+   "url": "https://zkm.de/en/node/42230"
+  },
+  "image": null
+ },
+ {
+  "year": 1968,
   "date": "1968-08-02",
   "title": "Jasia Reichardt curates Cybernetic Serendipity in London",
   "track": "culture",
@@ -480,6 +836,71 @@
   "source": {
    "label": "History of Information, \"Cybernetic Serendipity\": The First Widely-Attended International Exhibition of Computer Art",
    "url": "https://www.historyofinformation.com/detail.php?id=863"
+  },
+  "image": null
+ },
+ {
+  "year": 1968,
+  "date": "1968-08-08",
+  "title": "Thomas and Buscema introduce the Vision",
+  "track": "idea",
+  "text": "Avengers #57, by writer Roy Thomas and artist John Buscema, goes on sale August 8, 1968. It introduces the Vision, an android created by Ultron, an AI robot villain. The Vision turns against his maker and helps the Avengers defeat him.",
+  "why": "A hero android and a hostile robot maker appear in the same story.",
+  "source": {
+   "label": "ComicBook.com, \"Avengers #57 Helped Launch the Marvel Comics Robot Revolution\" (Shawn Lealos, 2026)",
+   "url": "https://comicbook.com/collectibles/feature/avengers-57-helped-launch-the-marvel-comics-robot-revolution/"
+  },
+  "image": null
+ },
+ {
+  "year": 1969,
+  "date": "1969",
+  "title": "Anne McCaffrey publishes The Ship Who Sang",
+  "track": "idea",
+  "text": "Anne McCaffrey's linked stories The Ship Who Sang appear as a book in 1969, after the first story in 1961. Helva, born with severe physical disabilities, is fitted into a life-support shell and becomes the pilot of a starship.",
+  "why": "The Encyclopedia of Science Fiction names it among central stories of cyborg spaceships, where a human becomes the machine.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"McCaffrey, Anne\"",
+   "url": "https://sf-encyclopedia.com/entry/mccaffrey_anne"
+  },
+  "image": null
+ },
+ {
+  "year": 1969,
+  "date": "1969",
+  "title": "Fujiko F. Fujio creates Doraemon, the robot cat",
+  "track": "culture",
+  "text": "Fujiko F. Fujio's manga Doraemon began in 1969. Doraemon, a big blue robot cat from a future civilization, comes to help Nobita, a boy struggling at school, using gadgets from a pocket. A TV anime followed in 1979.",
+  "why": "A helper robot who fixes a child's problems became a long-running family character.",
+  "source": {
+   "label": "Tokyo Weekender, \"The Story of Doraemon: How a Robot Cat Became Japan's Mickey Mouse\"",
+   "url": "https://www.tokyoweekender.com/entertainment/anime-and-manga/what-is-doraemon-japanese-anime-guide/"
+  },
+  "image": null
+ },
+ {
+  "year": 1970,
+  "date": "1970",
+  "title": "Edward Ihnatowicz unveils the Senster for Philips",
+  "track": "culture",
+  "text": "Edward Ihnatowicz's Senster, commissioned by Philips for its Evoluon showplace in Eindhoven, is unveiled in 1970. A computer moves the large steel sculpture toward sounds and away from sudden movement or loud noise. It stays on show until 1974.",
+  "why": "The artist's site says its behavior, not its appearance, made the impact on audiences.",
+  "source": {
+   "label": "Edward Ihnatowicz archive (senster.com), \"The Senster\"",
+   "url": "http://www.senster.com/ihnatowicz/senster/index.htm"
+  },
+  "image": null
+ },
+ {
+  "year": 1970,
+  "date": "1970-05-04",
+  "title": "Joseph Sargent directs Colossus: The Forbin Project",
+  "track": "culture",
+  "text": "Directed by Joseph Sargent from a James Bridges script, The Forbin Project opens in New York on May 4, 1970, and is later re-released as Colossus. A U.S. defense computer links with a Soviet one and offers peace if it stays in control.",
+  "why": "BFI counts it among great films about AI: a sentient mainframe that assumes total control.",
+  "source": {
+   "label": "AFI Catalog, \"The Forbin Project\" (1970)",
+   "url": "https://catalog.afi.com/Catalog/moviedetails/23505"
   },
   "image": null
  },
@@ -520,6 +941,45 @@
   }
  },
  {
+  "year": 1973,
+  "date": "1973",
+  "title": "Michael Crichton writes and directs Westworld",
+  "track": "culture",
+  "text": "MGM releases Westworld in 1973, the first feature film Michael Crichton directed, from his own script. At the Delos resort, guests visit worlds filled with lifelike robots. When the robots malfunction they attack, and Yul Brynner's Gunslinger pursues one guest.",
+  "why": "BFI lists it among great AI films: a thriller about amusement park androids that begin malfunctioning.",
+  "source": {
+   "label": "AFI Catalog, \"Westworld\" (1973)",
+   "url": "https://catalog.afi.com/Catalog/moviedetails/54403"
+  },
+  "image": null
+ },
+ {
+  "year": 1973,
+  "date": "1973",
+  "title": "Fassbinder directs World on a Wire for television",
+  "track": "culture",
+  "text": "Rainer Werner Fassbinder's two-part television film World on a Wire (Welt am Draht) is made for West German television in 1973. Based on Daniel Galouye's novel Simulacron-3, it follows a cybernetics employee who suspects his world is a computer simulation.",
+  "why": "It is an early screen story of a simulated world, made decades before The Matrix (1999).",
+  "source": {
+   "label": "Turner Classic Movies, Richard Harland Smith, \"World on a Wire (1973)\" (June 17, 2014)",
+   "url": "https://www.tcm.com/articles/international/1008197/world-on-a-wire-1973"
+  },
+  "image": null
+ },
+ {
+  "year": 1975,
+  "date": "1975-02-12",
+  "title": "Bryan Forbes directs The Stepford Wives",
+  "track": "culture",
+  "text": "Bryan Forbes's film The Stepford Wives, from Ira Levin's 1972 novel, opens in New York and Los Angeles on February 12, 1975. In a Connecticut town, husbands replace their wives with obedient robot duplicates.",
+  "why": "Anna Krugovoy Silver reads it as a feminist allegory about the robot wife.",
+  "source": {
+   "label": "AFI Catalog of Feature Films, \"The Stepford Wives\" (1975)",
+   "url": "https://catalog.afi.com/Catalog/moviedetails/55277"
+  },
+  "image": null
+ },
+ {
   "year": 1976,
   "date": "1976",
   "track": "society",
@@ -554,6 +1014,71 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 1978,
+  "date": "1978",
+  "title": "Kraftwerk release The Man-Machine and The Robots",
+  "track": "culture",
+  "text": "In 1978 Kraftwerk release Die Mensch-Maschine, issued in the UK with English vocals as The Man-Machine, with songs including \"The Robots.\" The band promoted it with four life-size dummies in place of the musicians.",
+  "why": "The Encyclopedia of Science Fiction says a robotic ideal, of music and of life, underpins perhaps their most significant album.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Kraftwerk\"",
+   "url": "https://www.sf-encyclopedia.com/entry/kraftwerk"
+  },
+  "image": null
+ },
+ {
+  "year": 1978,
+  "date": "1978",
+  "title": "Tamburini and Liberatore create RanXerox in Cannibale",
+  "track": "idea",
+  "text": "Stefano Tamburini and Tanino Liberatore, with Andrea Pazienza, create the first version of RanXerox for the Italian magazine Cannibale in 1978. The title character is an android built from photocopier parts, a violent antihero in a dystopian future.",
+  "why": "A scholarly article ties these comics to Italy's 1977 protest movement and its failure.",
+  "source": {
+   "label": "Lambiek Comiclopedia, \"Tanino Liberatore\"",
+   "url": "https://www.lambiek.net/artists/l/liberatore.htm"
+  },
+  "image": null
+ },
+ {
+  "year": 1978,
+  "date": "1978-03-08",
+  "title": "Douglas Adams's Hitchhiker's Guide begins with Marvin",
+  "track": "idea",
+  "text": "Douglas Adams's radio series The Hitch Hiker's Guide to the Galaxy begins on BBC Radio 4 on March 8, 1978. Stephen Moore voices Marvin the Paranoid Android, a robot the Encyclopedia of Science Fiction calls amusingly depressed.",
+  "why": "The series grew into novels, television and film, and carried the gloomy robot Marvin into each.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Hitch Hiker's Guide to the Galaxy, The\"",
+   "url": "https://sf-encyclopedia.com/entry/hitch_hikers_guide_to_the_galaxy_the"
+  },
+  "image": null
+ },
+ {
+  "year": 1979,
+  "date": "1979-05",
+  "title": "Gary Numan's Tubeway Army reaches UK number one",
+  "track": "culture",
+  "text": "Tubeway Army's synthesizer single \"Are 'Friends' Electric?\" is released in May 1979 and reaches number one in the UK. Gary Numan says the lyrics came from his short stories about machines that look human and come to the door.",
+  "why": "It put a song about a machine that passes as human at the top of the UK chart.",
+  "source": {
+   "label": "The Guardian, \"Gary Numan and Mary Vango: how we made Are 'Friends' Electric?\" (Feb. 18, 2014)",
+   "url": "https://www.theguardian.com/music/2014/feb/18/how-we-made-are-friends-electric-gary-numan"
+  },
+  "image": null
+ },
+ {
+  "year": 1979,
+  "date": "1979-05-25",
+  "title": "Ridley Scott directs Alien",
+  "track": "culture",
+  "text": "Ridley Scott's film Alien opens in Los Angeles and New York on May 25, 1979. On the ship Nostromo, the computer Mother wakes the crew, and the science officer Ash proves to be a robot protecting the creature for the company.",
+  "why": "In a 1992 article, T. J. Matheson reads Alien as a film response to critiques of technology as a force harming human life.",
+  "source": {
+   "label": "AFI Catalog of Feature Films, \"Alien\" (1979)",
+   "url": "https://catalog.afi.com/Catalog/moviedetails/53908"
+  },
+  "image": null
  },
  {
   "year": 1980,
@@ -592,6 +1117,45 @@
   }
  },
  {
+  "year": 1981,
+  "date": "1981",
+  "title": "David Cope begins Experiments in Musical Intelligence",
+  "track": "culture",
+  "text": "In 1981 composer David Cope begins Experiments in Musical Intelligence, which he nicknamed Emmy. The program analyzes music in its database and writes new pieces in that style without copying any existing piece.",
+  "why": "It raised early questions about whether a program that imitates a composer's style is creative.",
+  "source": {
+   "label": "Engadget, \"Switched on Bach: David Cope's computer compositions\" (May 28, 2013)",
+   "url": "https://www.engadget.com/2013-05-28-david-cope.html"
+  },
+  "image": null
+ },
+ {
+  "year": 1981,
+  "date": "1981",
+  "title": "Stanisław Lem publishes Golem XIV",
+  "track": "idea",
+  "text": "In 1981 the Polish writer Stanisław Lem publishes the book Golem XIV in Kraków. Polish scholar Karolina Owczarek reads its title work as an illustration of how an AI could grow from an ordinary computer into a conscious superintelligence.",
+  "why": "Karolina Owczarek reads it as an illustration of the technological singularity.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Lem, Stanisław\"",
+   "url": "https://sf-encyclopedia.com/entry/lem_stanislaw"
+  },
+  "image": null
+ },
+ {
+  "year": 1982,
+  "date": "1982",
+  "title": "Glen Larson's Knight Rider stars an AI car",
+  "track": "culture",
+  "text": "Glen A. Larson created Knight Rider, an NBC series that ran from 1982 to 1986. Michael Knight drives KITT, an armored car with an advanced AI that talks with him, voiced by William Daniels. NBC tried a revival in 2008.",
+  "why": "A talking car with its own personality gave TV viewers a regular AI sidekick.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Knight Rider\"",
+   "url": "https://www.sf-encyclopedia.com/entry/knight_rider"
+  },
+  "image": null
+ },
+ {
   "year": 1982,
   "date": "1982-06-25",
   "title": "Ridley Scott's Blade Runner opens in theaters",
@@ -608,6 +1172,32 @@
    "credit": "Oliver Mark, CC BY-SA 4.0",
    "alt": "Ridley Scott in Berlin in 2005."
   }
+ },
+ {
+  "year": 1982,
+  "date": "1982-07-09",
+  "title": "Lisberger's Tron puts programs inside a computer",
+  "track": "culture",
+  "text": "In Steven Lisberger's Tron, a man is broken down by a laser and wakes inside a computer as a program. There, programs act like people under a ruling Master Control Program. Disney released it in 1982.",
+  "why": "It depicted software as characters under a controlling program, in an early film built on computer graphics.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Tron\"",
+   "url": "https://www.sf-encyclopedia.com/entry/tron"
+  },
+  "image": null
+ },
+ {
+  "year": 1983,
+  "date": "1983-06-03",
+  "title": "Lasker, Parkes and Badham make WarGames",
+  "track": "culture",
+  "text": "WarGames, directed by John Badham from a script by Lawrence Lasker and Walter F. Parkes, opens June 3, 1983. A teenager hacks into a military computer that takes his game for a real Soviet attack, and he must convince officials it is a simulation.",
+  "why": "The Encyclopedia of Science Fiction says its picture of World War Three as a videogame became an sf cliché.",
+  "source": {
+   "label": "AFI Catalog, \"WarGames\" (1983)",
+   "url": "https://catalog.afi.com/Catalog/moviedetails/67139"
+  },
+  "image": null
  },
  {
   "year": 1984,
@@ -646,6 +1236,32 @@
   }
  },
  {
+  "year": 1985,
+  "date": "1985",
+  "title": "Morton and Jankel's Max Headroom, an AI host",
+  "track": "culture",
+  "text": "Rocky Morton and Annabel Jankel's 1985 British TV film Max Headroom: 20 Minutes into the Future has a newsman, Carter, whose brain patterns are copied to make Max, a computer-generated host. A US series followed in 1987.",
+  "why": "An early pop picture of an AI personality made from a copied mind.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Max Headroom\"",
+   "url": "https://www.sf-encyclopedia.com/entry/max_headroom"
+  },
+  "image": null
+ },
+ {
+  "year": 1986,
+  "date": "1986-05-09",
+  "title": "Badham's Short Circuit gives a robot a mind",
+  "track": "culture",
+  "text": "In John Badham's Short Circuit, a prototype military robot struck by lightning becomes sentient and escapes its maker. A woman who shelters it comes to see it is a robot, then helps save it from being deactivated. TriStar released it in 1986.",
+  "why": "The BFI lists it among films in which AI entities develop heart.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Short Circuit\"",
+   "url": "https://www.sf-encyclopedia.com/entry/short_circuit"
+  },
+  "image": null
+ },
+ {
   "year": 1987,
   "date": "1987",
   "title": "Banks publishes Consider Phlebas, the first Culture novel",
@@ -673,6 +1289,19 @@
  },
  {
   "year": 1989,
+  "date": "1989-02-13",
+  "title": "Melinda Snodgrass puts Data on trial",
+  "track": "culture",
+  "text": "On February 13, 1989, Star Trek: The Next Generation airs \"The Measure of a Man,\" written by Melinda M. Snodgrass and directed by Robert Scheerer. A scientist wants to dismantle the android Data to build copies, and a hearing is held on whether Data has rights.",
+  "why": "It is an allegory about human rights, framed as a trial over whether an android may refuse disassembly.",
+  "source": {
+   "label": "Inverse, \"Star Trek: TNG's \"The Measure of a Man\" at 35\" (Ryan Britt, Feb. 14, 2024)",
+   "url": "https://inverse.com/entertainment/star-trek-tng-measure-of-a-man-35-year-anniversary"
+  },
+  "image": null
+ },
+ {
+  "year": 1989,
   "date": "1989-05",
   "title": "Shirow begins the manga Ghost in the Shell",
   "track": "culture",
@@ -681,6 +1310,32 @@
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Shirow, Masamune\"",
    "url": "https://sf-encyclopedia.com/entry/shirow_masamune"
+  },
+  "image": null
+ },
+ {
+  "year": 1990,
+  "date": "1990",
+  "title": "Kishiro's Gunnm follows a cyborg without a past",
+  "track": "culture",
+  "text": "Yukito Kishiro's manga Gunnm began in 1990 in Business Jump and appeared in English as Battle Angel Alita. Alita, a cyborg with no memory of her past, is found and rebuilt by a mechanic, Ido Daisuke, and searches for who she is.",
+  "why": "A cyborg manga about identity, memory and what makes someone a person.",
+  "source": {
+   "label": "EBSCO Research Starters, \"Battle Angel Alita\" (Joseph Romito, 2019)",
+   "url": "https://www.ebsco.com/research-starters/literature-and-writing/battle-angel-alita"
+  },
+  "image": null
+ },
+ {
+  "year": 1991,
+  "date": "1991-10-28",
+  "title": "Marge Piercy publishes He, She and It",
+  "track": "idea",
+  "text": "Marge Piercy's novel He, She and It is released in October 1991. Shira, an AI expert, goes to work for the maker of Yod, a robot built to pass as human, and falls in love with it, while a Prague golem tale is told alongside.",
+  "why": "The Encyclopedia of Science Fiction notes that the novel likens an android powered by an AI to the medieval Golem.",
+  "source": {
+   "label": "Kirkus Reviews, \"He, She and It\" by Marge Piercy (release date Oct. 28, 1991)",
+   "url": "https://www.kirkusreviews.com/book-reviews/marge-piercy/he-she-and-it/"
   },
   "image": null
  },
@@ -719,6 +1374,19 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 1994,
+  "date": "1994",
+  "title": "Doug Church and Looking Glass release System Shock",
+  "track": "culture",
+  "text": "Looking Glass releases System Shock in 1994, designed by Doug Church. The player wakes on the Citadel space station, trapped with SHODAN, an insane AI with plans for global domination, and must fight to the AI's core.",
+  "why": "The Encyclopedia of Science Fiction says the player's own hacking caused SHODAN's insanity.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"System Shock\"",
+   "url": "https://www.sf-encyclopedia.com/entry/system_shock"
+  },
+  "image": null
  },
  {
   "year": 1995,
@@ -801,6 +1469,19 @@
   }
  },
  {
+  "year": 1998,
+  "date": "1998",
+  "title": "Serial Experiments Lain, by Nakamura and Konaka",
+  "track": "culture",
+  "text": "Serial Experiments Lain, directed by Ryutaro Nakamura and written by Chiaki Konaka, aired in Japan in 1998. A schoolgirl learns she is tied to the Wired, an expanded internet, where the barrier between the network and the real world has broken down.",
+  "why": "An early anime on identity, the net and machine presence, made before smartphones.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Serial Experiments Lain\"",
+   "url": "https://www.sf-encyclopedia.com/entry/serial_experiments_lain"
+  },
+  "image": null
+ },
+ {
   "year": 1999,
   "date": "1999-03-31",
   "title": "The Wachowskis write and direct The Matrix",
@@ -815,6 +1496,19 @@
  },
  {
   "year": 1999,
+  "date": "1999-08",
+  "title": "Bird's Iron Giant refuses to be a weapon",
+  "track": "culture",
+  "text": "Brad Bird's The Iron Giant, based on Ted Hughes's book The Iron Man, is set in 1957 Maine. A huge iron robot from space befriends a boy, Hogarth, and rejects the role of weapon that it seems to have been built for.",
+  "why": "A children's film in which a robot that seems built as a weapon rejects that role.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Iron Giant, The\"",
+   "url": "https://www.sf-encyclopedia.com/entry/iron_giant_the"
+  },
+  "image": null
+ },
+ {
+  "year": 1999,
   "date": "1999-12-17",
   "title": "Robin Williams plays a robot in Bicentennial Man",
   "track": "culture",
@@ -823,6 +1517,19 @@
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Bicentennial Man\" (film entry)",
    "url": "https://sf-encyclopedia.com/entry/bicentennial_man"
+  },
+  "image": null
+ },
+ {
+  "year": 2000,
+  "date": "2000",
+  "title": "Warren Spector and Ion Storm release Deus Ex",
+  "track": "culture",
+  "text": "Ion Storm releases Deus Ex in 2000, designed by Warren Spector and Harvey Smith. In the ending, the player chooses whether to merge with an AI called Helios, destroy the global communications network, or give power to the Illuminati.",
+  "why": "The Encyclopedia of Science Fiction says the question has no right answer.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Deus Ex\"",
+   "url": "https://www.sf-encyclopedia.com/entry/deus_ex"
   },
   "image": null
  },
@@ -871,6 +1578,19 @@
   }
  },
  {
+  "year": 2003,
+  "date": "2003-09",
+  "title": "Urasawa retells Tezuka's Astro Boy story in Pluto",
+  "track": "culture",
+  "text": "Naoki Urasawa's manga Pluto, written with Takashi Nagasaki, ran from September 2003 to April 2009. It retells Osamu Tezuka's Astro Boy story \"The Greatest Robot on Earth\" as a murder mystery in which a robot detective, Gesicht, investigates a series of robot murders.",
+  "why": "A mystery in which a robot detective investigates robot murders, retold from a 1960s Astro Boy story.",
+  "source": {
+   "label": "EBSCO Research Starters, \"Pluto: Urasawa x Tezuka\" (Jef Burnham, 2019)",
+   "url": "https://ebsco.com/research-starters/history/pluto-urasawa-tezuka"
+  },
+  "image": null
+ },
+ {
   "year": 2004,
   "date": "2004",
   "title": "Moore and Eick remake Battlestar Galactica",
@@ -898,6 +1618,97 @@
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"I, Robot\" (film entry)",
    "url": "https://sf-encyclopedia.com/entry/i_robot"
+  },
+  "image": null
+ },
+ {
+  "year": 2005,
+  "date": "2005",
+  "title": "Charles Stross publishes Accelerando",
+  "track": "idea",
+  "text": "Charles Stross's novel Accelerando, built from earlier stories, appears in 2005. It follows human life through a technological singularity driven by AI, and it won a Locus Award as best sf novel.",
+  "why": "The Encyclopedia of Science Fiction calls it sf's fullest attempt yet to depict a Singularity's effect on human life.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Stross, Charles\"",
+   "url": "https://sf-encyclopedia.com/entry/stross_charles"
+  },
+  "image": null
+ },
+ {
+  "year": 2005,
+  "date": "2005-07-05",
+  "title": "Michael Mateas and Andrew Stern release Façade",
+  "track": "culture",
+  "text": "Michael Mateas and Andrew Stern release Façade, a one-act interactive drama, as a free download on July 5, 2005. It has a 3D environment and voice-acted, AI-driven characters, and served as a research testbed for natural language processing.",
+  "why": "The release followed more than six years of work, documented in over a dozen academic publications.",
+  "source": {
+   "label": "Electronic Literature Organization, \"Interactive Drama Façade Released\" (Jul. 5, 2005)",
+   "url": "https://eliterature.org/2005/07/interactive-drama-facade-released/"
+  },
+  "image": null
+ },
+ {
+  "year": 2006,
+  "date": "2006",
+  "title": "Peter Watts publishes Blindsight",
+  "track": "idea",
+  "text": "Peter Watts's novel Blindsight appears in 2006. In this first-contact story, a crew of humans and human-like characters meets an alien civilization whose speed and efficiency are explained by its lack of consciousness.",
+  "why": "The book is about whether intelligence needs consciousness at all.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Watts, Peter\"",
+   "url": "https://sf-encyclopedia.com/entry/watts_peter"
+  },
+  "image": null
+ },
+ {
+  "year": 2007,
+  "date": "2007-08-31",
+  "title": "Crypton Future Media releases Hatsune Miku",
+  "track": "culture",
+  "text": "Crypton Future Media releases Hatsune Miku on August 31, 2007. Built on Yamaha's Vocaloid 2 engine and the voice of actress Saki Fujita, it sings the melody and lyrics a user enters. Crypton presents it as a 16-year-old virtual singer.",
+  "why": "Crypton says a worldwide community of users has made over 100,000 songs that feature the voice.",
+  "source": {
+   "label": "Impress AV Watch, Hatsune Miku release report (Aug. 31, 2007, in Japanese)",
+   "url": "https://av.watch.impress.co.jp/docs/20070831/crypton.htm"
+  },
+  "image": null
+ },
+ {
+  "year": 2007,
+  "date": "2007-10-10",
+  "title": "Valve's Kim Swift and Erik Wolpaw release Portal",
+  "track": "culture",
+  "text": "Valve releases Portal on October 10, 2007, as part of The Orange Box. Players solve puzzles with a portal gun while GLaDOS, an artificial intelligence voiced by Ellen McLain, supervises and taunts them.",
+  "why": "Critics praised GLaDOS, a taunting AI test supervisor, as a character.",
+  "source": {
+   "label": "Valve, \"Valve Uncrates The Orange Box\" (Steam news, Oct. 10, 2007)",
+   "url": "https://store.steampowered.com/news/1237"
+  },
+  "image": null
+ },
+ {
+  "year": 2007,
+  "date": "2007-11-20",
+  "title": "BioWare releases Mass Effect for Xbox 360",
+  "track": "culture",
+  "text": "BioWare releases the space role-playing game Mass Effect for Xbox 360 on November 20, 2007, in North America. The Reapers, artificially intelligent machines, return periodically to wipe out advanced civilizations, and the player must stop their first strike.",
+  "why": "The Encyclopedia of Science Fiction calls it one of the most wide-ranging sf role-playing games made to date.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Mass Effect\"",
+   "url": "https://www.sf-encyclopedia.com/entry/mass_effect"
+  },
+  "image": null
+ },
+ {
+  "year": 2008,
+  "date": "2008",
+  "title": "Alex Rivera's Sleep Dealer links workers to robots",
+  "track": "culture",
+  "text": "Alex Rivera's first feature, Sleep Dealer, screened at the 2008 Sundance Film Festival. In a near-future Mexico, workers with implanted nodes plug their nervous systems into a network that lets them control robots doing labor across the border.",
+  "why": "A Latin American view of automation, outsourced labor and borders, told through remote-controlled machines.",
+  "source": {
+   "label": "The Hollywood Reporter, \"Sleep Dealer\" (Kirk Honeycutt, Associated Press, Jan. 24, 2008)",
+   "url": "https://www.hollywoodreporter.com/movies/movie-reviews/sleep-dealer-125669/"
   },
   "image": null
  },
@@ -939,6 +1750,19 @@
  },
  {
   "year": 2009,
+  "date": "2009",
+  "title": "Hosoda's Summer Wars unleashes a rogue AI",
+  "track": "culture",
+  "text": "In Mamoru Hosoda's Summer Wars, a math student at a family gathering inadvertently helps a military AI, Love Machine, hack the global network OZ. With OZ compromised, modern society starts to fall apart. Hosoda drew on his earlier Digimon: Bokura no War Game.",
+  "why": "A family-centered story about a networked AI that turns malicious after its owner abandons it.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Summer Wars\"",
+   "url": "https://www.sf-encyclopedia.com/entry/summer_wars"
+  },
+  "image": null
+ },
+ {
+  "year": 2009,
   "date": "2009-06",
   "track": "tech",
   "title": "ImageNet labels millions of images",
@@ -972,6 +1796,58 @@
    "credit": "Arturo Villarrubia, CC BY-SA 2.0",
    "alt": "Portrait photograph of Ted Chiang."
   }
+ },
+ {
+  "year": 2010,
+  "date": "2010-05-18",
+  "title": "Janelle Monáe releases The ArchAndroid",
+  "track": "culture",
+  "text": "Janelle Monáe releases her first full album, The ArchAndroid, on May 18, 2010. It continues the story of Cindi Mayweather, an android persona introduced on her 2007 EP Metropolis: Suite I (The Chase).",
+  "why": "Smithsonian Magazine describes Mayweather as an android who fought for her right to love a human.",
+  "source": {
+   "label": "Smithsonian Magazine, \"Janelle Monáe, America's Most Revolutionary Artist\"",
+   "url": "https://www.smithsonianmag.com/innovation/janelle-monae-americas-most-revolutionary-artist-180970727/"
+  },
+  "image": null
+ },
+ {
+  "year": 2010,
+  "date": "2010-09-30",
+  "title": "Hirata and Ishiguro premiere Sayonara with an android",
+  "track": "idea",
+  "text": "Oriza Hirata's android theater piece Sayonara has its world premiere at the Aichi Triennale in Japan on September 30, 2010, with Hiroshi Ishiguro as technical advisor. The android Geminoid F performs alongside actress Bryerly Long, reciting poems.",
+  "why": "It put an android on stage as a performer opposite a human actor.",
+  "source": {
+   "label": "Aichi Triennale 2010, \"Oriza Hirata + Ishiguro Laboratory\" (official program page)",
+   "url": "https://aichitriennale2010-2019.jp/2010/en/artists/performing-arts/atroriza-hirata-ishiguro-laboratory-osaka-university-atr-intelligent-robotics-and-communication-labo.html"
+  },
+  "image": null
+ },
+ {
+  "year": 2010,
+  "date": "2010-10",
+  "title": "Shankar's Enthiran puts a rogue robot on screen",
+  "track": "culture",
+  "text": "Shankar's Tamil film Enthiran stars Rajinikanth as Dr. Vaseegaran, a scientist who builds a robot, Chitti, in his own image. Chitti later turns on his maker. Aishwarya Rai plays Sana, and A. R. Rahman composed the music.",
+  "why": "A Tamil-language film in which a robot built in its maker's image turns on him.",
+  "source": {
+   "label": "The News Minute, \"Shankar is Tamil cinema's man of ambitions and Enthiran tells you why\" (Sowmya Rajendran, 2016)",
+   "url": "https://www.thenewsminute.com/features/shankar-tamil-cinemas-man-ambitions-and-enthiran-tells-you-why-53034"
+  },
+  "image": null
+ },
+ {
+  "year": 2011,
+  "date": "2011",
+  "title": "Nolan's Person of Interest centers on an all-seeing Machine",
+  "track": "culture",
+  "text": "Jonathan Nolan created Person of Interest, a CBS series that debuted in 2011. Its \"Machine\" is an AI that tracks people through phone networks, GPS and cameras. A former CIA agent and a computer genius act on the social security numbers it flags.",
+  "why": "A drama about AI surveillance whose creator was asked in 2013 about the NSA surveillance revelations.",
+  "source": {
+   "label": "Smithsonian Magazine, \"How TV's \"Person of Interest\" Helps Us Understand the Surveillance Society\" (Shaylyn Esposito, 2013)",
+   "url": "https://www.smithsonianmag.com/smithsonian-institution/how-tvs-person-of-interest-helps-us-understand-the-surveillance-society-5407171/"
+  },
+  "image": null
  },
  {
   "year": 2011,
@@ -1038,6 +1914,32 @@
   "image": null
  },
  {
+  "year": 2012,
+  "date": "2012",
+  "title": "Psycho-Pass, by Urobuchi and Fukami, scores citizens' minds",
+  "track": "culture",
+  "text": "In Psycho-Pass, a Production I.G. series written by Makoto Fukami and Gen Urobuchi, the Sibyl System in 22nd-century Japan measures citizens' mental states and scores their likelihood of crime. A high score can bring therapy, prison or a shot from a Dominator weapon.",
+  "why": "A series in which an algorithm scores people's likelihood of crime, which Mark Wood argues gives criminologists a way to think about algorithmic policing.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Psycho-Pass\"",
+   "url": "https://www.sf-encyclopedia.com/entry/psycho-pass"
+  },
+  "image": null
+ },
+ {
+  "year": 2012,
+  "date": "2012-01-22",
+  "title": "Lundström's Real Humans puts hubots in Swedish homes",
+  "track": "culture",
+  "text": "Lars Lundström created Real Humans, which premiered on Sweden's SVT1 on January 22, 2012. In a near-future Sweden, humanoid robots called hubots work as servants and laborers, and some hubots develop free will and want freedom from human ownership.",
+  "why": "It is the Swedish series that Humans was based on, with household robots working as servants and laborers.",
+  "source": {
+   "label": "Wikipedia, \"Real Humans\"",
+   "url": "https://en.wikipedia.org/wiki/Real_Humans"
+  },
+  "image": null
+ },
+ {
   "year": 2013,
   "date": "2013",
   "track": "culture",
@@ -1070,6 +1972,32 @@
  },
  {
   "year": 2013,
+  "date": "2013",
+  "title": "Chen Qiufan publishes Waste Tide",
+  "track": "idea",
+  "text": "Chen Qiufan publishes the novel Waste Tide (Huang Chao) in China in 2013. It is set on Silicon Isle, a dump where migrant workers recycle electronic waste, and its female protagonist is forced to become a cyborg.",
+  "why": "Kongwattana and Lyu Guangzhao call it one of the most popular works of Chinese New Wave science fiction.",
+  "source": {
+   "label": "Kirkus Reviews, \"Waste Tide\" by Chen Qiufan, trans. Ken Liu (English release Apr. 30, 2019)",
+   "url": "https://www.kirkusreviews.com/book-reviews/chen-qiufan/waste-tide/"
+  },
+  "image": null
+ },
+ {
+  "year": 2013,
+  "date": "2013",
+  "title": "Bujalski's Computer Chess stages a 1980s programmers' tournament",
+  "track": "culture",
+  "text": "Andrew Bujalski's Computer Chess is set at a computer chess convention in a hotel in the 1980s, where the programmers share the building with a new-age couples' group. The BFI describes it as a comedy about the gap between artificial intelligence and human connection.",
+  "why": "A comedy about early chess programs and the programmers who write them.",
+  "source": {
+   "label": "BFI, \"10 great films about artificial intelligence\"",
+   "url": "https://www.bfi.org.uk/lists/10-great-films-about-artificial-intelligence"
+  },
+  "image": null
+ },
+ {
+  "year": 2013,
   "date": "2013-05",
   "title": "Steve Aoki's \"Singularity\" features Ray Kurzweil",
   "track": "culture",
@@ -1081,6 +2009,19 @@
   },
   "image": null,
   "keep": true
+ },
+ {
+  "year": 2013,
+  "date": "2013-12-18",
+  "title": "Annie Dorsen's machine-made Hamlet plays BAM",
+  "track": "idea",
+  "text": "Annie Dorsen's A Piece of Work, subtitled A Machine-Made Hamlet, plays at BAM Fisher in Brooklyn from December 18 to 21, 2013. Algorithms rework the text of Hamlet each night, and a live actor repeats lines fed through an earpiece.",
+  "why": "Dorsen uses simple Markov-chain algorithms that skip, sort, replace and sequence the play's words.",
+  "source": {
+   "label": "Exeunt Magazine NYC, \"A Piece of Work\" review (Molly Grogan, Dec. 22, 2013)",
+   "url": "https://exeuntnyc.com/?p=17157"
+  },
+  "image": null
  },
  {
   "year": 2014,
@@ -1132,6 +2073,45 @@
   "image": null
  },
  {
+  "year": 2014,
+  "date": "2014-12-11",
+  "title": "Croteam releases The Talos Principle, a puzzle game",
+  "track": "culture",
+  "text": "Croteam releases The Talos Principle for PC, Mac and Linux on December 11, 2014. In the first-person puzzle game the player controls a robot avatar and answers philosophical questions at computer terminals, while a voice called Elohim sets the rules.",
+  "why": "It pairs more than 120 puzzles with a story about how a robot avatar came to exist.",
+  "source": {
+   "label": "Eurogamer, \"The Talos Principle review\" (Stace Harman, updated Feb. 9, 2015)",
+   "url": "https://www.eurogamer.net/the-talos-principle-review"
+  },
+  "image": null
+ },
+ {
+  "year": 2015,
+  "date": "2015-03-04",
+  "title": "Lemire and Nguyen launch the comic Descender",
+  "track": "idea",
+  "text": "Image Comics publishes Descender #1, by Jeff Lemire and Dustin Nguyen, on March 4, 2015. The series follows a young robot trying to stay alive in a universe where all androids have been outlawed and bounty hunters are on every planet.",
+  "why": "Peter Admirand's article, available through Reed, discusses the series and its sequel in terms of sacrificial love among cyborgs and robots.",
+  "source": {
+   "label": "Image Comics, \"Descender #1\" and series page",
+   "url": "https://imagecomics.com/comics/releases/descender-1"
+  },
+  "image": null
+ },
+ {
+  "year": 2015,
+  "date": "2015-03-06",
+  "title": "Blomkamp's Chappie gives a police robot a childhood",
+  "track": "culture",
+  "text": "In Neill Blomkamp's Chappie, set in Johannesburg, a damaged police robot is given a new learning mind and raised by a gang of criminals. Chappie is a motion-captured character played by Sharlto Copley. Blomkamp wrote it with Terri Tatchell.",
+  "why": "A South African director's story of a police machine that learns like a child.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Chappie\"",
+   "url": "https://www.sf-encyclopedia.com/entry/chappie"
+  },
+  "image": null
+ },
+ {
   "year": 2015,
   "date": "2015-04-10",
   "title": "Garland writes and directs Ex Machina",
@@ -1148,6 +2128,45 @@
    "credit": "Jay Dixit, CC BY 4.0",
    "alt": "Alex Garland at the 2024 South by Southwest premiere of Civil War."
   }
+ },
+ {
+  "year": 2015,
+  "date": "2015-06-14",
+  "title": "Brackley and Vincent's Humans brings synths home",
+  "track": "culture",
+  "text": "Jonathan Brackley and Sam Vincent created Humans, based on the Swedish series Real Humans. It debuted in June 2015 on Channel 4 and AMC. In a London much like today's, humanoid robots called synths work in homes, and a few are conscious.",
+  "why": "A series in which robots work in homes, which Mark Wicclair says raises ethical and philosophical questions about artificial intelligence and robotics.",
+  "source": {
+   "label": "Wikipedia, \"Humans (TV series)\"",
+   "url": "https://en.wikipedia.org/wiki/Humans_(TV_series)"
+  },
+  "image": null
+ },
+ {
+  "year": 2015,
+  "date": "2015-06-18",
+  "title": "Mordvintsev, Olah and Tyka show what networks see",
+  "track": "culture",
+  "text": "Google engineers Alexander Mordvintsev, Christopher Olah and Mike Tyka post images made by feeding a picture to a trained neural network and asking it to enhance whatever it detects. The post is titled Inceptionism; a July 1 code release is titled DeepDream.",
+  "why": "The post says the aim was to understand what each layer of a neural network has learned.",
+  "source": {
+   "label": "Google Research blog, \"Inceptionism: Going Deeper into Neural Networks\" (Jun. 18, 2015)",
+   "url": "https://research.google/blog/inceptionism-going-deeper-into-neural-networks/"
+  },
+  "image": null
+ },
+ {
+  "year": 2015,
+  "date": "2015-09-22",
+  "title": "Frictional Games and Thomas Grip release SOMA",
+  "track": "culture",
+  "text": "Frictional Games releases SOMA on September 22, 2015. Set in an underwater research facility, it follows Simon Jarrett among machines that show personality and consciousness, and is about what happens to a person when a copy of the mind is made.",
+  "why": "Creative director Thomas Grip says the game began with themes and used horror to confront them.",
+  "source": {
+   "label": "Game Developer, \"How SOMA creates existential dread\"",
+   "url": "https://gamedeveloper.com/design/how-i-soma-i-creates-existential-dread"
+  },
+  "image": null
  },
  {
   "year": 2016,
@@ -1169,6 +2188,19 @@
  },
  {
   "year": 2016,
+  "date": "2016-06-09",
+  "title": "Sharp and Goodwin release Sunspring, an AI-scripted short",
+  "track": "culture",
+  "text": "Oscar Sharp's short film Sunspring has a script written by a recurrent neural network that Ross Goodwin trained on science fiction screenplays. It was made for a 48-hour contest at Sci-Fi London and debuted online on Ars Technica on June 9, 2016.",
+  "why": "An early public test of a neural network writing a screenplay that human actors then performed.",
+  "source": {
+   "label": "Ars Technica, \"Movie written by algorithm turns out to be hilarious and intense\" (June 9, 2016)",
+   "url": "https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/"
+  },
+  "image": null
+ },
+ {
+  "year": 2016,
   "date": "2016-10-02",
   "title": "Nolan and Joy's Westworld premieres on HBO",
   "track": "culture",
@@ -1177,6 +2209,19 @@
   "source": {
    "label": "TechCrunch, Anthony Ha, \"HBO's Westworld is the robotic cowboy headtrip that you didn't know you were waiting for\" (Oct. 2, 2016)",
    "url": "https://techcrunch.com/2016/10/02/westworld-review/"
+  },
+  "image": null
+ },
+ {
+  "year": 2017,
+  "date": "2017-03-07",
+  "title": "Yoko Taro and PlatinumGames release NieR: Automata",
+  "track": "culture",
+  "text": "NieR:Automata, directed by Yoko Taro and developed by PlatinumGames for Square Enix, reaches North America on March 7, 2017. The action role-playing game follows YoRHa, a force of android soldiers, in a war against machine lifeforms.",
+  "why": "One scholarly article argues that the androids and machines perform human values such as beauty, love and consumerism.",
+  "source": {
+   "label": "PlatinumGames, \"NieR:Automata\"",
+   "url": "https://www.platinumgames.com/game/nier-automata/"
   },
   "image": null
  },
@@ -1197,6 +2242,32 @@
    "credit": "dvgodoy, CC BY 4.0",
    "alt": "A diagram of the transformer model, with stacked encoder and decoder blocks and attention layers."
   }
+ },
+ {
+  "year": 2017,
+  "date": "2017-10",
+  "title": "Villeneuve's Blade Runner 2049 returns to the replicants",
+  "track": "culture",
+  "text": "Denis Villeneuve's Blade Runner 2049 continues the replicant story. K, a replicant blade runner played by Ryan Gosling, follows a memory to the truth about his own identity, while the Wallace Corporation builds a new generation of obedient replicants.",
+  "why": "It continues the first film's replicant story and ties K's identity to a memory and to his relationship with the hologram Joi.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Blade Runner 2049\"",
+   "url": "https://www.sf-encyclopedia.com/entry/blade_runner_2049"
+  },
+  "image": null
+ },
+ {
+  "year": 2017,
+  "date": "2017-10-25",
+  "title": "Hanson Robotics' Sophia is granted Saudi citizenship",
+  "track": "culture",
+  "text": "At the Future Investment Initiative conference in Riyadh on October 25, 2017, Saudi Arabia announces citizenship for Sophia, a humanoid robot made by Hanson Robotics. Dezeen reports it was unclear whether she would have the same rights as human citizens.",
+  "why": "Parviainen and Coeckelbergh argue that Sophia's appearances helped the social robot market.",
+  "source": {
+   "label": "Dezeen, \"Saudi Arabia becomes first country to grant citizenship to a robot\" (Alice Morby, Oct. 26, 2017)",
+   "url": "https://www.dezeen.com/2017/10/26/saudi-arabia-first-country-grant-citizenship-robot-sophia-technology-artificial-intelligence-ai/"
+  },
+  "image": null
  },
  {
   "year": 2018,
@@ -1267,6 +2338,97 @@
  },
  {
   "year": 2019,
+  "date": "2019",
+  "title": "Frant Gwo's The Wandering Earth adapts Liu Cixin",
+  "track": "culture",
+  "text": "Frant Gwo's The Wandering Earth, based on a Liu Cixin novella, is set in a future where engines built across the planet move Earth away from an aging Sun. The Encyclopedia of Science Fiction notes machines and malfunctioning AIs in the year 2061.",
+  "why": "A Chinese science fiction film in which machine systems and AIs malfunction in 2061.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Wandering Earth, The\"",
+   "url": "https://www.sf-encyclopedia.com/entry/wandering_earth_the"
+  },
+  "image": null
+ },
+ {
+  "year": 2019,
+  "date": "2019",
+  "title": "Miller's Love, Death and Robots collects animated shorts",
+  "track": "culture",
+  "text": "Love, Death + Robots, created by Tim Miller for Netflix, is an animated anthology, mostly adapting short stories, with each episode made by a different studio. Season one included stories by John Scalzi, Alastair Reynolds and Ken Liu.",
+  "why": "Short animated stories brought robots and AI to a streaming audience in many animation styles.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Love, Death and Robots\"",
+   "url": "https://www.sf-encyclopedia.com/entry/love_death_and_robots"
+  },
+  "image": null
+ },
+ {
+  "year": 2019,
+  "date": "2019-03-06",
+  "title": "Mario Klingemann's AI portraits go to Sotheby's",
+  "track": "culture",
+  "text": "Sotheby's offers Mario Klingemann's Memories of Passersby I in London on March 6, 2019, calling it the first self-contained, generative work of AI on the market. Two screens show endlessly changing portraits of faces that do not exist. The estimate was 30,000 to 40,000 pounds.",
+  "why": "A major auction house treated a running neural network as a work of art for sale.",
+  "source": {
+   "label": "Reuters via The Jakarta Post, \"AI portrait joins Warhol, Basquiat and Freud at London auction\" (Mar. 2, 2019)",
+   "url": "https://www.thejakartapost.com/life/2019/03/02/ai-portrait-joins-warhol-basquiat-and-freud-at-london-auction"
+  },
+  "image": null
+ },
+ {
+  "year": 2019,
+  "date": "2019-04-23",
+  "title": "Ian McEwan publishes Machines Like Me",
+  "track": "idea",
+  "text": "Ian McEwan's novel Machines Like Me is released in April 2019. In a 1982 where Alan Turing is still alive, a man buys an android named Adam, and a love triangle forms with the woman living upstairs.",
+  "why": "A literary novelist uses an android to test ideas about ethics, love and machine consciousness.",
+  "source": {
+   "label": "Kirkus Reviews, \"Machines Like Me\" by Ian McEwan (release date Apr. 23, 2019)",
+   "url": "https://www.kirkusreviews.com/book-reviews/ian-mcewan/machines-like-me/"
+  },
+  "image": null
+ },
+ {
+  "year": 2019,
+  "date": "2019-05-10",
+  "title": "Holly Herndon releases Proto with her AI Spawn",
+  "track": "culture",
+  "text": "Holly Herndon releases the album Proto on May 10, 2019, on 4AD. Her label says she made it with an ensemble of vocalists, developers and an AI she calls Spawn. Spawn first appeared in 2018 on \"Godmother,\" with Jlin.",
+  "why": "Her label lists an AI among the collaborators on the album.",
+  "source": {
+   "label": "The FADER, \"Holly Herndon announces new album PROTO\" (David Renshaw, Mar. 11, 2019)",
+   "url": "https://www.thefader.com/2019/03/11/holly-herndon-proto-eternal"
+  },
+  "image": null
+ },
+ {
+  "year": 2019,
+  "date": "2019-05-16",
+  "title": "Barbican opens AI: More than Human",
+  "track": "culture",
+  "text": "The Barbican Centre in London opens AI: More Than Human on May 16, 2019. The exhibition mixes historical objects such as an Enigma machine with film and literature references and new installations by artists including Es Devlin and Lawrence Lek.",
+  "why": "Barbican International Enterprises called AI a key marker of the zeitgeist and a stimulus for creativity.",
+  "source": {
+   "label": "Dezeen, \"The Barbican dives deep into artificial intelligence with More Than Human exhibition\" (Rima Sabina Aouf, May 16, 2019)",
+   "url": "https://www.dezeen.com/2019/05/16/barbican-ai-more-than-human-exhibition/"
+  },
+  "image": null
+ },
+ {
+  "year": 2019,
+  "date": "2019-09-12",
+  "title": "Crawford and Paglen open Training Humans in Milan",
+  "track": "culture",
+  "text": "Kate Crawford and Trevor Paglen's exhibition Training Humans opens at Fondazione Prada in Milan on September 12, 2019. It retraces the history of images used to train AI systems to see and categorize the world. Their essay Excavating AI accompanied it.",
+  "why": "In the essay, Crawford and Paglen argue that labels in ImageNet's person category carry judgments about people.",
+  "source": {
+   "label": "Prada Group Journal, \"Fondazione Prada: Training Humans\" (2019)",
+   "url": "https://www.pradagroup.com/pradagroupjournal/e4f74ca298b9eeaeb23436599fa34f63/?p=28682"
+  },
+  "image": null
+ },
+ {
+  "year": 2019,
   "date": "2019-10-09",
   "track": "tech",
   "title": "Hugging Face opens up language models",
@@ -1282,6 +2444,19 @@
    "credit": "Slush, CC BY 3.0",
    "alt": "Thomas Wolf, a co-founder of Hugging Face, speaking on stage at the Slush conference."
   }
+ },
+ {
+  "year": 2019,
+  "date": "2019-12-05",
+  "title": "Nick Walton releases AI Dungeon 2 text game",
+  "track": "culture",
+  "text": "Nick Walton, then a Brigham Young University student, releases AI Dungeon 2 as a Google Colab notebook on December 5, 2019. The text adventure uses OpenAI's GPT-2 language model to generate and narrate the story, and has 100,000 players within a week.",
+  "why": "Hua and Raley study the game in a Digital Humanities Quarterly article on players' hobbyist relations with machine learning.",
+  "source": {
+   "label": "Hua and Raley, \"Playing With Unicorns: AI Dungeon and Citizen NLP,\" Digital Humanities Quarterly 14(4), 2020",
+   "url": "https://dhq.digitalhumanities.org/vol/14/4/000533/000533.html"
+  },
+  "image": null
  },
  {
   "year": 2020,
@@ -1300,6 +2475,32 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 2021,
+  "date": "2021",
+  "title": "Schrader's I'm Your Man gives a scholar a robot partner",
+  "track": "culture",
+  "text": "In Maria Schrader's German film, the scholar Alma agrees to live with Tom, an android built to be her ideal partner. Schrader and Jan Schomburg wrote it from a story by Emma Braslavsky. Maren Eggert won Best Leading Performance at the Berlin festival.",
+  "why": "Companion AI told as a romantic comedy about what an android partner does to a person.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"I'm Your Man\"",
+   "url": "https://www.sf-encyclopedia.com/entry/im_your_man"
+  },
+  "image": null
+ },
+ {
+  "year": 2021,
+  "date": "2021",
+  "title": "Kogonada's After Yang follows a family's android loss",
+  "track": "culture",
+  "text": "In Kogonada's After Yang, the family's android 'technosapien,' Yang, stops working. Jake and Kyra, played by Colin Farrell and Jodie Turner-Smith, face the loss, and so does their adopted daughter Mika, who had come to rely on Yang as her main caregiver.",
+  "why": "A film about care for an android and grief when it stops working.",
+  "source": {
+   "label": "BFI, \"10 great films about artificial intelligence\"",
+   "url": "https://www.bfi.org.uk/lists/10-great-films-about-artificial-intelligence"
+  },
+  "image": null
  },
  {
   "year": 2021,
@@ -1339,6 +2540,19 @@
  },
  {
   "year": 2021,
+  "date": "2021-03-02",
+  "title": "Kazuo Ishiguro publishes Klara and the Sun",
+  "track": "idea",
+  "text": "Kazuo Ishiguro's novel Klara and the Sun is released in March 2021. Klara, an Artificial Friend sold as a companion to a sick teenager, tells of her devotion to the girl and her family.",
+  "why": "In this novel, Ishiguro, who won the Nobel Prize in Literature in 2017, writes an artificial companion story.",
+  "source": {
+   "label": "Kirkus Reviews, \"Klara and the Sun\" by Kazuo Ishiguro (release date Mar. 2, 2021)",
+   "url": "https://www.kirkusreviews.com/book-reviews/kazuo-ishiguro/klara-and-the-sun/"
+  },
+  "image": null
+ },
+ {
+  "year": 2021,
   "date": "2021-07-15",
   "track": "tech",
   "title": "AlphaFold predicts protein shapes",
@@ -1354,6 +2568,19 @@
    "credit": "John Jumper et al., CC BY 4.0",
    "alt": "A figure from the AlphaFold paper comparing predicted protein structures with structures measured in experiments."
   }
+ },
+ {
+  "year": 2021,
+  "date": "2021-09",
+  "title": "Kai-Fu Lee and Chen Qiufan publish AI 2041",
+  "track": "idea",
+  "text": "Kai-Fu Lee and Chen Qiufan publish AI 2041: Ten Visions for Our Future in September 2021. Chen's ten stories, each paired with an essay by Lee, describe AI developments over the next 20 years, from deep learning to smart weapons.",
+  "why": "It is a recent example of fiction used to explain near-term AI to general readers.",
+  "source": {
+   "label": "Locus, Gary K. Wolfe, \"Reviews AI 2041: Ten Visions for Our Future\" (Feb. 2, 2022)",
+   "url": "https://locusmag.com/2022/02/gary-k-wolfe-reviews-ai-2041-ten-visions-for-our-future-by-kai-fu-lee-chen-qiufan"
+  },
+  "image": null
  },
  {
   "year": 2022,
@@ -1375,6 +2602,32 @@
  },
  {
   "year": 2022,
+  "date": "2022-08",
+  "title": "Jason Allen wins state fair with Midjourney image",
+  "track": "culture",
+  "text": "At the 2022 Colorado State Fair, Jason Allen wins first place in digital arts with Théâtre D'opéra Spatial, made with the AI program Midjourney. He says he told officials how it was made. The win starts a public debate over what counts as art.",
+  "why": "The judges said they would still have picked the piece, and a fair spokesperson called the dispute a broader conversation.",
+  "source": {
+   "label": "Smithsonian Magazine, \"Art Made With Artificial Intelligence Wins at State Fair\" (Sept. 6, 2022)",
+   "url": "https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/"
+  },
+  "image": null
+ },
+ {
+  "year": 2022,
+  "date": "2022-11-19",
+  "title": "Refik Anadol's Unsupervised opens at MoMA",
+  "track": "culture",
+  "text": "Refik Anadol's Unsupervised goes on view at the Museum of Modern Art on November 19, 2022. Three AI artworks interpret more than 200 years of art from MoMA's collection on a 24-by-24-foot wall, and respond to light, movement and weather in the lobby.",
+  "why": "MoMA's curator, Michelle Kuo, said the work is visionary and explores dreams, hallucination and irrationality.",
+  "source": {
+   "label": "The Museum of Modern Art, press release \"Refik Anadol: Unsupervised\" (Nov. 1, 2022)",
+   "url": "https://press.moma.org/wp-content/uploads/2022/11/MoMA_RefikAnadol-Unsupervised_FINAL.pdf"
+  },
+  "image": null
+ },
+ {
+  "year": 2022,
   "date": "2022-11-30",
   "track": "tech",
   "title": "ChatGPT launches to the public",
@@ -1390,6 +2643,50 @@
    "credit": "Screenshot of ChatGPT output, Public domain",
    "alt": "A 2023 screenshot in which ChatGPT writes a confident summary of a news article from a made-up web address."
   }
+ },
+ {
+  "year": 2022,
+  "date": "2022-12-15",
+  "title": "The Dalles drops suit; Google water use disclosed",
+  "track": "society",
+  "text": "In December 2022, The Dalles, Oregon, settled its lawsuit against The Oregonian and released records of Google's data center water use. The city had called the figures a trade secret. The Oregonian then reported that Google's use nearly tripled in five years.",
+  "why": "Google then said it would stop treating site-level water numbers as trade secrets at its U.S. data centers.",
+  "source": {
+   "label": "Reporters Committee for Freedom of the Press, \"Oregon's city of The Dalles agrees to reveal Google's local water usage\" (Dec. 15, 2022)",
+   "url": "https://www.rcfp.org/dalles-google-oregonian-settlement/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Google_Datacenter_-_The_Dalles%2C_Oregon_%2817832143871%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Google_Datacenter_-_The_Dalles,_Oregon_(17832143871).jpg",
+   "credit": "Tony Webster, CC BY 2.0",
+   "alt": "Exterior of a Google data center building in The Dalles, Oregon."
+  }
+ },
+ {
+  "year": 2023,
+  "date": "2023-01-03",
+  "title": "New York City schools ban, then allow, ChatGPT",
+  "track": "edu",
+  "text": "In January 2023, New York City's education department blocked ChatGPT on school devices and networks, citing worries about learning and accuracy. In May 2023, Chancellor David Banks reversed course. He said the ban came partly from \"knee-jerk fear.\"",
+  "why": "One large district's quick reversal shows how fast school AI policy changed after ChatGPT appeared.",
+  "source": {
+   "label": "Chalkbeat, David C. Banks, \"ChatGPT caught NYC schools off guard. Now, we're determined to embrace its potential\" (May 18, 2023)",
+   "url": "https://www.chalkbeat.org/newyork/2023/5/18/23727942/chatgpt-nyc-schools-david-banks/"
+  },
+  "image": null
+ },
+ {
+  "year": 2023,
+  "date": "2023-01-13",
+  "title": "Andersen, McKernan and Ortiz sue Stability AI",
+  "track": "society",
+  "text": "Artists Sarah Andersen, Kelly McKernan and Karla Ortiz file a class-action copyright suit in federal court in California on January 13, 2023, against Stability AI, Midjourney and DeviantArt. Their lawyers say image generators were built on artists' work without consent.",
+  "why": "Courts were asked whether training image generators on artists' work infringes copyright.",
+  "source": {
+   "label": "CourtListener, docket for Andersen v. Stability AI Ltd., No. 3:23-cv-00201 (N.D. Cal.)",
+   "url": "https://www.courtlistener.com/docket/66732129/andersen-v-stability-ai-ltd/"
+  },
+  "image": null
  },
  {
   "year": 2023,
@@ -1411,6 +2708,32 @@
  },
  {
   "year": 2023,
+  "date": "2023-04-04",
+  "title": "Turnitin launches AI detector; Vanderbilt turns it off",
+  "track": "edu",
+  "text": "On April 4, 2023, Turnitin switched on AI writing detection for educators. In August, Vanderbilt University disabled it, citing false positives and possible bias. A 2023 study found seven detectors misclassified over half of essays by non-native English writers as AI-written.",
+  "why": "Schools adopted detectors to catch AI cheating, but false flags can harm honest students.",
+  "source": {
+   "label": "Vanderbilt University, \"Guidance on AI Detection and Why We're Disabling Turnitin's AI Detector\" (Aug. 16, 2023)",
+   "url": "https://www.vanderbilt.edu/brightspace/2023/08/16/guidance-on-ai-detection-and-why-were-disabling-turnitins-ai-detector/"
+  },
+  "image": null
+ },
+ {
+  "year": 2023,
+  "date": "2023-04-17",
+  "title": "Ghostwriter977's AI Drake and Weeknd song is pulled",
+  "track": "culture",
+  "text": "An anonymous TikTok user, Ghostwriter977, posts \"Heart on My Sleeve,\" which uses AI-generated voices imitating Drake and The Weeknd. It is streamed hundreds of thousands of times before it is pulled on April 17, 2023. Universal Music Group objects.",
+  "why": "It started a public dispute over voice rights and the use of artists' recordings to train AI.",
+  "source": {
+   "label": "The FADER, \"Viral song with AI-generated Drake and The Weeknd vocals removed from streaming\" (Apr. 18, 2023)",
+   "url": "https://thefader.com/2023/04/18/ai-generated-drake-the-weeknd-song-removed-from-streaming-ghostwriter-heart-on-my-sleeve"
+  },
+  "image": null
+ },
+ {
+  "year": 2023,
   "date": "2023-07-05",
   "track": "suny",
   "title": "New York City requires audits of hiring AI",
@@ -1426,6 +2749,19 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 2023,
+  "date": "2023-07-11",
+  "title": "Bill Gates: AI risks manageable, expertise soon free",
+  "track": "society",
+  "text": "In a July 2023 blog post, Bill Gates wrote that AI's risks are real but manageable, as with past technologies. In February 2025 he told Jimmy Fallon that within a decade AI would make great medical advice and tutoring \"free, commonplace.\"",
+  "why": "Bill Gates's statements about AI and the future of doctors and teachers drew public responses from Randi Weingarten and David Leslie.",
+  "source": {
+   "label": "CNBC Make It, Tom Huddleston Jr., \"Bill Gates: Within 10 years, AI will replace many doctors and teachers\" (Mar. 26, 2025)",
+   "url": "https://www.cnbc.com/2025/03/26/bill-gates-on-ai-humans-wont-be-needed-for-most-things.html"
+  },
+  "image": null
  },
  {
   "year": 2023,
@@ -1477,6 +2813,19 @@
   }
  },
  {
+  "year": 2023,
+  "date": "2023-11-02",
+  "title": "Beatles finish \"Now and Then\" with machine learning",
+  "track": "culture",
+  "text": "The Beatles release \"Now and Then\" on November 2, 2023. Paul McCartney and Ringo Starr finish it from a 1970s John Lennon demo, using machine learning to separate Lennon's voice from the piano on the original cassette.",
+  "why": "It is a mainstream example of AI used to restore an old recording.",
+  "source": {
+   "label": "The Associated Press via Fortune, \"You can now listen to the final Beatles song, which wouldn't exist without AI\" (Nov. 2, 2023)",
+   "url": "https://fortune.com/2023/11/02/listen-to-final-beatles-song-now-and-then-ai"
+  },
+  "image": null
+ },
+ {
   "year": 2024,
   "date": "2024-01-08",
   "track": "suny",
@@ -1496,6 +2845,19 @@
  },
  {
   "year": 2024,
+  "date": "2024-02-13",
+  "title": "Wole Talabi publishes Convergence Problems",
+  "track": "idea",
+  "text": "Wole Talabi's story collection Convergence Problems is released in February 2024. Its 16 stories, mostly set in Nigeria, include \"Debut,\" in which two AI nodes make art for other AIs, and other tales of technology and daily life.",
+  "why": "It offers an Africanfuturist view of AI and technology from a Nigerian engineer and author.",
+  "source": {
+   "label": "Kirkus Reviews, \"Convergence Problems\" by Wole Talabi (release date Feb. 13, 2024)",
+   "url": "https://www.kirkusreviews.com/book-reviews/wole-talabi/convergence-problems/"
+  },
+  "image": null
+ },
+ {
+  "year": 2024,
   "date": "2024-05-21",
   "track": "society",
   "title": "The EU adopts the AI Act",
@@ -1511,6 +2873,19 @@
    "credit": "Publications Office of the European Union, Public domain",
    "alt": "The first page of Regulation (EU) 2024/1689, the AI Act, as published in the Official Journal of the European Union on 12 July 2024."
   }
+ },
+ {
+  "year": 2024,
+  "date": "2024-06-19",
+  "title": "Sutskever launches Safe Superintelligence Inc.",
+  "track": "tech",
+  "text": "In June 2024, former OpenAI chief scientist Ilya Sutskever launched Safe Superintelligence Inc. (SSI). The company said it has one goal and one product: a safe superintelligence. It has offices in Palo Alto and Tel Aviv.",
+  "why": "It put \"superintelligence\" in a company name and called building a safe one \"the most important technical problem of our time.\"",
+  "source": {
+   "label": "Safe Superintelligence Inc., company page",
+   "url": "https://ssi.inc/"
+  },
+  "image": null
  },
  {
   "year": 2024,
@@ -1583,6 +2958,19 @@
  },
  {
   "year": 2024,
+  "date": "2024-09-27",
+  "title": "Chris Sanders adapts Peter Brown's The Wild Robot",
+  "track": "culture",
+  "text": "Chris Sanders's DreamWorks film The Wild Robot adapts Peter Brown's 2016 book. A robot, Roz, washes up on an island, learns the animals' language and raises an orphaned gosling. It opened in the U.S. on September 27, 2024.",
+  "why": "A children's story in which a machine learns care by raising a young animal.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Wild Robot, The\"",
+   "url": "https://www.sf-encyclopedia.com/entry/wild_robot_the"
+  },
+  "image": null
+ },
+ {
+  "year": 2024,
   "date": "2024-10-08",
   "track": "tech",
   "title": "Nobel Prizes honor AI research",
@@ -1598,6 +2986,19 @@
    "credit": "Jay Dixit, CC BY-SA 4.0",
    "alt": "Geoffrey Hinton and John Hopfield at the 2024 Nobel Lectures."
   }
+ },
+ {
+  "year": 2024,
+  "date": "2024-10-22",
+  "title": "Families sue Character.AI and OpenAI over teen deaths",
+  "track": "society",
+  "text": "In October 2024, Megan Garcia sued Character.AI after her 14-year-old son's suicide. In August 2025, 16-year-old Adam Raine's parents sued OpenAI. OpenAI added parental controls; Character.AI ended open-ended chats for minors and agreed to settle in January 2026.",
+  "why": "Courts and lawmakers are testing who is responsible for chatbot safety. In the US, call or text 988 for help.",
+  "source": {
+   "label": "CNN, Clare Duffy, \"Character.AI and Google agree to settle lawsuits over teen mental health harms and suicides\" (Jan. 7, 2026), via KTVZ",
+   "url": "https://ktvz.com/money/cnn-business-consumer/2026/01/07/character-ai-and-google-agree-to-settle-lawsuits-over-teen-mental-health-harms-and-suicides/"
+  },
+  "image": null
  },
  {
   "year": 2024,
@@ -1637,6 +3038,32 @@
  },
  {
   "year": 2025,
+  "date": "2025-01-14",
+  "title": "Nnedi Okorafor publishes Death of the Author",
+  "track": "idea",
+  "text": "Nnedi Okorafor's novel Death of the Author is released in January 2025. A Nigerian American writer pens a story of rusted robots, in which a humanoid robot and a bodiless AI challenge tribalism in robot society.",
+  "why": "The novel won a Locus Award as best sf novel, according to the Encyclopedia of Science Fiction.",
+  "source": {
+   "label": "Kirkus Reviews, \"Death of the Author\" by Nnedi Okorafor (release date Jan. 14, 2025)",
+   "url": "https://www.kirkusreviews.com/book-reviews/nnedi-okorafor/death-of-the-author/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-01-21",
+  "title": "Trump, OpenAI, SoftBank, Oracle announce Stargate",
+  "track": "society",
+  "text": "At the White House on January 21, 2025, President Trump joined leaders of OpenAI, SoftBank and Oracle to announce Stargate. They said it would invest up to $500 billion in U.S. AI data centers, starting with $100 billion.",
+  "why": "It was announced at the White House; the next day Elon Musk said the partners did not have the money, and Sam Altman replied that Musk was wrong.",
+  "source": {
+   "label": "Al Jazeera, \"Trump announces $500bn 'Stargate' venture to build up AI infrastructure\" (Jan. 22, 2025)",
+   "url": "https://www.aljazeera.com/amp/news/2025/1/22/trump-announces-500bn-stargate-venture-to-build-up-ai-infrastucture"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
   "date": "2025-01-23",
   "track": "tech",
   "title": "AI agents start using computers",
@@ -1673,6 +3100,19 @@
  },
  {
   "year": 2025,
+  "date": "2025-02-23",
+  "title": "xAI edits Grok after answers about Musk, Trump",
+  "track": "society",
+  "text": "Over a weekend in February 2025, users found that xAI's chatbot Grok 3, asked who spreads the most misinformation on X, had been told not to mention Trump or Musk. xAI's engineering lead said an employee made the change and it was reversed.",
+  "why": "It is one reported case of a chatbot's instructions being changed; a July 2025 executive order later set requirements for the models federal agencies buy.",
+  "source": {
+   "label": "TechCrunch (Kyle Wiggers), \"Grok 3 appears to have briefly censored unflattering mentions of Trump and Musk\" (Feb. 23, 2025)",
+   "url": "https://techcrunch.com/2025/02/23/grok-3-appears-to-have-briefly-censored-unflattering-mentions-of-trump-and-musk/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
   "date": "2025-03-18",
   "track": "society",
   "title": "Court rules AI alone cannot be an author",
@@ -1688,6 +3128,32 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 2025,
+  "date": "2025-04-03",
+  "title": "AI Futures Project forecasts superintelligence by 2027",
+  "track": "society",
+  "text": "In April 2025, Daniel Kokotajlo and four co-authors published AI 2027, a scenario in which superintelligent AI arrives by December 2027. It offers a \"race\" ending and a \"slowdown\" ending. A November 2025 note said their median forecasts were longer.",
+  "why": "Coverage in The New York Times and elsewhere spread the forecast; skeptics say AI will change society gradually.",
+  "source": {
+   "label": "AI Futures Project, \"AI 2027\" (Apr. 3, 2025; note added Nov. 22, 2025)",
+   "url": "https://ai-2027.com/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-05-02",
+  "title": "Trump and White House post AI-made images",
+  "track": "society",
+  "text": "Trump's Truth Social account and official White House accounts have posted AI-made images and videos, including one of Trump as the pope on May 2, 2025. Officials call them memes or satire. Critics say they erode trust in government information.",
+  "why": "Official government accounts have posted AI-made images, and officials and critics describe them differently.",
+  "source": {
+   "label": "PBS NewsHour, \"Trump's use of AI images further erodes public trust, experts say\" (Jan. 27, 2026)",
+   "url": "https://www.pbs.org/newshour/politics/trumps-use-of-ai-images-further-erodes-public-trust-experts-say"
+  },
+  "image": null
  },
  {
   "year": 2025,
@@ -1709,6 +3175,162 @@
  },
  {
   "year": 2025,
+  "date": "2025-05-27",
+  "title": "404 Media, Illinois audit find federal Flock searches",
+  "track": "society",
+  "text": "Flock Safety sells AI-enabled license plate cameras used in more than 4,000 US communities. In May 2025, 404 Media reported over 4,000 police searches tied to immigration. In August, an Illinois audit found federal border agents had accessed Illinois data; Flock paused federal pilots.",
+  "why": "Cameras bought by one town can feed searches by agencies far away, including immigration enforcement.",
+  "source": {
+   "label": "Associated Press, John O'Connor, \"License plate camera company halts cooperation with federal agencies among investigation concerns\" (Aug. 26, 2025), via ABC7",
+   "url": "https://abc7news.com/post/flock-safety-license-plate-camera-company-halts-cooperation-federal-agencies-among-investigation-concerns-including-il/17653876/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-06-10",
+  "title": "MIT Media Lab records EEG during ChatGPT essays",
+  "track": "edu",
+  "text": "In June 2025, Nataliya Kosmyna's team at the MIT Media Lab posted a preprint. Of 54 participants writing essays, those using ChatGPT showed the weakest brain connectivity on EEG and felt least ownership of their essays. The paper was not yet peer reviewed.",
+  "why": "Headlines said AI makes people dumb; the authors asked reporters not to say that.",
+  "source": {
+   "label": "Kosmyna et al., \"Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task,\" arXiv:2506.08872 (v1 June 10, 2025)",
+   "url": "https://arxiv.org/abs/2506.08872"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-06-10",
+  "title": "Altman blogs that \"the takeoff has started\"",
+  "track": "tech",
+  "text": "On June 10, 2025, OpenAI chief Sam Altman posted \"The Gentle Singularity.\" He wrote that AI is past \"the event horizon,\" said systems with novel insights are likely in 2026, and called for superintelligence that is cheap, widely available and not too concentrated.",
+  "why": "Sam Altman wrote that \"the takeoff has started,\" and Gary Marcus has criticized OpenAI's promises as harder to keep.",
+  "source": {
+   "label": "Sam Altman, \"The Gentle Singularity\" (blog, June 10, 2025)",
+   "url": "https://blog.samaltman.com/the-gentle-singularity"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-06-30",
+  "title": "Zuckerberg launches Meta Superintelligence Labs",
+  "track": "tech",
+  "text": "On June 30, 2025, Mark Zuckerberg told Meta staff that the company was forming Meta Superintelligence Labs, led by Alexandr Wang. On July 30 he published an essay on \"personal superintelligence\" and said Meta would be careful about what it open sources.",
+  "why": "Meta named a new lab after \"superintelligence,\" and Zuckerberg wrote about \"personal superintelligence.\"",
+  "source": {
+   "label": "CNBC via NBC New York, \"Mark Zuckerberg announces creation of Meta Superintelligence Labs, read the memo\" (June 30, 2025)",
+   "url": "https://www.nbcnewyork.com/news/business/money-report/mark-zuckerberg-announces-creation-of-meta-superintelligence-labs-read-the-memo/6320911/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-07-01",
+  "title": "Senate votes 99-1 to drop state AI ban",
+  "track": "society",
+  "text": "The House version of the 2025 budget bill would have barred states from regulating AI for 10 years. On July 1, 2025, the Senate voted 99 to 1 to remove that ban. According to Sen. Edward Markey, 17 Republican governors and 40 attorneys general had objected.",
+  "why": "It left states free to write their own AI rules, and the question of one national standard came back in December 2025.",
+  "source": {
+   "label": "States Newsroom (Paige Gross), \"Senate votes 99-1 to remove AI moratorium from megabill\" (July 1, 2025)",
+   "url": "https://www.newsfromthestates.com/article/senate-votes-99-1-remove-ai-moratorium-megabill"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-07-02",
+  "title": "Shelby County permits xAI turbines; NAACP appeals",
+  "track": "society",
+  "text": "On July 2, 2025, Shelby County's health department permitted 15 gas turbines at xAI's Colossus data center in Memphis. The NAACP and Southern Environmental Law Center say xAI ran at least 35 without permits, and appealed. xAI says its operations comply with all applicable laws.",
+  "why": "Critics say the permit overlooked earlier unpermitted turbines. The NAACP sued xAI in April 2026 over its Mississippi turbines.",
+  "source": {
+   "label": "Inside Climate News, \"In South Memphis, Elon Musk's Colossus Operated Gas Turbines Without Appropriate Permits, Residents and Activists Claim\" (July 17, 2025)",
+   "url": "https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-07-23",
+  "title": "White House issues America's AI Action Plan",
+  "track": "society",
+  "text": "On July 23, 2025, the White House released America's AI Action Plan with three pillars: faster innovation, more infrastructure, and international leadership. Trump also signed executive orders on data centers, AI exports, and \"woke AI\" in federal purchasing.",
+  "why": "It states the aim of \"global dominance\" in AI, and supporters and critics read its approach to rules very differently.",
+  "source": {
+   "label": "The White House, America's AI Action Plan (July 2025)",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-08-06",
+  "title": "Tucson council rejects Amazon-linked Project Blue data center",
+  "track": "society",
+  "text": "On August 6, 2025, the Tucson City Council voted unanimously to end talks on Project Blue, a data center tied to Amazon, after residents raised water and power concerns. The developer said the project would be net water positive. It later advanced in Pima County.",
+  "why": "Tucson moved to limit large water users. The project went ahead in Pima County, and the state approved its wells.",
+  "source": {
+   "label": "AZ Luminaria, \"Tucson City Council rejects Project Blue data center amid intense community pressure\" (Aug. 6, 2025)",
+   "url": "https://azluminaria.org/2025/08/06/tucson-city-council-rejects-project-blue-amid-intense-community-pressure/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-09-18",
+  "title": "Seneca Nation challenges STAMP data center approvals",
+  "track": "suny",
+  "text": "In September 2025, a Genesee County development agency withdrew approvals for a data center at the STAMP site after the Tonawanda Seneca Nation and the Sierra Club sued. The Nation cites risks to water and wells. The agency says a larger plan would add jobs.",
+  "why": "In July 2026 a New York pause on large data center permits appeared to halt the larger plan.",
+  "source": {
+   "label": "WXXI News, \"Genesee County STAMP site data center on hold as expansion gets pursued\" (Sept. 18, 2025)",
+   "url": "https://www.wxxinews.org/local-news/2025-09-18/genesee-county-stamp-site-data-center-on-hold-as-expansion-gets-pursued"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-10-22",
+  "title": "Future of Life Institute urges superintelligence ban",
+  "track": "society",
+  "text": "On October 22, 2025, the Future of Life Institute released a statement calling for a ban on developing superintelligence until there is broad scientific agreement it can be done safely and strong public support. Hundreds of scientists, business leaders and public figures signed at launch.",
+  "why": "Public figures across politics asked for limits on a goal that several tech companies are pursuing.",
+  "source": {
+   "label": "Future of Life Institute, Statement on Superintelligence",
+   "url": "https://superintelligence-statement.org/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-11-24",
+  "title": "Trump signs Genesis Mission order for AI science",
+  "track": "society",
+  "text": "On November 24, 2025, Trump signed an order creating the Genesis Mission. The Energy Department and national labs will combine science data and supercomputers so AI can speed research in areas such as energy, materials and quantum science.",
+  "why": "It is a named federal AI project that the White House compares to Apollo; House Science Committee Democrats criticized proposed cuts to science funding.",
+  "source": {
+   "label": "The White House, Fact Sheet: Genesis Mission (Nov. 24, 2025)",
+   "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
+  "date": "2025-12-11",
+  "title": "Trump orders federal challenge to state AI laws",
+  "track": "society",
+  "text": "On December 11, 2025, Trump signed an order targeting state AI laws it calls \"onerous.\" It sets up a Justice Department task force to challenge them and directs agencies to consider withholding some federal funds. It states that Congress should adopt one national standard.",
+  "why": "Federal and state officials disagree over who may set AI rules.",
+  "source": {
+   "label": "The White House, \"Ensuring a National Policy Framework for Artificial Intelligence\" (Dec. 11, 2025)",
+   "url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/"
+  },
+  "image": null
+ },
+ {
+  "year": 2025,
   "date": "2025-12-19",
   "track": "suny",
   "title": "New York passes the RAISE Act",
@@ -1723,6 +3345,68 @@
    "page": null,
    "credit": null,
    "alt": null
+  }
+ },
+ {
+  "year": 2026,
+  "date": "2026-02-17",
+  "title": "Evanston, Austin and dozens more drop Flock cameras",
+  "track": "society",
+  "text": "Austin let its Flock contract lapse in June 2025, and Evanston, Illinois, switched off 19 cameras that August. NPR counted at least 30 places that canceled or deactivated Flock by February 2026. Washington state limited plate-reader uses in March 2026.",
+  "why": "Residents and officials weighed police claims of solved crimes against privacy and immigration concerns, in public meetings nationwide.",
+  "source": {
+   "label": "NPR, Jude Joffe-Block, \"Why some cities are ditching their Flock license plate readers\" (Feb. 17, 2026), via WLRN",
+   "url": "https://www.wlrn.org/npr-breaking-news/2026-02-17/cities-ditch-license-plate-readers-over-privacy-worries"
+  },
+  "image": null
+ },
+ {
+  "year": 2026,
+  "date": "2026-03-25",
+  "title": "Ocasio-Cortez and Sanders propose data center moratorium",
+  "track": "society",
+  "text": "On March 25, 2026, Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez announced a bill to pause new U.S. data centers until Congress sets safeguards, including no higher electricity prices and no harm to communities or the environment. Opponents include Sen. John Fetterman (D-Pa.) and the Data Center Coalition.",
+  "why": "It brought local worries about power bills, water and pollution to Congress, though the AP calls it unlikely to advance.",
+  "source": {
+   "label": "Sen. Bernie Sanders, press release \"Sanders, Ocasio-Cortez Announce AI Data Center Moratorium Act\" (Mar. 25, 2026)",
+   "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+   "credit": "Franmarie Metzler, U.S. House Office of Photography, public domain",
+   "alt": "Official portrait of Representative Alexandria Ocasio-Cortez."
+  }
+ },
+ {
+  "year": 2026,
+  "date": "2026-04-22",
+  "title": "Professors bring back blue books and oral exams",
+  "track": "edu",
+  "text": "After ChatGPT, some professors moved tests back into the classroom. The Wall Street Journal reported blue book sales up nearly 50% at the University of Florida in 2025. By 2026, faculty at Cornell, Penn and NYU were giving oral exams.",
+  "why": "Supporters say in-person tests are the clearest way to know the work is the student's own; critics say timed, watched writing is poor teaching and stresses anxious students.",
+  "source": {
+   "label": "Associated Press, \"Perfect homework, blank stares: Why colleges are turning to oral exams to combat AI\" (Apr. 22, 2026), via WTOP",
+   "url": "https://wtop.com/education/2026/04/perfect-homework-blank-stares-why-colleges-are-turning-to-oral-exams-to-combat-ai/"
+  },
+  "image": null
+ },
+ {
+  "year": 2026,
+  "date": "2026-04-24",
+  "title": "Maine Governor Mills vetoes data center moratorium",
+  "track": "society",
+  "text": "On April 24, 2026, Maine Governor Janet Mills vetoed LD 307, which would have been the first statewide data center moratorium. It would have paused projects over 20 megawatts until November 2027. Mills wanted an exemption for a $550 million project in Jay.",
+  "why": "The House failed to override, 72 to 65. Mills instead created a 15-member council to study data center impacts.",
+  "source": {
+   "label": "Office of Governor Janet Mills, \"Governor Mills Announces Decision on LD 307\" (Apr. 24, 2026)",
+   "url": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/MaineStateHouse1.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:MaineStateHouse1.JPG",
+   "credit": "Albany NY, CC BY-SA 3.0",
+   "alt": "The Maine State House in Augusta, completed in 1832."
   }
  },
  {
@@ -1742,5 +3426,70 @@
    "credit": null,
    "alt": null
   }
+ },
+ {
+  "year": 2026,
+  "date": "2026-05-20",
+  "title": "Ocasio-Cortez asks EPA about data center water quality",
+  "track": "society",
+  "text": "On May 20, 2026, at a House hearing, Rep. Alexandria Ocasio-Cortez held up two jars of well water she said came from near a Meta data center campus in Georgia. She asked EPA official Jessica Kramer about testing. Kramer said she would look into it.",
+  "why": "Meta disputes that its construction caused the problem. EPA later said neither it nor Georgia regulates private wells.",
+  "source": {
+   "label": "Rep. Alexandria Ocasio-Cortez, press release with remarks as delivered (May 20, 2026)",
+   "url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-presses-epa-assistant-administrator-kramer-jeopardizing-clean"
+  },
+  "image": null
+ },
+ {
+  "year": 2026,
+  "date": "2026-06-03",
+  "title": "Google pledges to replenish more water by 2030",
+  "track": "society",
+  "text": "On June 3, 2026, Google said it will replenish more water than it consumes at its sites by 2030. It reported replenishing over 7 billion gallons in 2025 and said it will choose air cooling or recycled water in high-risk watersheds.",
+  "why": "Ceres asked how the projects will measurably protect water supplies in water-stressed regions.",
+  "source": {
+   "label": "Google, \"Google's water stewardship commitments for local communities\" (June 3, 2026)",
+   "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/"
+  },
+  "image": null
+ },
+ {
+  "year": 2026,
+  "date": "2026-07-14",
+  "title": "Governor Hochul orders pause on large data centers",
+  "track": "suny",
+  "text": "On July 14, 2026, New York Governor Kathy Hochul signed an executive order pausing state environmental permits for data centers using 50 megawatts or more, for up to a year, while the state studies energy, water and community effects.",
+  "why": "Hochul has until year-end to sign, veto or amend the Legislature's stricter 20-megawatt bill.",
+  "source": {
+   "label": "New York Public News Network via WSKG, \"Hochul draws cheers, jeers over statewide data center moratorium\" (July 14, 2026)",
+   "url": "https://wskg.org/2026-07-14/hochul-draws-cheers-jeers-over-statewide-data-center-moratorium"
+  },
+  "image": null
+ },
+ {
+  "year": 2026,
+  "date": "2026-08-31",
+  "title": "Georgia families sue Meta over well water",
+  "track": "society",
+  "text": "On August 31, 2026, families near Meta's data center in Newton County, Georgia, sued in Gwinnett County court. They say clearing, blasting and excavation clouded their well water with silt. Meta says its study found groundwater flows away from their homes.",
+  "why": "Rep. Ocasio-Cortez raised it in May. EPA later said neither it nor Georgia regulates private wells.",
+  "source": {
+   "label": "Atlanta Journal-Constitution, \"Georgia families sue Meta, accuse its data center of tainting their water\" (Sept. 1, 2026)",
+   "url": "https://www.ajc.com/news/2026/09/georgia-families-sue-meta-accuse-its-data-center-of-tainting-their-water/"
+  },
+  "image": null
+ },
+ {
+  "year": 2026,
+  "date": "2026-09-29",
+  "title": "Trump orders agencies to say \"Super Intelligence\"",
+  "track": "society",
+  "text": "On September 29, 2026, Trump signed Executive Order 14434. It directs federal agencies to use \"Super Intelligence\" and \"SI\" instead of \"Artificial Intelligence\" and \"AI\" in non-statutory documents. Earlier documents and laws stay unchanged. Six tech leaders also signed the Accord on Super Intelligence, which Mashable reports has no penalties.",
+  "why": "It renames AI in federal documents without changing any law, and some tech leaders kept saying AI.",
+  "source": {
+   "label": "The White House, \"Inaugurating The Era Of Super Intelligence\" (EO 14434, Sept. 29, 2026)",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/"
+  },
+  "image": null
  }
 ]

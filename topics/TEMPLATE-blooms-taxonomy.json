@@ -1,0 +1,17 @@
+{
+ "topic": {
+  "title": "Bloom's taxonomy",
+  "tracks": {"theory": "Theory", "research": "Research", "practice": "Teaching practice", "critique": "Critiques and revisions"},
+  "sheet": "",
+  "photos": null,
+  "boards": null
+ },
+ "cards": [
+  {"year": 1956, "title": "Open slot: the 1956 taxonomy", "track": "theory", "open": true,
+   "text": "Open for a contributor. Claim this card in the project's Zotero group to write it.",
+   "reed": [], "search": [{"term": "Bloom taxonomy of educational objectives"}]},
+  {"year": 2001, "title": "Open slot: the 2001 revision", "track": "critique", "open": true,
+   "text": "Open for a contributor. Claim this card in the project's Zotero group to write it.",
+   "reed": [], "search": [{"term": "revised Bloom's taxonomy Anderson Krathwohl"}]}
+ ]
+}
