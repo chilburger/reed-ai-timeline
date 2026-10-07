@@ -77,6 +77,7 @@
     if(d.musing){var mu=el('p','ail-tl-musing');var ml=el('a','ail-tl-musing-by','Librarian’s note · Christina');ml.href=PROFILE;mu.appendChild(ml);mu.appendChild(document.createTextNode(' '));mu.appendChild(document.createTextNode(d.musing));b.appendChild(mu);}
     more.appendChild(meta);
     if(d.reed&&d.reed.length){var rb=el('div','ail-tl-reed');rb.appendChild(el('strong',null,'In Reed’s collection'));var ul=el('ul');d.reed.forEach(function(x){var li=el('li');li.appendChild(el('span','ail-tl-kind',KINDS[x.kind]||'Item'));var t=x.title.split(' : ')[0].split(': ')[0];if(t.length>70)t=t.slice(0,67)+'...';var ra=el('a',null,t);ra.href=x.url;ra.title=x.title+(x.by?', '+x.by:'')+(x.note?' ('+x.note+')':'');li.appendChild(ra);ul.appendChild(li);});rb.appendChild(ul);more.appendChild(rb);}
+    if(d.contributor||d.reviewer){var cr=el('p','ail-tl-meta');if(d.contributor)cr.appendChild(document.createTextNode('Contributed by '+d.contributor+'. '));if(d.reviewer)cr.appendChild(document.createTextNode('Reviewed by '+d.reviewer+'.'));more.appendChild(cr);}
     MORE[i]=more;var ob=el('button','ail-tl-open','Sources and links');ob.type='button';ob.setAttribute('aria-haspopup','dialog');ob.addEventListener('click',function(e){e.stopPropagation();openMore(i,ob);});b.appendChild(ob);
     a.appendChild(b);
     a.addEventListener('click',function(e){var s=a.getAttribute('data-slot');if(s&&s!=='0'&&s!=='hidden'&&!(e.target.closest&&e.target.closest('a')))go(seq.indexOf(i));});
