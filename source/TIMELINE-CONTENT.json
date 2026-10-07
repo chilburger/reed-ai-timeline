@@ -131,7 +131,7 @@
   "title": "Forster publishes the story The Machine Stops",
   "track": "idea",
   "text": "E. M. Forster's novella \"The Machine Stops\" appears in The Oxford and Cambridge Review in November 1909. People live alone in small underground rooms, where a Machine meets their needs and carries their conversations, until it breaks down.",
-  "why": "It is an early warning about a society that depends entirely on one technological system.",
+  "why": "It is an early story about a society that depends entirely on one technological system.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Forster, E M\"",
    "url": "https://sf-encyclopedia.com/entry/forster_e_m"
@@ -257,7 +257,7 @@
   "title": "Tezuka begins the manga Astro Boy",
   "track": "culture",
   "text": "Osamu Tezuka's manga Tetsuwan Atom, known in English as Astro Boy, begins in the children's magazine Shonen in 1952. In the story, a scientist builds a robot that looks like his dead son. A TV anime version starts in 1963.",
-  "why": "Scholars read it as a Cold War story about using atomic power for peace.",
+  "why": "A scholar reads it as a Cold War story about using atomic power for peace.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Tezuka, Osamu\" (with the \"Astro Boy\" entry)",
    "url": "https://sf-encyclopedia.com/entry/tezuka_osamu"
@@ -377,8 +377,8 @@
   "date": "1965",
   "title": "Lem publishes Cyberiada, fables about robot inventors",
   "track": "idea",
-  "text": "Stanisław Lem publishes Cyberiada in Poland, a collection of fables about Trurl and Klapaucius, two robot inventors. Its satire and wordplay explore machines, minds and cybernetics. Michael Kandel's English translation, The Cyberiad, follows in 1974.",
-  "why": "It treats machine minds with humor and philosophy, and it reached English readers in 1974.",
+  "text": "Stanisław Lem publishes Cyberiada in Poland, a collection of fables about Trurl and Klapaucius, two robot inventors. The fables are satires, full of wordplay, about machines, minds and cybernetics. Michael Kandel's English translation, The Cyberiad, follows in 1974.",
+  "why": "Its fables about machine minds use humor and philosophy, and it reached English readers in 1974.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Lem, Stanisław\"",
    "url": "https://sf-encyclopedia.com/entry/lem_stanislaw"
@@ -396,7 +396,7 @@
   "title": "Heinlein publishes The Moon Is a Harsh Mistress",
   "track": "idea",
   "text": "Robert A. Heinlein's novel The Moon Is a Harsh Mistress, serialized in If from December 1965 to April 1966, tells of a revolt by Moon colonists. A computer, upgraded again and again, \"wakes up\" as a character named Mike. It wins a 1967 Hugo.",
-  "why": "SFE lists Mike among its notable examples of computers that become self-aware.",
+  "why": "The Encyclopedia of Science Fiction lists Mike among its notable examples of computers that become self-aware.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"AI\" (with the \"Heinlein, Robert A\" entry)",
    "url": "https://sf-encyclopedia.com/entry/ai"
@@ -476,7 +476,7 @@
   "title": "Jasia Reichardt curates Cybernetic Serendipity in London",
   "track": "culture",
   "text": "Cybernetic Serendipity: The Computer and the Arts opens at the Institute of Contemporary Arts in London on August 2, 1968, curated by Jasia Reichardt. It is the first widely attended international exhibition of computer art, covering art, music, poetry, dance, sculpture and animation.",
-  "why": "Attendance was estimated at 45,000 to 60,000, a large audience for computer-made art.",
+  "why": "Accounts differ on attendance: estimates run from 45,000 to 60,000.",
   "source": {
    "label": "History of Information, \"Cybernetic Serendipity\": The First Widely-Attended International Exhibition of Computer Art",
    "url": "https://www.historyofinformation.com/detail.php?id=863"
@@ -597,7 +597,7 @@
   "title": "Ridley Scott's Blade Runner opens in theaters",
   "track": "culture",
   "text": "Ridley Scott's film Blade Runner opens in New York and Los Angeles on June 25, 1982. Harrison Ford plays Deckard, whose job is to hunt renegade replicants, artificial humans built as slaves with short lifespans. It is based on Philip K. Dick's novel.",
-  "why": "A box-office disappointment at first, it is now counted among the most important science fiction films.",
+  "why": "Philip K. Dick, who wrote the source novel, died in March 1982, before the film opened.",
   "source": {
    "label": "AFI Catalog of Feature Films, \"Blade Runner\" (1982)",
    "url": "https://catalog.afi.com/Catalog/moviedetails/68260"
@@ -615,7 +615,7 @@
   "title": "Gibson publishes Neuromancer, a novel of cyberspace",
   "track": "idea",
   "text": "William Gibson publishes Neuromancer. Its hero, a computer outlaw named Case, is hired to link a digital version of his mind into cyberspace. The novel wins the Hugo, Nebula and Philip K. Dick awards.",
-  "why": "Its picture of cyberspace shaped later cyberpunk fiction.",
+  "why": "It won the Hugo, Nebula and Philip K. Dick awards, and its terms like \"cyberspace\" spread widely.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Gibson, William\"",
    "url": "https://sf-encyclopedia.com/entry/gibson_william"
@@ -651,7 +651,7 @@
   "title": "Banks publishes Consider Phlebas, the first Culture novel",
   "track": "idea",
   "text": "Iain M. Banks publishes Consider Phlebas, the first Culture novel to appear. The Culture is a moneyless society in which intelligent machines help manage community affairs. The novel follows a mercenary fighting against it.",
-  "why": "It began a long series that pictures a future in which intelligent machines help run society.",
+  "why": "It began a long series set in a future in which intelligent machines help run society.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Banks, Iain M\"",
    "url": "https://sf-encyclopedia.com/entry/banks_iain_m"
@@ -664,7 +664,7 @@
   "title": "Verhoeven's RoboCop opens, about a police cyborg",
   "track": "culture",
   "text": "Paul Verhoeven's film RoboCop opens in Los Angeles and New York on July 17, 1987. A Detroit police officer who is killed on duty is rebuilt as a cyborg by a company that runs the city's privatized police. The film is a satire.",
-  "why": "It asks who owns a person whose body and memories a company has rebuilt.",
+  "why": "Its plot turns on who owns a person whose body and memories a company has rebuilt.",
   "source": {
    "label": "AFI Catalog of Feature Films, \"RoboCop\" (1987)",
    "url": "https://catalog.afi.com/Catalog/moviedetails/67061"
@@ -677,7 +677,7 @@
   "title": "Shirow begins the manga Ghost in the Shell",
   "track": "culture",
   "text": "Masamune Shirow's manga Ghost in the Shell begins serialization in Kodansha's Young Magazine in May 1989. In this cyberpunk police story, a security unit faces the Puppet Master, a bodiless AI that hacks into cybernetic minds.",
-  "why": "SFE calls it a central work for understanding Japanese science fiction of the 1990s.",
+  "why": "The Encyclopedia of Science Fiction calls it a central work for understanding Japanese science fiction of the 1990s.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Shirow, Masamune\"",
    "url": "https://sf-encyclopedia.com/entry/shirow_masamune"
@@ -726,7 +726,7 @@
   "title": "Oshii directs the anime Ghost in the Shell",
   "track": "culture",
   "text": "Mamoru Oshii directs the animated film Ghost in the Shell, based on Masamune Shirow's manga. Major Kusanagi, a cyborg police officer, pursues the Puppet Master, who claims to be an AI that evolved from government programs.",
-  "why": "SFE calls it one of the 1990s' most influential anime, and it asks whether a computer can have a soul.",
+  "why": "The Encyclopedia of Science Fiction calls it one of the 1990s' most influential anime, and its story is about whether a computer can have a soul.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Ghost in the Shell\"",
    "url": "https://sf-encyclopedia.com/entry/ghost_in_the_shell"
@@ -832,7 +832,7 @@
   "title": "Daft Punk release Discovery, then Human After All",
   "track": "culture",
   "text": "The French duo Daft Punk, Thomas Bangalter and Guy-Manuel de Homem-Christo, release Discovery in 2001 and Human After All in 2005. They appear in public dressed as robots, and their music often uses heavily processed, robotic vocals.",
-  "why": "They made a robot persona part of popular dance music.",
+  "why": "Bangalter told VICE in 2000 that the duo \"became robots\" after a studio accident, a joke origin story.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Daft Punk\"",
    "url": "https://sf-encyclopedia.com/entry/daft_punk"
@@ -876,7 +876,7 @@
   "title": "Moore and Eick remake Battlestar Galactica",
   "track": "culture",
   "text": "Ronald D. Moore and David Eick's new Battlestar Galactica begins as a 2003 miniseries, followed by a series that runs from 2004 to 2009. Machines called Cylons attack humanity again, but now some look human and can download their memories into new bodies.",
-  "why": "Cylons that look human led critics to ask what it means to be human.",
+  "why": "Reed holds two e-books of criticism on the series, including Cylons in America.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Battlestar Galactica\"",
    "url": "https://sf-encyclopedia.com/entry/battlestar_galactica"
@@ -960,8 +960,8 @@
   "date": "2010",
   "title": "Chiang publishes The Lifecycle of Software Objects",
   "track": "idea",
-  "text": "Ted Chiang publishes the novella The Lifecycle of Software Objects. Two people spend years supervising digients, AIs made as pets for an online game. As the years pass, fashion makes the digients obsolete. It wins the Hugo and Locus awards.",
-  "why": "It follows AIs and the people who care for them as the years pass.",
+  "text": "Ted Chiang publishes the novella The Lifecycle of Software Objects. Two people spend years supervising digients, AIs made as pets for an online game. As the years pass, the digients go out of fashion and become obsolete. It wins the Hugo and Locus awards.",
+  "why": "It is a story of AIs and the people who care for them over many years.",
   "source": {
    "label": "The Encyclopedia of Science Fiction, \"Chiang, Ted\"",
    "url": "https://sf-encyclopedia.com/entry/chiang_ted"
@@ -1030,7 +1030,7 @@
   "title": "Charlie Brooker's Black Mirror begins on Channel 4",
   "track": "culture",
   "text": "Charlie Brooker's anthology series Black Mirror begins on Channel 4 on December 4, 2011, with three standalone stories. Brooker says the title refers to the cold, shiny screen of a TV, monitor or smartphone.",
-  "why": "Each episode asks what technology may do to the people who use it.",
+  "why": "The series is an anthology of separate stories about what technology may do to the people who use it.",
   "source": {
    "label": "The Guardian, Charlie Brooker, \"the dark side of our gadget addiction\" (Dec. 1, 2011)",
    "url": "https://www.theguardian.com/technology/2011/dec/01/charlie-brooker-dark-side-gadget-addiction-black-mirror"
@@ -1172,8 +1172,8 @@
   "date": "2016-10-02",
   "title": "Nolan and Joy's Westworld premieres on HBO",
   "track": "culture",
-  "text": "HBO premieres Westworld on October 2, 2016. Jonathan Nolan and Lisa Joy created the series from Michael Crichton's 1973 film. It treats the park's lifelike robot \"hosts\" as its main characters and starts from their point of view.",
-  "why": "Its makers chose to start from the robots' point of view, not the human guests'.",
+  "text": "HBO premieres Westworld on October 2, 2016. Jonathan Nolan and Lisa Joy created the series from Michael Crichton's 1973 film. The park's lifelike robot \"hosts\" are the series' main characters.",
+  "why": "Joy said the series would start from the robots' point of view.",
   "source": {
    "label": "TechCrunch, Anthony Ha, \"HBO's Westworld is the robotic cowboy headtrip that you didn't know you were waiting for\" (Oct. 2, 2016)",
    "url": "https://techcrunch.com/2016/10/02/westworld-review/"
@@ -1222,7 +1222,7 @@
   "title": "Quantic Dream releases Detroit: Become Human",
   "track": "culture",
   "text": "Quantic Dream, whose director is David Cage, releases Detroit: Become Human for PlayStation 4 on May 25, 2018. Players switch between three androids in a near-future Detroit, and their choices shape the story.",
-  "why": "Scholars read it as a story about android rights, with the player's choices deciding the outcome.",
+  "why": "A scholar reads it as a political text, and the player makes its narrative choices.",
   "source": {
    "label": "PlayStation.Blog, \"Detroit: Become Human, David Cage on Creating the Perfect Android\" (June 22, 2017); release date from OpenCritic",
    "url": "https://blog.playstation.com/?p=192345"
