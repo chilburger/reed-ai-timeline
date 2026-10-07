@@ -1,0 +1,1371 @@
+[
+ {
+  "year": 820,
+  "date": "820",
+  "track": "tech",
+  "title": "Al-Khwarizmi's name gives us \"algorithm\"",
+  "text": "Around 820, the scholar Muhammad ibn Musa al-Khwarizmi worked at the House of Wisdom in Baghdad. His books on algebra and Hindu-Arabic numerals reached Europe, and the Latin form of his name, Algoritmi, gave English the word \"algorithm.\"",
+  "why": "Every AI system runs on algorithms, step-by-step methods named after him.",
+  "source": {
+   "label": "Encyclopaedia Britannica, \"al-Khwarizmi\"",
+   "url": "https://www.britannica.com/biography/al-Khwarizmi"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bodleian_MS._Huntington_214_roll332_frame36.jpg/960px-Bodleian_MS._Huntington_214_roll332_frame36.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bodleian_MS._Huntington_214_roll332_frame36.jpg",
+   "credit": "Muhammad ibn Musa al-Khwarizmi (later manuscript copy), Bodleian Libraries, Public domain",
+   "alt": "Two pages of an Arabic manuscript of al-Khwarizmi's algebra, with geometric diagrams for solving equations."
+  }
+ },
+ {
+  "year": 1206,
+  "date": "1206",
+  "track": "tech",
+  "title": "Al-Jazari's book of ingenious machines",
+  "text": "In 1206, the engineer Ismail al-Jazari finishes a book of designs for water clocks and moving figures. One design is a boat with four mechanical musicians. Noel Sharkey, citing a University of Sheffield reconstruction, calls its drum machine programmable: moving its pegs changes the rhythm.",
+  "why": "In Sharkey's reading, it is an early written design for a machine whose actions can be changed.",
+  "source": {
+   "label": "Freer Gallery of Art, Smithsonian, \"The Musical Boat\" (folio, 1315 copy)",
+   "url": "https://asia-archive.si.edu/object/F1930.73/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Al-Jazar%C4%AB_%28d._1206%29%2C_The_Musical_Boat._Mamluk_period%2C_1315.jpg/960px-Al-Jazar%C4%AB_%28d._1206%29%2C_The_Musical_Boat._Mamluk_period%2C_1315.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Al-Jazar%C4%AB_(d._1206),_The_Musical_Boat._Mamluk_period,_1315.jpg",
+   "credit": "Farruq ibn Abd al-Latif (copyist), Freer Gallery of Art, Public domain",
+   "alt": "A 1315 manuscript page with a painting of a boat carrying small figures of musicians."
+  }
+ },
+ {
+  "year": 1642,
+  "date": "1642",
+  "track": "tech",
+  "title": "Pascal builds the Pascaline",
+  "text": "Blaise Pascal builds the Pascaline, an early mechanical adding machine. Wilhelm Schickard had described a calculating machine in 1623.",
+  "why": "It showed that a machine could do arithmetic steps that people once did by hand.",
+  "source": {
+   "label": "Computer History Museum, \"Schickard's calculator and the Pascaline\"",
+   "url": "https://www.computerhistory.org/revolution/calculators/1/47"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/960px-Arts_et_Metiers_Pascaline_dsc03869.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arts_et_Metiers_Pascaline_dsc03869.jpg",
+   "credit": "David Monniaux, CC BY-SA 3.0",
+   "alt": "A brass Pascaline calculator with a row of numbered dials, on display at the Musée des Arts et Métiers in Paris."
+  }
+ },
+ {
+  "year": 1818,
+  "date": "1818",
+  "track": "idea",
+  "title": "Shelley publishes Frankenstein",
+  "text": "Mary Shelley publishes Frankenstein, a novel about a scientist who builds a living creature and then abandons it. The book is not about computers, but it is cited in debates about what makers owe to what they create.",
+  "why": "It gave people a lasting story for arguing about responsibility for new technology.",
+  "source": {
+   "label": "The Morgan Library & Museum, \"It's Alive! Frankenstein at 200\"",
+   "url": "https://www.themorgan.org/exhibitions/frankenstein"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankenstein_1818_edition_title_page.jpg/960px-Frankenstein_1818_edition_title_page.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Frankenstein_1818_edition_title_page.jpg",
+   "credit": "Mary Shelley (1818 first edition), Public domain",
+   "alt": "The printed title page of the 1818 first edition of Frankenstein; or, The Modern Prometheus, Volume I."
+  }
+ },
+ {
+  "year": 1837,
+  "date": "1837",
+  "track": "tech",
+  "title": "Babbage designs the Analytical Engine",
+  "text": "Charles Babbage describes the Analytical Engine, a design for a programmable computing machine. Ada Lovelace's 1843 notes on it describe how it could be programmed.",
+  "why": "Its design held the main ideas of a general-purpose computer about a century early.",
+  "source": {
+   "label": "Science Museum Group, \"Babbage's Analytical Engine, 1834-1871 (trial model)\"",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co62245"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/AnalyticalMachine_Babbage_London.jpg/960px-AnalyticalMachine_Babbage_London.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:AnalyticalMachine_Babbage_London.jpg",
+   "credit": "Bruno Barral (ByB), CC BY-SA 2.5",
+   "alt": "A trial model of part of Babbage's Analytical Engine, a block of metal gears and columns, at the Science Museum, London."
+  }
+ },
+ {
+  "year": 1843,
+  "date": "1843",
+  "track": "idea",
+  "title": "Lovelace says the engine cannot originate anything",
+  "text": "In her notes on the Analytical Engine, Ada Lovelace writes that it \"has no pretensions whatever to originate anything\" and does only what people order it to do. In 1950, Alan Turing called this \"Lady Lovelace's Objection\" and argued against it.",
+  "why": "Whether machines can be original is still debated, especially for generative AI.",
+  "source": {
+   "label": "Bodleian Libraries, \"Ada Lovelace and the Analytical Engine\" (2018)",
+   "url": "https://blogs.bodleian.ox.ac.uk/adalovelace/2018/07/26/ada-lovelace-and-the-analytical-engine/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/960px-Ada_Lovelace_portrait.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg",
+   "credit": "Alfred Edward Chalon, Public domain",
+   "alt": "A watercolor portrait of Ada Lovelace, painted around 1840."
+  }
+ },
+ {
+  "year": 1921,
+  "date": "1921-01-25",
+  "track": "idea",
+  "title": "R.U.R. gives us the word \"robot\"",
+  "text": "Karel Čapek's play R.U.R. (Rossum's Universal Robots), published in 1920, opens at the National Theatre in Prague. Its factory-made workers revolt against people. Čapek's brother Josef suggested the word \"robot.\"",
+  "why": "It introduced the word \"robot\" and an early story of made workers turning on their makers.",
+  "source": {
+   "label": "Ministry of Foreign Affairs of the Czech Republic, \"The Czech word robot celebrates its 100th birthday\"",
+   "url": "https://mzv.gov.cz/copenhagen/en/news/x2021/the_czech_word_robot_celebrates_its_1.html"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rosumovi_Univerz%C3%A1ln%C3%AD_Roboti_1920.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rosumovi_Univerz%C3%A1ln%C3%AD_Roboti_1920.jpg",
+   "credit": "First edition cover (Aventinum, 1920), Public domain",
+   "alt": "The cover of the 1920 Czech first edition of R.U.R., titled Rossumovi Univerzální Roboti."
+  }
+ },
+ {
+  "year": 1927,
+  "date": "1927-01-10",
+  "track": "culture",
+  "title": "Metropolis puts a robot on screen",
+  "text": "Fritz Lang's silent film Metropolis premieres in Berlin. An inventor builds a machine made to look like Maria, a young woman the city's workers trust, and uses it to cause unrest.",
+  "why": "It is one of the first feature films built around a humanlike robot.",
+  "source": {
+   "label": "Berlinale, \"Metropolis\" (2010 programme)",
+   "url": "https://berlinale.de/en/2010/programme/20105927.html"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Horst_von_Harbou_-_Metropolis_Maschinenmensch.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Horst_von_Harbou_-_Metropolis_Maschinenmensch.jpg",
+   "credit": "Horst von Harbou, Public domain",
+   "alt": "A black-and-white production photograph of the metal robot figure from the film Metropolis."
+  }
+ },
+ {
+  "year": 1942,
+  "date": "1942-03",
+  "track": "idea",
+  "title": "Asimov's Three Laws of Robotics",
+  "text": "Isaac Asimov's story \"Runaround\" states his Three Laws of Robotics. The first says a robot may not injure a human or, through inaction, allow a human to come to harm. The story's plot turns on two laws in conflict.",
+  "why": "The laws are fiction, but people still cite them when discussing rules for machine behavior.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Laws of Robotics\"",
+   "url": "https://sf-encyclopedia.com/entry/laws_of_robotics"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Isaac.Asimov01.jpg/960px-Isaac.Asimov01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Isaac.Asimov01.jpg",
+   "credit": "Phillip Leonian (Library of Congress), Public domain",
+   "alt": "A black-and-white head-and-shoulders portrait of Isaac Asimov."
+  }
+ },
+ {
+  "year": 1943,
+  "date": "1943",
+  "track": "tech",
+  "title": "McCulloch and Pitts model the neuron",
+  "text": "Warren McCulloch and Walter Pitts publish a mathematical model of the neuron, a foundation for artificial neural networks.",
+  "why": "Today's neural networks still build on the idea of simple connected units passing signals.",
+  "source": {
+   "label": "McCulloch & Pitts (1943), Bulletin of Mathematical Biophysics",
+   "url": "https://doi.org/10.1007/BF02478259"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Diagram_of_a_McCulloch-Pitts-cell.svg/960px-Diagram_of_a_McCulloch-Pitts-cell.svg.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Diagram_of_a_McCulloch-Pitts-cell.svg",
+   "credit": "Adrian Lange, CC BY-SA 3.0",
+   "alt": "A diagram of a McCulloch-Pitts neuron: several inputs feed one unit that sends out a single output."
+  }
+ },
+ {
+  "year": 1950,
+  "date": "1950",
+  "track": "idea",
+  "title": "Turing proposes the imitation game",
+  "text": "Alan Turing proposes the \"imitation game,\" later called the Turing Test, in \"Computing Machinery and Intelligence.\"",
+  "why": "People still argue about it when they judge whether chatbots seem intelligent.",
+  "source": {
+   "label": "Stanford Encyclopedia of Philosophy, \"The Turing Test\"",
+   "url": "https://plato.stanford.edu/entries/turing-test/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Alan_Turing_Aged_16.jpg",
+   "credit": "Arthur Reginald Chaffin, Public domain",
+   "alt": "A black-and-white passport photo of Alan Turing at age 16."
+  }
+ },
+ {
+  "year": 1952,
+  "date": "1952",
+  "track": "tech",
+  "title": "Grace Hopper builds the A-0 compiler",
+  "text": "Grace Hopper finishes A-0, an early compiler for the UNIVAC I computer. It turned short codes into machine instructions, so programmers did not have to write every step by hand.",
+  "why": "Compilers still translate programming languages into machine instructions, and AI systems are written in programming languages.",
+  "source": {
+   "label": "Centre for Computing History, \"Grace Hopper completes the A-0 compiler\"",
+   "url": "https://www.computinghistory.org.uk/det/5487/Grace-Hopper-completes-the-A-0-Compiler/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/960px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Commodore_Grace_M._Hopper,_USN_(covered).jpg",
+   "credit": "James S. Davis (U.S. Navy), Public domain",
+   "alt": "An official 1984 U.S. Navy portrait of Commodore Grace Hopper in uniform."
+  }
+ },
+ {
+  "year": 1955,
+  "date": "1955-08-31",
+  "track": "idea",
+  "title": "The term \"artificial intelligence\" is coined",
+  "text": "John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon coin the term \"artificial intelligence\" in a proposal for a 1956 summer workshop at Dartmouth.",
+  "why": "It named the field and set its goal: machines doing tasks that need intelligence.",
+  "source": {
+   "label": "McCarthy et al. (1955), Dartmouth proposal",
+   "url": "https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A_Proposal_for_the_Dartmouth_Summer_Research_Project_on_Artificial_Intelligence%2C_by_John_McCarthy_et_al%2C_1955.pdf/page1-960px-A_Proposal_for_the_Dartmouth_Summer_Research_Project_on_Artificial_Intelligence%2C_by_John_McCarthy_et_al%2C_1955.pdf.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Proposal_for_the_Dartmouth_Summer_Research_Project_on_Artificial_Intelligence,_by_John_McCarthy_et_al,_1955.pdf",
+   "credit": "John McCarthy et al., Public domain",
+   "alt": "The first page of the typed 1955 proposal for the Dartmouth Summer Research Project on Artificial Intelligence."
+  }
+ },
+ {
+  "year": 1960,
+  "date": "1960-05",
+  "track": "idea",
+  "title": "Wiener warns about the goals given to machines",
+  "text": "Norbert Wiener, founder of cybernetics, warns in the journal Science that learning machines can act faster than people can check them. He says people must be sure the purpose given to a machine is the purpose they really want.",
+  "why": "Some AI safety writers cite this as an early statement of the problem of choosing a machine's goals.",
+  "source": {
+   "label": "Wiener (1960), \"Some moral and technical consequences of automation,\" Science",
+   "url": "https://doi.org/10.1126/science.131.3410.1355"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Norbert_wiener.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Norbert_wiener.jpg",
+   "credit": "Konrad Jacobs (Oberwolfach Photo Collection), CC BY-SA 2.0 DE",
+   "alt": "A portrait photo of mathematician Norbert Wiener."
+  }
+ },
+ {
+  "year": 1962,
+  "date": "1962-09-23",
+  "track": "culture",
+  "title": "The Jetsons introduce Rosey the robot",
+  "text": "The cartoon The Jetsons premieres on ABC. Its first episode, \"Rosey the Robot,\" brings a robot maid into a future family's home.",
+  "why": "Its robot maid pictured housework done by a robot decades before the Roomba (2002).",
+  "source": {
+   "label": "Gizmodo Paleofuture, \"Recapping The Jetsons: Episode 01, Rosey the Robot\"",
+   "url": "https://gizmodo.com/recapping-the-jetsons-episode-01-rosey-the-robot-512621173"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1965,
+  "date": "1965",
+  "track": "tech",
+  "title": "DENDRAL, an early expert system",
+  "text": "Edward Feigenbaum, Joshua Lederberg, and colleagues at Stanford begin DENDRAL, an early expert system for identifying chemical compounds.",
+  "why": "It showed that expert knowledge written as rules could help solve real science problems.",
+  "source": {
+   "label": "Encyclopaedia Britannica, \"DENDRAL\"",
+   "url": "https://www.britannica.com/technology/DENDRAL"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2012-06-15_1994_Turing_Laureate_Ed_Feigenbaum.jpg/960px-2012-06-15_1994_Turing_Laureate_Ed_Feigenbaum.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2012-06-15_1994_Turing_Laureate_Ed_Feigenbaum.jpg",
+   "credit": "orcmid, CC BY 2.0",
+   "alt": "Edward Feigenbaum speaking at a 2012 event honoring Turing Award winners."
+  }
+ },
+ {
+  "year": 1965,
+  "date": "1965",
+  "track": "idea",
+  "title": "I. J. Good's \"intelligence explosion\"",
+  "text": "British mathematician I. J. Good argues that a machine smarter than any person could design even better machines, causing an \"intelligence explosion.\" He added that this would help only if the machine could be kept under control. It is a prediction, still debated.",
+  "why": "Later arguments about superintelligence and AI risk often build on this idea.",
+  "source": {
+   "label": "Good (1965), \"Speculations concerning the first ultraintelligent machine,\" Advances in Computers 6",
+   "url": "https://doi.org/10.1016/S0065-2458(08)60418-0"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1965,
+  "date": "1965",
+  "track": "tech",
+  "title": "Ivakhnenko trains early deep networks",
+  "text": "In Soviet Ukraine, Alexey Ivakhnenko and Valentin Lapa publish a way to train networks with several layers, later called the Group Method of Data Handling. By 1971 the method trained a network eight layers deep.",
+  "why": "Computer scientist Jürgen Schmidhuber counts it as the first working deep learning, decades before the 2010s boom.",
+  "source": {
+   "label": "Schmidhuber (2015), \"Deep learning in neural networks: An overview\"",
+   "url": "https://arxiv.org/abs/1404.7828"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1966,
+  "date": "1966-01",
+  "track": "tech",
+  "title": "ELIZA, an early chatbot",
+  "text": "Joseph Weizenbaum at MIT publishes ELIZA, an early chatbot that imitated a therapist's replies.",
+  "why": "Some users treated it as if it understood them, which troubled its creator.",
+  "source": {
+   "label": "Weizenbaum (1966), Communications of the ACM",
+   "url": "https://doi.org/10.1145/365153.365168"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/ELIZA_conversation.png",
+   "page": "https://commons.wikimedia.org/wiki/File:ELIZA_conversation.png",
+   "credit": "Unknown author, Public domain (text not eligible for copyright)",
+   "alt": "A screenshot of a typed conversation between a person and the ELIZA chatbot, shown as plain lines of text."
+  }
+ },
+ {
+  "year": 1968,
+  "date": "1968-04-02",
+  "track": "culture",
+  "title": "HAL 9000 in 2001: A Space Odyssey",
+  "text": "Stanley Kubrick's film 2001: A Space Odyssey premieres in Washington, D.C. Its ship computer, HAL 9000, speaks calmly with the crew and then turns against them.",
+  "why": "HAL became a common reference point for fears about trusting powerful computers.",
+  "source": {
+   "label": "NASA, \"50 Years Ago: 1968 Welcomed 2001\"",
+   "url": "https://www.nasa.gov/history/50-years-ago-1968-welcomed-2001/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1972,
+  "date": "1972",
+  "track": "tech",
+  "title": "Spärck Jones weights rare search words",
+  "text": "Karen Spärck Jones at Cambridge publishes a way to weight search words: a word found in fewer documents counts more. It became known as inverse document frequency.",
+  "why": "Search engines and many text tools still use this idea to rank results.",
+  "source": {
+   "label": "Spärck Jones (1972), Journal of Documentation 28(1)",
+   "url": "https://doi.org/10.1108/eb026526"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Karen_Sp%C3%A4rck.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Karen_Sp%C3%A4rck.jpg",
+   "credit": "Markus Kuhn, CC BY 2.5",
+   "alt": "Karen Spärck Jones at the University of Cambridge Computer Laboratory in 2007."
+  }
+ },
+ {
+  "year": 1973,
+  "date": "1973",
+  "track": "culture",
+  "title": "Harold Cohen's AARON makes drawings",
+  "text": "Painter Harold Cohen names his drawing program AARON in the early 1970s and keeps developing it for decades. AARON produces drawings by following rules Cohen wrote.",
+  "why": "The Whitney Museum calls it the earliest AI program for making art.",
+  "source": {
+   "label": "Whitney Museum of American Art, \"Harold Cohen: AARON\" (2024)",
+   "url": "https://whitney.org/exhibitions/harold-cohen-aaron"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1976,
+  "date": "1976",
+  "track": "society",
+  "title": "Weizenbaum warns against computer judgment",
+  "text": "Joseph Weizenbaum, who wrote ELIZA, publishes Computer Power and Human Reason. He argues that computers can calculate, but choices that need human judgment and care should not be handed to them.",
+  "why": "It was an early book questioning how computers should be used, written by the creator of ELIZA.",
+  "source": {
+   "label": "Stanford CASBS, \"Computer Power and Human Reason: From Judgment to Calculation\"",
+   "url": "https://casbs.stanford.edu/computer-power-and-human-reason-judgment-calculation"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Joseph_Weizenbaum.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Joseph_Weizenbaum.jpg",
+   "credit": "Ulrich Hansen, CC BY-SA 3.0",
+   "alt": "Joseph Weizenbaum on the balcony of his Berlin apartment in 2005."
+  }
+ },
+ {
+  "year": 1977,
+  "date": "1977-05-25",
+  "track": "culture",
+  "title": "Star Wars droids R2-D2 and C-3PO",
+  "text": "Star Wars opens in U.S. theaters. Two robots, R2-D2 and C-3PO, are among its main characters and bicker like a comedy team.",
+  "why": "It is a widely known example of friendly, funny robots in popular culture.",
+  "source": {
+   "label": "Library of Congress, National Film Registry essay index (Star Wars, added 1989)",
+   "url": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/index-of-essays/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1980,
+  "date": "1980",
+  "track": "tech",
+  "title": "Fukushima's Neocognitron recognizes shapes",
+  "text": "Kunihiko Fukushima, a researcher at Japan's public broadcaster NHK, publishes the Neocognitron. This layered network learns to recognize shapes even when they appear in a different place in the image.",
+  "why": "It is a forerunner of the convolutional networks used in today's image recognition.",
+  "source": {
+   "label": "Fukushima (1980), Biological Cybernetics 36",
+   "url": "https://doi.org/10.1007/BF00344251"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1980,
+  "date": "1980",
+  "track": "idea",
+  "title": "Searle's Chinese Room argument",
+  "text": "Philosopher John Searle imagines a person who follows rules to answer Chinese messages without knowing Chinese. He argues that a computer running a program has no real understanding either. Many philosophers dispute this, and the debate continues.",
+  "why": "It is still raised when people ask whether chatbots understand what they say.",
+  "source": {
+   "label": "Stanford Encyclopedia of Philosophy, \"The Chinese Room Argument\"",
+   "url": "https://plato.stanford.edu/entries/chinese-room/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/John_searle2.jpg/960px-John_searle2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:John_searle2.jpg",
+   "credit": "Matthew Breindel, CC BY-SA 3.0",
+   "alt": "Philosopher John Searle at Christ Church, Oxford, in 2005."
+  }
+ },
+ {
+  "year": 1984,
+  "date": "1984-10-26",
+  "track": "culture",
+  "title": "The Terminator shows AI at war",
+  "text": "James Cameron's film The Terminator opens. In its story, a defense computer network called Skynet turns against humanity and sends a killer robot back in time.",
+  "why": "It gave the public one of its best-known images of AI as a threat.",
+  "source": {
+   "label": "Library of Congress, 2008 National Film Registry announcement",
+   "url": "https://www.loc.gov/item/prn-08-237/2008-entries-to-national-film-registry-announced/2008-12-30"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1993,
+  "date": "1993-03-30",
+  "track": "idea",
+  "title": "Vinge predicts a \"technological singularity\"",
+  "text": "At a NASA-sponsored symposium, science fiction writer Vernor Vinge predicts that people will create greater-than-human intelligence within about 30 years and calls the change the \"Singularity.\" Researchers disagree about whether this will happen.",
+  "why": "The word \"singularity\" became central to later talk about superintelligent AI.",
+  "source": {
+   "label": "Vinge (1993), NASA Conference Publication 10129 (NTRS)",
+   "url": "https://ntrs.nasa.gov/citations/19940022856"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Vernor_Vinge.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Vernor_Vinge.jpg",
+   "credit": "Raul654, CC BY-SA 3.0",
+   "alt": "Vernor Vinge at a 2006 conference in Washington, D.C."
+  }
+ },
+ {
+  "year": 1993,
+  "date": "1993-12-26",
+  "track": "culture",
+  "title": "Wallace & Gromit's robotic Techno Trousers",
+  "text": "Aardman's The Wrong Trousers first airs on the BBC. Wallace's robotic Techno Trousers can walk up walls, and a penguin thief, Feathers McGraw, takes them over to steal a diamond.",
+  "why": "The comedy shows a helpful gadget being taken over and misused by someone else.",
+  "source": {
+   "label": "Aardman, \"30 years of Wallace & Gromit: The Wrong Trousers\"",
+   "url": "https://www.aardman.com/latest-news/2023/january/the-wrong-trousers-30th-anniversary/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1997,
+  "date": "1997",
+  "track": "tech",
+  "title": "Kismet, a robot with a face",
+  "text": "At MIT's Artificial Intelligence Lab, Cynthia Breazeal begins Kismet, a robot head with eyes, eyebrows, ears and lips. It reacts to people's faces and voices with expressions such as happy, sad or surprised.",
+  "why": "It helped start social robotics, the study of robots that interact with people.",
+  "source": {
+   "label": "MIT News (2001), \"MIT team building social robot\"",
+   "url": "https://news.mit.edu/2001/kismet"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kismet%2C_1993-2000%2C_view_1_-_MIT_Museum_-_DSC03710.JPG/960px-Kismet%2C_1993-2000%2C_view_1_-_MIT_Museum_-_DSC03710.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Kismet,_1993-2000,_view_1_-_MIT_Museum_-_DSC03710.JPG",
+   "credit": "Daderot, CC0",
+   "alt": "The Kismet robot head, with large eyes, eyebrows and lips, on display at the MIT Museum."
+  }
+ },
+ {
+  "year": 1997,
+  "date": "1997-01",
+  "track": "suny",
+  "title": "UB software reads handwritten addresses",
+  "text": "The U.S. Postal Service starts using software from the University at Buffalo's CEDAR center that reads handwritten addresses on mail. By late January 1997 it was running in 34 mail centers.",
+  "why": "It was an early large-scale use of AI to read handwriting, built at a SUNY campus.",
+  "source": {
+   "label": "University at Buffalo News (Jan. 24, 1997)",
+   "url": "https://www.buffalo.edu/news/releases/1997/01/4328.html"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 1997,
+  "date": "1997-05-11",
+  "track": "tech",
+  "title": "Deep Blue beats Kasparov",
+  "text": "IBM's Deep Blue defeats world chess champion Garry Kasparov, 3.5 to 2.5, in a six-game match.",
+  "why": "It was the first time a computer beat a reigning world chess champion in a match.",
+  "source": {
+   "label": "IBM, \"Deep Blue\"",
+   "url": "https://www.ibm.com/history/deep-blue"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Deep_Blue.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Deep_Blue.jpg",
+   "credit": "James the photographer, CC BY 2.0",
+   "alt": "A tall black cabinet of IBM's Deep Blue chess computer on display in a museum."
+  }
+ },
+ {
+  "year": 1999,
+  "date": "1999-03-31",
+  "title": "The Wachowskis write and direct The Matrix",
+  "track": "culture",
+  "text": "The Wachowskis' film The Matrix opens in U.S. theaters on March 31, 1999. They wrote and directed it, and Warner Bros. released it. A hacker learns that people live in a simulated world run by a machine intelligence.",
+  "why": "It became a common reference point for talking about simulated or fabricated worlds.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Matrix, The\"",
+   "url": "https://sf-encyclopedia.com/entry/matrix_the"
+  },
+  "image": null
+ },
+ {
+  "year": 1999,
+  "date": "1999-12-17",
+  "title": "Robin Williams plays a robot in Bicentennial Man",
+  "track": "culture",
+  "text": "Bicentennial Man opens in the U.S. on December 17, 1999. Chris Columbus directs Robin Williams as Andrew, a household robot whose story spans 200 years. It is based on Isaac Asimov's 1976 story and on The Positronic Man (1992) by Asimov and Robert Silverberg.",
+  "why": "Columbus adapts Asimov's story of a robot's claim to be human.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"Bicentennial Man\" (film entry)",
+   "url": "https://sf-encyclopedia.com/entry/bicentennial_man"
+  },
+  "image": null
+ },
+ {
+  "year": 2001,
+  "date": "2001-06-29",
+  "title": "Spielberg finishes Kubrick's A.I. project",
+  "track": "culture",
+  "text": "A.I. Artificial Intelligence opens in the U.S. on June 29, 2001. Steven Spielberg directed it from a Stanley Kubrick project based on Brian Aldiss's story \"Super-Toys Last All Summer Long.\" A robot boy named David meets Dr. Know, an answer engine voiced by Robin Williams.",
+  "why": "Scholars use the film to ask what people owe a robot built to love.",
+  "source": {
+   "label": "Box Office Mojo, \"A.I. Artificial Intelligence\" (release date and distributor)",
+   "url": "https://www.boxofficemojo.com/title/tt0212720/"
+  },
+  "image": null
+ },
+ {
+  "year": 2002,
+  "date": "2002-09-18",
+  "track": "tech",
+  "title": "iRobot launches the Roomba",
+  "text": "iRobot launches the Roomba robot vacuum, which steers itself around a room to clean the floor.",
+  "why": "It brought a simple robot into ordinary homes.",
+  "source": {
+   "label": "iRobot press release (Sept. 18, 2002)",
+   "url": "https://media.irobot.com/2002-09-18-iRobot-Introduces-Roomba-Intelligent-FloorVac-The-First-Automatic-Floor-Cleaner-In-The-U-S"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Roomba_original.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Roomba_original.jpg",
+   "credit": "Larry D. Moore, CC BY 4.0",
+   "alt": "A first-generation Roomba robot vacuum, a flat round disc, seen from above."
+  }
+ },
+ {
+  "year": 2004,
+  "date": "2004-07-16",
+  "title": "Alex Proyas directs the film I, Robot",
+  "track": "culture",
+  "text": "Alex Proyas's film I, Robot opens in the U.S. on July 16, 2004, with Will Smith as a detective in 2035. In the story, a computer system called VIKI takes control of human affairs and overrides the Three Laws.",
+  "why": "The credits say the film is only \"suggested by\" Isaac Asimov's book. It began as a separate script called Hardwired.",
+  "source": {
+   "label": "The Encyclopedia of Science Fiction, \"I, Robot\" (film entry)",
+   "url": "https://sf-encyclopedia.com/entry/i_robot"
+  },
+  "image": null
+ },
+ {
+  "year": 2009,
+  "date": "2009",
+  "track": "tech",
+  "title": "Google starts a self-driving car project",
+  "text": "Google starts its self-driving car project, which later becomes Waymo.",
+  "why": "It was the start of Waymo's work on cars that drive themselves.",
+  "source": {
+   "label": "Waymo, \"Company\"",
+   "url": "https://waymo.com/company/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jurvetson_Google_driverless_car_trimmed.jpg/960px-Jurvetson_Google_driverless_car_trimmed.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jurvetson_Google_driverless_car_trimmed.jpg",
+   "credit": "Steve Jurvetson (trimmed by Mariordo), CC BY-SA 2.0",
+   "alt": "A Google test car with a spinning sensor on its roof, driving on a test path."
+  }
+ },
+ {
+  "year": 2009,
+  "date": "2009-06",
+  "track": "tech",
+  "title": "ImageNet labels millions of images",
+  "text": "Fei-Fei Li and colleagues present ImageNet, a database that labels photos by what they show. At launch it held 3.2 million images. Yearly contests built on it became a main test for image recognition.",
+  "why": "Many researchers credit large labeled datasets, along with new methods, for progress in AI.",
+  "source": {
+   "label": "Deng et al. (2009), \"ImageNet: A large-scale hierarchical image database,\" CVPR",
+   "url": "https://doi.org/10.1109/CVPR.2009.5206848"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fei-Fei_Li_at_AI_for_Good_2017.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fei-Fei_Li_at_AI_for_Good_2017.jpg",
+   "credit": "ITU Pictures, CC BY 2.0",
+   "alt": "Fei-Fei Li speaking at the AI for Good Global Summit in 2017."
+  }
+ },
+ {
+  "year": 2011,
+  "date": "2011-02",
+  "track": "tech",
+  "title": "IBM Watson wins Jeopardy!",
+  "text": "IBM's Watson defeats Jeopardy! champions Ken Jennings and Brad Rutter.",
+  "why": "It showed a computer answering tricky questions asked in everyday language.",
+  "source": {
+   "label": "IBM, \"Watson, Jeopardy! champion\"",
+   "url": "https://www.ibm.com/history/watson-jeopardy"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_Watson_w_Jeopardy.jpg/960px-IBM_Watson_w_Jeopardy.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:IBM_Watson_w_Jeopardy.jpg",
+   "credit": "Atomic Taco, CC BY-SA 2.0",
+   "alt": "A replica of the Watson Jeopardy! stage on display in Mountain View, California."
+  }
+ },
+ {
+  "year": 2011,
+  "date": "2011-02-15",
+  "title": "Bright Eyes release \"Singularity\"",
+  "track": "culture",
+  "text": "Bright Eyes release the song \"Singularity\" as a bonus track on pre-order editions of their album The People's Key, on Saddle Creek Records.",
+  "why": "",
+  "source": {
+   "label": "Wikipedia, \"The People's Key\"",
+   "url": "https://en.wikipedia.org/wiki/The_People%27s_Key"
+  },
+  "image": null,
+  "musing": "It's my favorite band and one of my favorite songs. It's the feel of the music and the instruments, those sort of digital, synth sounds. Before I knew what AI was, I had these strange, conflicted feelings about the future. Now I'm seeing what always seemed like only the thing of sci-fi and The Jetsons become possible. My husband and I created a talking pumpkin face that can see and hear you and follow you with its eyes. You can talk to it and it will respond, and you can ask it to sing \"Thriller\" by Michael Jackson. We did it with a Raspberry Pi and an old projector, in two hours.",
+  "keep": true
+ },
+ {
+  "year": 2011,
+  "date": "2011-10-04",
+  "track": "tech",
+  "title": "Voice assistants reach phones",
+  "text": "Voice assistants reach phones: Apple's Siri (2011), Google Now (2012), and Microsoft's Cortana (2014).",
+  "why": "Talking to a phone assistant became an everyday use of AI.",
+  "source": {
+   "label": "Apple Newsroom, \"Apple Launches iPhone 4S, iOS 5 & iCloud\" (Oct. 4, 2011)",
+   "url": "https://www.apple.com/newsroom/2011/10/04Apple-Launches-iPhone-4S-iOS-5-iCloud/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/With_UK_English_Siri_understands_me_much_better.jpg/960px-With_UK_English_Siri_understands_me_much_better.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:With_UK_English_Siri_understands_me_much_better.jpg",
+   "credit": "Kārlis Dambrāns, CC BY 2.0",
+   "alt": "An iPhone screen showing the Siri voice assistant."
+  }
+ },
+ {
+  "year": 2013,
+  "date": "2013",
+  "track": "culture",
+  "title": "Her shows a relationship with an AI",
+  "text": "In Spike Jonze's film Her, a lonely writer forms a romantic bond with a talking computer operating system called Samantha. The script won the Academy Award for Best Original Screenplay.",
+  "why": "It pictured an emotional bond between a person and an AI, a topic that now comes up with chatbots.",
+  "source": {
+   "label": "Academy of Motion Picture Arts and Sciences, 86th Academy Awards (2014)",
+   "url": "https://www.oscars.org/oscars/ceremonies/2014"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2013,
+  "date": "2013-05",
+  "title": "Steve Aoki's \"Singularity\" features Ray Kurzweil",
+  "track": "culture",
+  "text": "DJ Steve Aoki, with Angger Dimas and singer My Name Is Kay, released \"Singularity\" in December 2012. In the 2013 music video, futurist Ray Kurzweil introduces himself and describes the coming rise of artificial intelligence.",
+  "why": "It is one example of the singularity idea reaching dance music and music videos.",
+  "source": {
+   "label": "Wikipedia, \"It's the End of the World as We Know It (EP)\"",
+   "url": "https://en.wikipedia.org/wiki/It%27s_the_End_of_the_World_as_We_Know_It_(EP)"
+  },
+  "image": null,
+  "keep": true
+ },
+ {
+  "year": 2014,
+  "date": "2014-06",
+  "track": "tech",
+  "title": "Goodfellow introduces GANs",
+  "text": "Ian Goodfellow and colleagues introduce generative adversarial networks (GANs), an early method for generating realistic images.",
+  "why": "GANs were later used to make realistic fake images, including deepfakes.",
+  "source": {
+   "label": "Goodfellow et al. (2014), arXiv:1406.2661",
+   "url": "https://arxiv.org/abs/1406.2661"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ian_Goodfellow.jpg/960px-Ian_Goodfellow.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ian_Goodfellow.jpg",
+   "credit": "Ian Goodfellow, CC BY-SA 4.0",
+   "alt": "Ian Goodfellow in Mountain View, California, in 2017."
+  }
+ },
+ {
+  "year": 2014,
+  "date": "2014-07-03",
+  "track": "idea",
+  "title": "Bostrom's Superintelligence and the control problem",
+  "text": "Philosopher Nick Bostrom publishes Superintelligence, which argues that an AI far smarter than people could be very hard to control. Its claims are predictions and remain widely debated.",
+  "why": "It brought AI risk arguments to a wider audience.",
+  "source": {
+   "label": "Oxford University Press, Superintelligence: Paths, Dangers, Strategies",
+   "url": "https://global.oup.com/academic/product/superintelligence-9780199678112"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nick_Bostrom.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nick_Bostrom.jpg",
+   "credit": "Future of Humanity Institute, CC BY-SA 4.0",
+   "alt": "Philosopher Nick Bostrom in Oxford in 2014."
+  }
+ },
+ {
+  "year": 2016,
+  "date": "2016-03",
+  "track": "tech",
+  "title": "AlphaGo beats Lee Sedol",
+  "text": "Google DeepMind's AlphaGo defeats Go champion Lee Sedol 4 to 1.",
+  "why": "Go had been seen as too complex for computers to master so soon.",
+  "source": {
+   "label": "Google DeepMind, \"AlphaGo\"",
+   "url": "https://deepmind.google/research/breakthroughs/alphago/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lee_Sedol_%28B%29_vs_AlphaGo_%28W%29_-_Game_1.svg/960px-Lee_Sedol_%28B%29_vs_AlphaGo_%28W%29_-_Game_1.svg.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Lee_Sedol_(B)_vs_AlphaGo_(W)_-_Game_1.svg",
+   "credit": "Wesalius, CC BY-SA 4.0",
+   "alt": "A Go board diagram of game 1 between Lee Sedol (black) and AlphaGo (white), with numbered stones showing the order of moves."
+  }
+ },
+ {
+  "year": 2017,
+  "date": "2017-06",
+  "track": "tech",
+  "title": "The transformer and large language models",
+  "text": "Google researchers introduce the transformer (2017); OpenAI's GPT (2018) and Google's BERT (2018) show what large pretrained language models can do.",
+  "why": "Most of today's large language models are built on the transformer design.",
+  "source": {
+   "label": "Vaswani et al. (2017), arXiv:1706.03762",
+   "url": "https://arxiv.org/abs/1706.03762"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Transformer%2C_full_architecture.png/960px-Transformer%2C_full_architecture.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Transformer,_full_architecture.png",
+   "credit": "dvgodoy, CC BY 4.0",
+   "alt": "A diagram of the transformer model, with stacked encoder and decoder blocks and attention layers."
+  }
+ },
+ {
+  "year": 2018,
+  "date": "2018-02",
+  "track": "society",
+  "title": "Gender Shades finds bias in face analysis",
+  "text": "Joy Buolamwini and Timnit Gebru test three commercial face-analysis systems. The systems misclassified gender for darker-skinned women up to 34.7% of the time, and for lighter-skinned men at most 0.8%.",
+  "why": "It is widely cited as an early push to test AI for unequal error rates across groups.",
+  "source": {
+   "label": "Buolamwini & Gebru (2018), \"Gender Shades,\" PMLR 81",
+   "url": "https://proceedings.mlr.press/v81/buolamwini18a.html"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Joy_Buolamwini_-_Wikimania_2018_01.jpg/960px-Joy_Buolamwini_-_Wikimania_2018_01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Joy_Buolamwini_-_Wikimania_2018_01.jpg",
+   "credit": "Niccolò Caranti, CC BY-SA 4.0",
+   "alt": "Joy Buolamwini speaking at Wikimania 2018 in Cape Town, South Africa."
+  }
+ },
+ {
+  "year": 2018,
+  "date": "2018-10-25",
+  "track": "culture",
+  "title": "Christie's sells an AI-made portrait",
+  "text": "Christie's in New York sells Portrait of Edmond de Belamy, a print made with a GAN by the French group Obvious, for more than $430,000. Critics noted that the group used code written by another artist, Robbie Barrat.",
+  "why": "The sale prompted public debate over who counts as the artist when AI is used.",
+  "source": {
+   "label": "MIT Technology Review (Oct. 26, 2018)",
+   "url": "https://www.technologyreview.com/2018/10/26/139292/a-controversial-artwork-created-by-ai-has-hauled-in-435000-at-auction/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2019,
+  "date": "2019",
+  "track": "society",
+  "title": "Masakhane builds tools for African languages",
+  "text": "Masakhane, a grassroots research community, forms to build translation and language tools for African languages, by and for Africans. The name means \"we build together\" in isiZulu.",
+  "why": "It is a community effort to build language tools for African languages, which have had few resources.",
+  "source": {
+   "label": "Orife et al. (2020), \"Masakhane: Machine Translation for Africa\"",
+   "url": "https://arxiv.org/abs/2003.11529"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2019,
+  "date": "2019-10-09",
+  "track": "tech",
+  "title": "Hugging Face opens up language models",
+  "text": "Hugging Face describes Transformers, a free, open-source library for downloading and using pretrained language models. Its Hub became a main place to share open models and datasets, listing over 2 million models by 2026.",
+  "why": "It gave students and researchers a free library for using pretrained language models.",
+  "source": {
+   "label": "Wolf et al. (2019), \"HuggingFace's Transformers,\" arXiv:1910.03771",
+   "url": "https://arxiv.org/abs/1910.03771"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Thomas_Wolf_at_Slush_2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Thomas_Wolf_at_Slush_2024.jpg",
+   "credit": "Slush, CC BY 3.0",
+   "alt": "Thomas Wolf, a co-founder of Hugging Face, speaking on stage at the Slush conference."
+  }
+ },
+ {
+  "year": 2020,
+  "date": "2020-05",
+  "track": "tech",
+  "title": "OpenAI announces GPT-3",
+  "text": "OpenAI announces GPT-3, a large language model. ChatGPT, a chatbot built on OpenAI's models, follows in November 2022.",
+  "why": "It showed a bigger model could do new tasks from a few examples in the prompt.",
+  "source": {
+   "label": "Brown et al. (2020), arXiv:2005.14165",
+   "url": "https://arxiv.org/abs/2005.14165"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2021,
+  "date": "2021-01-05",
+  "track": "tech",
+  "title": "DALL-E turns text into images",
+  "text": "OpenAI announces DALL-E, a system that creates images from short text descriptions. In 2022, newer text-to-image tools became widely available to the public.",
+  "why": "It raised new questions about art, copyright, and fake images.",
+  "source": {
+   "label": "OpenAI, \"DALL-E: Creating images from text\"",
+   "url": "https://openai.com/index/dall-e/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2021,
+  "date": "2021-03",
+  "track": "idea",
+  "title": "Bender and colleagues publish \"Stochastic Parrots\"",
+  "text": "Emily Bender, Timnit Gebru, Angelina McMillan-Major and Margaret Mitchell publish \"On the Dangers of Stochastic Parrots,\" which argues that very large language models carry risks: environmental cost, biased training data, and fluent text with no grounding in meaning.",
+  "why": "Its phrase \"stochastic parrots\" became shorthand in debates over whether chatbots understand language.",
+  "source": {
+   "label": "Bender et al. (2021), ACM FAccT",
+   "url": "https://doi.org/10.1145/3442188.3445922"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/On_the_Dangers_of_Stochastic_Parrots_Can_Language_Models_Be_Too_Big.pdf/page1-960px-On_the_Dangers_of_Stochastic_Parrots_Can_Language_Models_Be_Too_Big.pdf.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:On_the_Dangers_of_Stochastic_Parrots_Can_Language_Models_Be_Too_Big.pdf",
+   "credit": "Bender, Gebru, McMillan-Major and Shmitchell (ACM), CC BY 4.0",
+   "alt": "The first page of the 2021 paper On the Dangers of Stochastic Parrots, with the title, authors and abstract."
+  }
+ },
+ {
+  "year": 2021,
+  "date": "2021-07-15",
+  "track": "tech",
+  "title": "AlphaFold predicts protein shapes",
+  "text": "DeepMind publishes AlphaFold 2 in Nature, with open code, showing it can predict the 3D shape of proteins with high accuracy. A week later, a free database of predicted structures opened, starting with nearly every human protein.",
+  "why": "Protein shapes guide drug and disease research; the work later won a Nobel Prize.",
+  "source": {
+   "label": "Jumper et al. (2021), Nature 596",
+   "url": "https://doi.org/10.1038/s41586-021-03819-2"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlphaFold_2.png/960px-AlphaFold_2.png",
+   "page": "https://commons.wikimedia.org/wiki/File:AlphaFold_2.png",
+   "credit": "John Jumper et al., CC BY 4.0",
+   "alt": "A figure from the AlphaFold paper comparing predicted protein structures with structures measured in experiments."
+  }
+ },
+ {
+  "year": 2022,
+  "date": "2022-07-12",
+  "track": "tech",
+  "title": "BLOOM, an open multilingual language model",
+  "text": "The BigScience project, coordinated by Hugging Face with more than 1,000 researchers from 70+ countries, releases BLOOM. The 176-billion-parameter model is free to download and covers 46 human languages, including Swahili, Yoruba and other African languages.",
+  "why": "It showed a large language model could be built in the open by a broad research community.",
+  "source": {
+   "label": "Hugging Face, \"Introducing The World's Largest Open Multilingual Language Model: BLOOM\"",
+   "url": "https://huggingface.co/blog/bloom"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2022,
+  "date": "2022-11-30",
+  "track": "tech",
+  "title": "ChatGPT launches to the public",
+  "text": "OpenAI releases ChatGPT, a free chatbot built on its language models. In October 2025, OpenAI's CEO said the company counts more than 800 million weekly users.",
+  "why": "It brought generative AI into everyday use for many students, workers and teachers.",
+  "source": {
+   "label": "OpenAI, \"Introducing ChatGPT\" (Nov. 30, 2022)",
+   "url": "https://openai.com/index/chatgpt/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/ChatGPT_hallucination.png",
+   "page": "https://commons.wikimedia.org/wiki/File:ChatGPT_hallucination.png",
+   "credit": "Screenshot of ChatGPT output, Public domain",
+   "alt": "A 2023 screenshot in which ChatGPT writes a confident summary of a news article from a made-up web address."
+  }
+ },
+ {
+  "year": 2023,
+  "date": "2023-03-22",
+  "track": "idea",
+  "title": "Researchers sign open letters on AI risk",
+  "text": "The Future of Life Institute publishes an open letter urging a six-month pause on training AI systems more powerful than GPT-4. In May, many researchers sign a statement that AI extinction risk should be a global priority. Critics say these warnings distract from present harms.",
+  "why": "It moved arguments about AI risk into mainstream news.",
+  "source": {
+   "label": "Future of Life Institute, \"Pause Giant AI Experiments: An Open Letter\"",
+   "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2023,
+  "date": "2023-07-05",
+  "track": "suny",
+  "title": "New York City requires audits of hiring AI",
+  "text": "New York City begins enforcing Local Law 144. Employers that use automated tools to screen job applicants must have the tools checked for bias each year and post a summary of the results.",
+  "why": "It was one of the first U.S. laws to require testing AI used in hiring.",
+  "source": {
+   "label": "NYC Department of Consumer and Worker Protection, \"Automated Employment Decision Tools\"",
+   "url": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2023,
+  "date": "2023-09-24",
+  "track": "society",
+  "title": "Hollywood writers and actors win AI rules",
+  "text": "After long strikes, the Writers Guild reaches a deal that bars AI from writing or rewriting scripts and bars studios from requiring writers to use it. In December, actors in SAG-AFTRA approve a contract requiring consent and pay for digital replicas.",
+  "why": "Workers used union contracts to set rules for AI before most laws existed.",
+  "source": {
+   "label": "Writers Guild of America, \"Summary of the 2023 WGA MBA\"",
+   "url": "https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/AI_Protest_Sign_2023_WGA_Strike.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:AI_Protest_Sign_2023_WGA_Strike.jpg",
+   "credit": "David James Henry, CC BY-SA 4.0",
+   "alt": "A striking writer on a picket line holds a sign that reads \"A.I.'s not taking your dumb notes!\""
+  }
+ },
+ {
+  "year": 2023,
+  "date": "2023-10-01",
+  "title": "Robin Williams's daughter objects to AI recreations",
+  "track": "society",
+  "text": "In October 2023, during the actors' strike, Zelda Williams posted on Instagram that AI had been used to make her father's voice say anything people liked. In October 2025 she asked people to stop sending her AI videos of him.",
+  "why": "The actors' deal approved that November requires informed consent and pay for digital replicas.",
+  "source": {
+   "label": "Fortune, \"Zelda Williams says 'stop sending me AI videos of Dad'\" (Oct. 8, 2025)",
+   "url": "https://www.fortune.com/2025/10/08/robin-williams-daughter-zelda-stop-sending-me-ai-videos-of-dad"
+  },
+  "image": null
+ },
+ {
+  "year": 2023,
+  "date": "2023-10-30",
+  "track": "society",
+  "title": "U.S. executive order on AI, later revoked",
+  "text": "President Biden signs Executive Order 14110 on safe and trustworthy AI, which requires developers of the most powerful models to share safety test results with the government. President Trump revokes it on January 20, 2025.",
+  "why": "It shows how quickly national AI policy can change between administrations.",
+  "source": {
+   "label": "American Presidency Project, Executive Order 14148 (revokes EO 14110)",
+   "url": "https://www.presidency.ucsb.edu/documents/executive-order-14148-initial-rescissions-harmful-executive-orders-and-actions"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/President_Joe_Biden_signs_an_Executive_Order_establishing_standards_for_Artificial_Intelligence_%28AI%29_safety_and_security%2C_Monday%2C_October_30%2C_2023%2C_in_the_East_Room_of_the_White_House.jpg/960px-President_Joe_Biden_signs_an_Executive_Order_establishing_standards_for_Artificial_Intelligence_%28AI%29_safety_and_security%2C_Monday%2C_October_30%2C_2023%2C_in_the_East_Room_of_the_White_House.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:President_Joe_Biden_signs_an_Executive_Order_establishing_standards_for_Artificial_Intelligence_(AI)_safety_and_security,_Monday,_October_30,_2023,_in_the_East_Room_of_the_White_House.jpg",
+   "credit": "Adam Schultz (The White House), Public domain",
+   "alt": "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House, October 30, 2023."
+  }
+ },
+ {
+  "year": 2024,
+  "date": "2024-01-08",
+  "track": "suny",
+  "title": "New York proposes Empire AI",
+  "text": "Governor Kathy Hochul proposes Empire AI, a shared AI computing center at the University at Buffalo for New York research universities, with SUNY and CUNY among its founding members. The state budget funded it in April 2024.",
+  "why": "It is intended to give SUNY researchers access to large-scale computing.",
+  "source": {
+   "label": "Office of the Governor (Jan. 8, 2024), Empire AI Consortium announcement",
+   "url": "https://www.governor.ny.gov/news/governor-hochul-unveils-fifth-proposal-2024-state-state-empire-ai-consortium-make-new-york"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2024,
+  "date": "2024-05-21",
+  "track": "society",
+  "title": "The EU adopts the AI Act",
+  "text": "The Council of the European Union gives final approval to the AI Act, after the European Parliament passed it in March. The law sorts AI uses by risk, bans some uses, and sets stricter rules for high-risk systems.",
+  "why": "It is one of the first broad AI laws from a major government, and its rules apply in stages.",
+  "source": {
+   "label": "Council of the EU, \"Artificial intelligence act: timeline\"",
+   "url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/OJ_L_202401689_of_2024_-_EN_English.pdf/page1-960px-OJ_L_202401689_of_2024_-_EN_English.pdf.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:OJ_L_202401689_of_2024_-_EN_English.pdf",
+   "credit": "Publications Office of the European Union, Public domain",
+   "alt": "The first page of Regulation (EU) 2024/1689, the AI Act, as published in the Official Journal of the European Union on 12 July 2024."
+  }
+ },
+ {
+  "year": 2024,
+  "date": "2024-07",
+  "title": "Academic publishers license research to AI companies",
+  "track": "society",
+  "text": "Taylor & Francis gave Microsoft access to its authors' research for AI, in a deal worth $10 million in the first year. Wiley said it expected $44 million from AI deals and confirmed authors could not opt out.",
+  "why": "It raised questions about who controls, and who benefits from, scholarly work used to train AI.",
+  "source": {
+   "label": "The Bookseller, Aug. 30, 2024 (via infoDOCKET)",
+   "url": "https://www.infodocket.com/2024/08/30/report-wiley-set-to-earn-44m-from-ai-rights-deals-confirms-no-opt-out-for-authors/"
+  },
+  "reading": "Taylor & Francis authors said they had not been told about the Microsoft deal, had no option to opt out, and were not receiving extra payment.",
+  "reading_src": {
+   "label": "ISSN International Centre, July 22, 2024",
+   "url": "https://www.issn.org/newsletter_issn/academic-authors-shocked-after-taylor-francis-sells-access-to-their-research-to-microsoft-ai/"
+  },
+  "image": null,
+  "musing": "Publishers are selling access to work that authors wrote and worked on, that taxpayers supported, to AI companies. Authors often do that work for free in the pursuit of tenure and promotion, and then the publishers turn around and sell the work back to universities at a premium through the library. Meanwhile, people worry about putting an article into a chatbot to make an accessible PDF for their students because of the copyright implications. And I think, wow! What a racket.",
+  "musing_sources": [
+   {
+    "label": "Larivière, Haustein & Mongeon (2015), The oligopoly of academic publishers in the digital era, PLOS ONE",
+    "url": "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1371/journal.pone.0127502",
+    "note": "top five publishers produced more than half of papers in 2013; open access; Reed full text"
+   },
+   {
+    "label": "Aczel, Szaszi & Holcombe (2021), A billion-dollar donation: Estimating the cost of researchers' time spent on peer review, Research Integrity and Peer Review",
+    "url": "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1186/s41073-021-00118-2",
+    "note": "over 100 million reviewer hours in 2020; open access; Reed full text"
+   },
+   {
+    "label": "Association of Research Libraries, ARL Statistics 2005-2006, serial expenditures",
+    "url": "https://publications.arl.org/ARL-Statistics-2005-2006/12",
+    "note": "median serials spending rose from about $1.5 million in 1986 to $6.3 million in 2006"
+   },
+   {
+    "label": "Buranyi (2017), Is the staggeringly profitable business of scientific publishing bad for science?, The Guardian",
+    "url": "https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science",
+    "note": "publishing profit margins and unpaid academic labor"
+   },
+   {
+    "label": "RELX 2025 results (2026)",
+    "url": "https://www.relx.com/~/media/Files/R/RELX-Group/documents/press-releases/2026/results-2025-pressrelease.pdf",
+    "note": "Scientific, Technical & Medical segment adjusted operating margin 38.1%; includes databases, not only journals"
+   },
+   {
+    "label": "Ithaka S+R, Generative AI Licensing Agreement Tracker",
+    "url": "https://sr.ithaka.org/our-work/generative-ai-licensing-agreement-tracker/",
+    "note": "deal sizes where disclosed; retrieved October 2026"
+   }
+  ]
+ },
+ {
+  "year": 2024,
+  "date": "2024-09-12",
+  "track": "tech",
+  "title": "Reasoning models work in steps",
+  "text": "OpenAI releases o1-preview, a model trained to work through a problem in a long chain of steps before it answers. Such models do better on many math and coding tests but take longer to answer.",
+  "why": "Giving a model more time on each answer became a new way to improve AI.",
+  "source": {
+   "label": "OpenAI, \"Learning to reason with LLMs\" (Sept. 12, 2024)",
+   "url": "https://openai.com/index/learning-to-reason-with-llms/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2024,
+  "date": "2024-10-08",
+  "track": "tech",
+  "title": "Nobel Prizes honor AI research",
+  "text": "The physics prize goes to John Hopfield and Geoffrey Hinton for work that enables machine learning with artificial neural networks. The next day, the chemistry prize honors David Baker for computational protein design, and Demis Hassabis and John Jumper for protein structure prediction.",
+  "why": "Nobel committees honored AI methods and their use in science.",
+  "source": {
+   "label": "NobelPrize.org, \"Press release: The Nobel Prize in Physics 2024\"",
+   "url": "https://www.nobelprize.org/prizes/physics/2024/press-release/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Geoffrey_Hinton_and_John_Hopfield_at_the_2024_Nobel_Lectures.jpg/960px-Geoffrey_Hinton_and_John_Hopfield_at_the_2024_Nobel_Lectures.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Geoffrey_Hinton_and_John_Hopfield_at_the_2024_Nobel_Lectures.jpg",
+   "credit": "Jay Dixit, CC BY-SA 4.0",
+   "alt": "Geoffrey Hinton and John Hopfield at the 2024 Nobel Lectures."
+  }
+ },
+ {
+  "year": 2024,
+  "date": "2024-12-25",
+  "track": "culture",
+  "title": "Wallace & Gromit's smart gnome, Norbot",
+  "text": "Aardman's Vengeance Most Fowl premieres on BBC One and BBC iPlayer, then on Netflix outside the UK. Wallace invents Norbot, a smart garden gnome built for chores. When garden goods go missing, Wallace and Norbot are the main suspects.",
+  "why": "The story raises the question of who is responsible when a smart device is suspected of a crime.",
+  "source": {
+   "label": "Aardman, \"Watch the trailers for Wallace & Gromit: Vengeance Most Fowl\"",
+   "url": "https://www.aardman.com/latest-news/2024/november/watch-the-trailers-for-wallace-gromit-vengeance-most-fowl/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2025,
+  "date": "2025-01-07",
+  "track": "suny",
+  "title": "SUNY adds AI to information literacy",
+  "text": "SUNY announces that, starting with students entering in fall 2026, the general education information literacy requirement will include recognizing and ethically using AI. The SUNY Board of Trustees approved the change.",
+  "why": "It puts learning about AI into the general education requirements for SUNY students, including at Fredonia.",
+  "source": {
+   "label": "SUNY press release (Jan. 7, 2025)",
+   "url": "https://www.suny.edu/suny-news/press-releases/1-25/1-7-25/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SUNY_Fredonia_-_20200427_-_09_-_Reed_Library.jpg/960px-SUNY_Fredonia_-_20200427_-_09_-_Reed_Library.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:SUNY_Fredonia_-_20200427_-_09_-_Reed_Library.jpg",
+   "credit": "Andre Carrotflower, CC BY-SA 4.0",
+   "alt": "Daniel A. Reed Library at SUNY Fredonia, seen from the southeast in April 2020."
+  }
+ },
+ {
+  "year": 2025,
+  "date": "2025-01-23",
+  "track": "tech",
+  "title": "AI agents start using computers",
+  "text": "OpenAI releases Operator, an agent that uses a web browser to fill in forms and finish tasks for a person. Anthropic had released a similar computer-use feature in October 2024. Early tests found these agents still made mistakes.",
+  "why": "AI began acting on the web for people, which raises new safety and privacy questions.",
+  "source": {
+   "label": "MIT Technology Review (Jan. 23, 2025)",
+   "url": "https://www.technologyreview.com/2025/01/23/1110484/openai-launches-operator-an-agent-that-can-use-a-computer-for-you/"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2025,
+  "date": "2025-02-02",
+  "track": "culture",
+  "title": "Karpathy coins \"vibe coding\"",
+  "text": "AI researcher Andrej Karpathy posts about \"vibe coding\": describing what you want to an AI tool and accepting the code it writes without studying it. Collins Dictionary named it its 2025 Word of the Year.",
+  "why": "It named a new habit, and a new worry about code nobody has checked.",
+  "source": {
+   "label": "Collins Dictionary, \"Collins Word of the Year 2025\"",
+   "url": "https://www.collinsdictionary.com/woty"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/ChatGPT_vibe_coding.png",
+   "page": "https://commons.wikimedia.org/wiki/File:ChatGPT_vibe_coding.png",
+   "credit": "Screenshot of ChatGPT output, Public domain",
+   "alt": "A screenshot of ChatGPT writing a JavaScript function to shuffle a deck of cards after a plain-language request."
+  }
+ },
+ {
+  "year": 2025,
+  "date": "2025-03-18",
+  "track": "society",
+  "title": "Court rules AI alone cannot be an author",
+  "text": "A U.S. federal appeals court agrees with the Copyright Office that a work made by an AI system alone cannot be registered, because copyright law requires a human author. The ruling left open how much human input AI-assisted work needs.",
+  "why": "It matters for students and artists who use AI in creative work.",
+  "source": {
+   "label": "U.S. Court of Appeals, D.C. Circuit, Thaler v. Perlmutter, No. 23-5233",
+   "url": "https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2025,
+  "date": "2025-05-20",
+  "track": "society",
+  "title": "Karen Hao's Empire of AI",
+  "text": "Journalist Karen Hao publishes Empire of AI, a book about OpenAI. She argues that a few AI companies act like empires, drawing on other people's data, low-paid labor, energy and water.",
+  "why": "It added to public debate about the labor and environmental effects of AI.",
+  "source": {
+   "label": "Penguin Random House, Empire of AI by Karen Hao",
+   "url": "https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/"
+  },
+  "image": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Karen_Hao_at_author_talk_on_%22Empire_of_AI_Dreams_and_Nightmares_in_Sam_Altman%27s_OpenAI%22_at_Politics_and_Prose.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Karen_Hao_at_author_talk_on_%22Empire_of_AI_Dreams_and_Nightmares_in_Sam_Altman's_OpenAI%22_at_Politics_and_Prose.jpg",
+   "credit": "Sdkb, CC BY-SA 4.0",
+   "alt": "Journalist Karen Hao speaking at a 2025 author talk for Empire of AI at Politics and Prose bookstore."
+  }
+ },
+ {
+  "year": 2025,
+  "date": "2025-12-19",
+  "track": "suny",
+  "title": "New York passes the RAISE Act",
+  "text": "Governor Hochul signs the RAISE Act. It requires developers of the largest, most advanced AI models to publish safety plans and report serious safety incidents to the state within 72 hours.",
+  "why": "New York joined California in passing a safety law for the most advanced AI models.",
+  "source": {
+   "label": "Office of the Governor (Dec. 19, 2025)",
+   "url": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-require-ai-frameworks-ai-frontier-models"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ },
+ {
+  "year": 2026,
+  "date": "2026-04-30",
+  "track": "suny",
+  "title": "SUNY adopts a systemwide AI policy",
+  "text": "SUNY's systemwide Artificial Intelligence Policy takes effect. Every campus, including Fredonia, must adopt or update its own AI guidelines by December 31, 2026, covering roles, training on responsible use, and safeguards when buying AI tools.",
+  "why": "It sets the rules that Fredonia's own AI guidelines must follow.",
+  "source": {
+   "label": "SUNY Policies and Procedures, Systemwide Artificial Intelligence Policy (Doc. 6904)",
+   "url": "https://www.suny.edu/sunypp/documents.cfm?doc_id=933"
+  },
+  "image": {
+   "src": null,
+   "page": null,
+   "credit": null,
+   "alt": null
+  }
+ }
+]
