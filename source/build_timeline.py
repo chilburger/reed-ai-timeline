@@ -78,6 +78,7 @@ for d in data:
     d['reed'] = [{k: x[k] for k in KEEP_REED if x.get(k)} for x in d.get('reed') or []]
     # public file gets only what readers see: quote text, speaker, source (no reviewer notes or status)
     d['quotes'] = [{k: q[k] for k in ('q', 'who', 'src') if q.get(k)} for q in d.get('quotes') or []]
+    d['search'] = [t if isinstance(t, dict) else {'term': t} for t in d.get('search') or []]
     d.pop('keep', None)
     if d.get('image') and not d['image'].get('src'):
         d['image'] = None
