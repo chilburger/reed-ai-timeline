@@ -160,3 +160,18 @@
 .ail-tl-lc{font-style:italic}
 .ail-tl-aboutbtn{position:relative;z-index:4;display:inline-flex;margin-left:4px;align-items:center;min-height:44px;padding:0 14px;border:1px solid currentColor;border-radius:22px;font-size:15px;font-weight:600;text-decoration:none;color:inherit;background:rgba(0,0,0,.35)}
 .ail-tl-aboutbtn:hover,.ail-tl-aboutbtn:focus-visible{background:rgba(0,0,0,.6);text-decoration:underline}
+.ail-tl-imgread{position:absolute;left:10px;bottom:10px;z-index:2;min-height:44px;padding:0 16px;border:1px solid #fff;border-radius:22px;background:rgba(0,0,0,.75);color:#fff;font:600 15px/1 "Public Sans",Arial,sans-serif;cursor:pointer}
+.ail-tl-imgread:hover,.ail-tl-imgread:focus-visible{background:#000;outline:3px solid #fff;outline-offset:2px}
+.ail-tl-readbtn{margin-left:8px;min-height:44px;padding:0 12px;border:1px solid currentColor;border-radius:22px;background:transparent;color:inherit;font:600 14px/1.2 "Public Sans",Arial,sans-serif;cursor:pointer}
+.ail-tl-reader{width:min(1100px,calc(100vw - 16px));height:calc(100vh - 32px);max-width:none;max-height:none;padding:0;border:1px solid rgba(255,255,255,.18);border-radius:12px;background:#0d0f0e;color:#f3f1ea;font:400 16px/1.5 "Public Sans",Arial,sans-serif;overflow:hidden}
+.ail-tl-reader[open]{display:flex;flex-direction:column}
+.ail-tl-reader::backdrop{background:rgba(2,6,10,.8)}
+.ail-tl-rdr-bar{position:relative;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;padding:12px 64px 12px 18px;border-bottom:1px solid rgba(255,255,255,.15)}
+.ail-tl-rdr-meta{flex:1 1 280px;min-width:0}
+.ail-tl-rdr-bar h2{margin:0;font:700 18px/1.3 "Source Serif 4",Georgia,serif;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ail-tl-rdr-k{margin:2px 0 0;font-size:14px;color:#d8d5cc}
+.ail-tl-rdr-out{color:#c4d600;font-weight:600;white-space:nowrap}
+.ail-tl-rdr-body{flex:1;min-height:0;background:#fff}
+.ail-tl-rdr-body iframe{display:block;width:100%;height:100%;border:0}
+.ail-tl-rdr-note{margin:0;padding:24px;color:#111}
+.ail-tl-rdr-note a{color:#1a4b8c}

@@ -1,0 +1,2154 @@
+{
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1093/camqtly/bfx005": {
+  "read": "https://research.rug.nl/en/publications/the-mechanical-turk(5e7723e0-4add-41f2-9057-2c948fa30404).html",
+  "page": "https://research.rug.nl/en/publications/the-mechanical-turk(5e7723e0-4add-41f2-9057-2c948fa30404).html",
+  "license": "other-oa",
+  "status": "bronze",
+  "host": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.14361/9783839465509": {
+  "read": "https://openresearchlibrary.org/ext/api/media/a38950ec-795d-4f06-ae9e-8ba4518f0baf/assets/external_content.pdf",
+  "page": "https://openresearchlibrary.org/viewer/a38950ec-795d-4f06-ae9e-8ba4518f0baf",
+  "license": "other-oa",
+  "status": "hybrid",
+  "host": "BiblioBoard Library Catalog (Open Research Library)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.54195/technophany.24850": {
+  "read": "https://technophany.philosophyandtechnology.network/article/download/24850/28811",
+  "page": "https://doi.org/10.54195/technophany.24850",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Technophany A Journal for Philosophy and Technology",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3384/cu.6265": {
+  "read": "https://cultureunbound.ep.liu.se/article/download/6265/5444",
+  "page": "https://doi.org/10.3384/cu.6265",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Culture Unbound Journal of Current Cultural Research",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s13347-021-00453-8": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s13347-021-00453-8.pdf",
+  "page": "https://doi.org/10.1007/s13347-021-00453-8",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Philosophy & Technology",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1111/padr.12581": {
+  "read": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/padr.12581",
+  "page": "http://dx.doi.org/10.1111/padr.12581",
+  "license": null,
+  "status": "bronze",
+  "host": "Population and Development Review",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.60056/CCL.2024.10.119-128": {
+  "read": "https://ejournal.uni-sofia.bg/index.php/Colloquia/article/download/204/211/782",
+  "page": "http://dx.doi.org/10.60056/ccl.2024.10.119-128",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Colloquia Comparativa Litterarum.",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.16995/ntn.486": {
+  "read": "http://19.bbk.ac.uk/article/1610/galley/1869/download/",
+  "page": "https://doi.org/10.16995/ntn.486",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "19 Interdisciplinary Studies in the Long Nineteenth Century",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.24029/lejana.2010.2.25": {
+  "read": "https://ojs.elte.hu/lejana/article/download/25/19",
+  "page": "https://doi.org/10.24029/lejana.2010.2.25",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Lejana Revista Crítica de Narrativa Breve",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/h10040107": {
+  "read": "https://figshare.com/articles/journal_contribution/Robert_Wise_s_The_Day_the_Earth_Stood_Still_1951_and_Interplanetary_Emissary_Klaatu_Are_Not_Anti-Atomic_A_Reassessment_of_the_Filmic_Evidence/20645388",
+  "page": "https://figshare.com/articles/journal_contribution/Robert_Wise_s_The_Day_the_Earth_Stood_Still_1951_and_Interplanetary_Emissary_Klaatu_Are_Not_Anti-Atomic_A_Reassessment_of_the_Filmic_Evidence/20645388",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Figshare",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.21900/j.jams.v6.1878": {
+  "read": "https://iopn.library.illinois.edu/journals/jams/article/download/1878/1733",
+  "page": "https://doi.org/10.21900/j.jams.v6.1878",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "The Journal of Anime and Manga Studies",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1162/lmj_a_01037": {
+  "read": "https://figshare.com/articles/journal_contribution/A_Musical_Suite_Composed_by_an_Electronic_Brain_Reexamining_the_Illiac_Suite_and_the_Legacy_of_Lejaren_A_Hiller_Jr_/10781933",
+  "page": "https://figshare.com/articles/journal_contribution/A_Musical_Suite_Composed_by_an_Electronic_Brain_Reexamining_the_Illiac_Suite_and_the_Legacy_of_Lejaren_A_Hiller_Jr_/10781933",
+  "license": "cc-by",
+  "status": "green",
+  "host": "Figshare",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1590/1806-9126-rbef-2023-0254": {
+  "read": "https://www.scielo.br/j/rbef/a/xsFdqQ5zrWBQVKDhLGGSP6h/?lang=pt&format=pdf",
+  "page": "https://doi.org/10.1590/1806-9126-rbef-2023-0254",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Revista Brasileira de Ensino de Física",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/25723618.2022.2081421": {
+  "read": "https://doaj.org/article/42f88eff518a4f568e17c443212a8062",
+  "page": "https://doaj.org/article/42f88eff518a4f568e17c443212a8062",
+  "license": "cc-by-sa",
+  "status": "gold",
+  "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.48189/nl.2023.v04i2.002": {
+  "read": "https://doi.org/10.48189/nl.2023.v04i2.002",
+  "page": "https://doi.org/10.48189/nl.2023.v04i2.002",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "New Literaria",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.clsr.2023.105866": {
+  "read": "https://doi.org/10.1016/j.clsr.2023.105866",
+  "page": "https://doi.org/10.1016/j.clsr.2023.105866",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Computer law & security review",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1162/PAJJ_a_00390": {
+  "read": "http://www.mitpressjournals.org/doi/pdf/10.1162/PAJJ_a_00390",
+  "page": "https://doi.org/10.1162/pajj_a_00390",
+  "license": null,
+  "status": "bronze",
+  "host": "PAJ A Journal of Performance and Art",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1515/culture-2017-0048": {
+  "read": "https://doi.org/10.1515/culture-2017-0048",
+  "page": "https://doi.org/10.1515/culture-2017-0048",
+  "license": "cc-by-nc-nd",
+  "status": "gold",
+  "host": "Open Cultural Studies",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.neunet.2014.09.003": {
+  "read": "https://arxiv.org/pdf/1404.7828",
+  "page": "http://arxiv.org/abs/1404.7828",
+  "license": null,
+  "status": "green",
+  "host": "arXiv (Cornell University)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1038/nature14539": {
+  "read": "https://hal.science/hal-04206682",
+  "page": "https://hal.science/hal-04206682",
+  "license": "other-oa",
+  "status": "green",
+  "host": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.18276/sj.2022.21-05": {
+  "read": "https://wnus.edu.pl/sj/file/article/view/19937.pdf",
+  "page": "http://dx.doi.org/10.18276/sj.2022.21-05",
+  "license": "cc-by-sa",
+  "status": "diamond",
+  "host": "Studia Językoznawcze synchroniczne i diachroniczne aspekty badań polszczyzny",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5621/sciefictstud.44.1.0043": {
+  "read": "https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1045&context=mcl_facpub",
+  "page": "https://scholarworks.gsu.edu/mcl_facpub/43",
+  "license": null,
+  "status": "green",
+  "host": "Digital Archive @ GSU",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s00146-018-0825-9": {
+  "read": "http://sro.sussex.ac.uk/id/eprint/73253/3/10.1007%252Fs00146-018-0825-9.pdf",
+  "page": "http://sro.sussex.ac.uk/id/eprint/73253/3/10.1007%252Fs00146-018-0825-9.pdf",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Sussex Research Online (University of Sussex)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/tvseries.1376": {
+  "read": "https://journals.openedition.org/tvseries/1376",
+  "page": "https://journals.openedition.org/tvseries/1376",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "OpenEdition (OpenEdition)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/13505084241259970": {
+  "read": "https://doi.org/10.1177/13505084241259970",
+  "page": "https://doi.org/10.1177/13505084241259970",
+  "license": "cc-by-nc",
+  "status": "hybrid",
+  "host": "Organization",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/books.pupo.26772": {
+  "read": "https://books.openedition.org/pupo/26772",
+  "page": "https://books.openedition.org/pupo/26772",
+  "license": "other-oa",
+  "status": "green",
+  "host": "OpenEdition (OpenEdition)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.24413/SST.2021.2.5636": {
+  "read": "https://journals.open.tudelft.nl/superhero/article/download/5636/4945",
+  "page": "https://doi.org/10.24413/sst.2021.2.5636",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Superhero Science and Technology",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/journalmedia6010017": {
+  "read": "https://doi.org/10.3390/journalmedia6010017",
+  "page": "https://doi.org/10.3390/journalmedia6010017",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Journalism and Media",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/books.pupo.26717": {
+  "read": "https://books.openedition.org/pupo/26717",
+  "page": "https://books.openedition.org/pupo/26717",
+  "license": "other-oa",
+  "status": "green",
+  "host": "OpenEdition (OpenEdition)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1111/zygo.12602": {
+  "read": "https://doi.org/10.1111/zygo.12602",
+  "page": "https://doi.org/10.1111/zygo.12602",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Zygon®",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1162/coli.2007.33.3.289": {
+  "read": "https://direct.mit.edu/coli/article-pdf/33/3/289/1798402/coli.2007.33.3.289.pdf",
+  "page": "https://doi.org/10.1162/coli.2007.33.3.289",
+  "license": null,
+  "status": "bronze",
+  "host": "Computational Linguistics",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5117/9789462986190_CH05": {
+  "read": "https://doi.org/10.5117/9789462986190_ch05",
+  "page": "https://doi.org/10.5117/9789462986190_ch05",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "Routledge eBooks",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1609/aimag.v37i4.2695": {
+  "read": "https://aaai.org/ojs/index.php/aimagazine/article/download/2695/2601",
+  "page": "https://doi.org/10.1609/aimag.v37i4.2695",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "AI Magazine",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1162/leon_a_01906": {
+  "read": "https://doi.org/10.1162/leon_a_01906",
+  "page": "https://doi.org/10.1162/leon_a_01906",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Leonardo",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.17742/IMAGE.p70s.9.1.3": {
+  "read": "https://doi.org/10.17742/image.p70s.9.1.3",
+  "page": "https://doi.org/10.17742/image.p70s.9.1.3",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Imaginations Journal of Cross-Cultural Image Studies",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/tvseries.2994": {
+  "read": "https://journals.openedition.org/tvseries/2994",
+  "page": "https://journals.openedition.org/tvseries/2994",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "OpenEdition (OpenEdition)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.60056/CCL.2024.10.155-168": {
+  "read": "https://ejournal.uni-sofia.bg/index.php/Colloquia/article/download/207/214/794",
+  "page": "https://doi.org/10.60056/ccl.2024.10.155-168",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Colloquia Comparativa Litterarum.",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.34669/WI.WJDS/3.3.3": {
+  "read": "https://doi.org/10.34669/wi.wjds/3.3.3",
+  "page": "https://doi.org/10.34669/wi.wjds/3.3.3",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Weizenbaum Institute for the Networked Society",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1163/23644583-12340001": {
+  "read": "https://hdl.handle.net/10388/18009",
+  "page": "https://hdl.handle.net/10388/18009",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "HARVEST (University of Saskatchewan)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.19177/memorare.v6e22019185-202": {
+  "read": "http://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=2072507",
+  "page": "http://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=2072507",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Americanae (AECID Library)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.11606/2316-9877.Dossie.2023.e218803": {
+  "read": "https://www.revistas.usp.br/nonaarte/article/download/218803/202668",
+  "page": "https://doi.org/10.11606/2316-9877.dossie.2023.e218803",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "9ª Arte (São Paulo)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4249/scholarpedia.1717": {
+  "read": "https://doi.org/10.4249/scholarpedia.1717",
+  "page": "https://doi.org/10.4249/scholarpedia.1717",
+  "license": "cc-by-nc-sa",
+  "status": "diamond",
+  "host": "Scholarpedia",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4249/scholarpedia.3100": {
+  "read": "https://doi.org/10.4249/scholarpedia.3100",
+  "page": "https://doi.org/10.4249/scholarpedia.3100",
+  "license": "cc-by-nc-sa",
+  "status": "diamond",
+  "host": "Scholarpedia",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.18778/1689-4286.46.05": {
+  "read": "http://hdl.handle.net/11089/33830",
+  "page": "http://hdl.handle.net/11089/33830",
+  "license": null,
+  "status": "diamond",
+  "host": "University of Lodz Repository (University of Łódź)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.12981/mahder.1535045": {
+  "read": "https://dergipark.org.tr/tr/download/article-file/4153060",
+  "page": "https://dergipark.org.tr/tr/pub/mahder/issue/90819/1535045",
+  "license": "cc-by-sa",
+  "status": "diamond",
+  "host": "DergiPark (Istanbul University)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.32873/uno.dc.jrf.19.01.37": {
+  "read": "https://www.repository.cam.ac.uk/handle/1810/247943",
+  "page": "https://www.repository.cam.ac.uk/handle/1810/247943",
+  "license": "cc-by-nc",
+  "status": "hybrid",
+  "host": "Apollo (University of Cambridge)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4102/lit.v13i3.760": {
+  "read": "https://literator.org.za/index.php/literator/article/download/760/930",
+  "page": "https://doi.org/10.4102/lit.v13i3.760",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Literator",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.51952/9781529237191.ch005": {
+  "read": "https://doi.org/10.51952/9781529237191.ch005",
+  "page": "https://doi.org/10.51952/9781529237191.ch005",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "Bristol University Press eBooks",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1525/elementa.378": {
+  "read": "https://doaj.org/article/0feb108f00bc475296492b06c4e7ebd7",
+  "page": "https://doaj.org/article/0feb108f00bc475296492b06c4e7ebd7",
+  "license": "cc-by-sa",
+  "status": "gold",
+  "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.26262/exna.v0i9.10545": {
+  "read": "https://doi.org/10.26262/exna.v0i9.10545",
+  "page": "https://doi.org/10.26262/exna.v0i9.10545",
+  "license": null,
+  "status": "green",
+  "host": "Aristotle University of Thessaloniki",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/rel15040436": {
+  "read": "https://www.mdpi.com/2077-1444/15/4/436/pdf?version=1711868009",
+  "page": "https://doi.org/10.3390/rel15040436",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Religions",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/resf.1134": {
+  "read": "https://hal.science/hal-01700034",
+  "page": "https://hal.science/hal-01700034",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/resf.978": {
+  "read": "https://doi.org/10.4000/resf.978",
+  "page": "https://doi.org/10.4000/resf.978",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "ReS Futurae",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.17576/3L-2024-3004-02": {
+  "read": "http://ejournal.ukm.my/3l/article/download/74449/16738",
+  "page": "https://doi.org/10.17576/3l-2024-3004-02",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "3L The Southeast Asian Journal of English Language Studies",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/148mf": {
+  "read": "https://doi.org/10.4000/148mf",
+  "page": "https://doi.org/10.4000/148mf",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Industrias Culturais (Universidade de Coimbra)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1057/s41599-023-02435-x": {
+  "read": "https://doi.org/10.1057/s41599-023-02435-x",
+  "page": "https://doi.org/10.1057/s41599-023-02435-x",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Humanities and Social Sciences Communications",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/S0898-1221(03)80129-3": {
+  "read": "https://doi.org/10.1016/s0898-1221(03)80129-3",
+  "page": "https://doi.org/10.1016/s0898-1221(03)80129-3",
+  "license": null,
+  "status": "bronze",
+  "host": "Computers & Mathematics with Applications",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/lisa.10764": {
+  "read": "https://journals.openedition.org/lisa/10764",
+  "page": "https://journals.openedition.org/lisa/10764",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "OpenEdition (OpenEdition)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/lisa.10621": {
+  "read": "https://journals.openedition.org/lisa/10621",
+  "page": "https://journals.openedition.org/lisa/10621",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "OpenEdition (OpenEdition)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.33137/ijournal.v7i1.37892": {
+  "read": "https://theijournal.ca/index.php/ijournal/article/download/37892/28859",
+  "page": "https://theijournal.ca/index.php/ijournal/article/view/37892",
+  "license": null,
+  "status": "diamond",
+  "host": "The iJournal Student Journal of the Faculty of Information",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.64864/85bdd253-1c79-4590-9112-8ff2fe2bcf13": {
+  "read": "https://doi.org/10.64864/85bdd253-1c79-4590-9112-8ff2fe2bcf13",
+  "page": "https://doi.org/10.64864/85bdd253-1c79-4590-9112-8ff2fe2bcf13",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Animation Studies",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.7456/tojdac.1671489": {
+  "read": "https://dergipark.org.tr/en/download/article-file/4752148",
+  "page": "https://doi.org/10.7456/tojdac.1671489",
+  "license": "cc-by-nc",
+  "status": "gold",
+  "host": "The Turkish Online Journal of Design Art and Communication",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3983/twc.2014.0531": {
+  "read": "https://doaj.org/article/98cf445936e34c60b9c84117fece9e66",
+  "page": "https://doaj.org/article/98cf445936e34c60b9c84117fece9e66",
+  "license": "cc-by-sa",
+  "status": "diamond",
+  "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3366/film.2016.0019": {
+  "read": "https://doaj.org/article/c07d65dc04904912b74ab63c262adaf8",
+  "page": "https://doaj.org/article/c07d65dc04904912b74ab63c262adaf8",
+  "license": "cc-by-sa",
+  "status": "diamond",
+  "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.robot.2013.09.014": {
+  "read": "http://infoscience.epfl.ch/record/198642",
+  "page": "http://infoscience.epfl.ch/record/198642",
+  "license": "cc-by-nc-nd",
+  "status": "green",
+  "host": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.31577/WLS.2021.13.1.5": {
+  "read": "https://www.sav.sk/journals/uploads/04161137WLS_1_2021_Lenc.pdf",
+  "page": "https://doi.org/10.31577/wls.2021.13.1.5",
+  "license": null,
+  "status": "bronze",
+  "host": "World Literature Studies",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1609/aiide.v1i1.18722": {
+  "read": "https://ojs.aaai.org/index.php/AIIDE/article/download/18722/18499",
+  "page": "https://doi.org/10.1609/aiide.v1i1.18722",
+  "license": null,
+  "status": "bronze",
+  "host": "Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1609/aiide.v1i1.18733": {
+  "read": "https://ojs.aaai.org/index.php/AIIDE/article/download/18733/18510",
+  "page": "https://doi.org/10.1609/aiide.v1i1.18733",
+  "license": null,
+  "status": "bronze",
+  "host": "Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.33178/scenario.6.2.7": {
+  "read": "http://hdl.handle.net/10468/12864",
+  "page": "http://hdl.handle.net/10468/12864",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Cork Open Research Archive (University College Cork, Ireland)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s10115-024-02315-z": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s10115-024-02315-z.pdf",
+  "page": "https://doi.org/10.1007/s10115-024-02315-z",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Knowledge and Information Systems",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1609/aimag.v42i3.18140": {
+  "read": "https://ojs.aaai.org/index.php/aimagazine/article/view/18140",
+  "page": "https://ojs.aaai.org/index.php/aimagazine/article/view/18140",
+  "license": "cc-by",
+  "status": "bronze",
+  "host": "AAAI Publications (The Association for the Advancement of Artificial Intelligence (AAAI))",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.23860/MGDR-2018-03-04-03": {
+  "read": "https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1068&context=mgdr",
+  "page": "https://doi.org/10.23860/mgdr-2018-03-04-03",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Markets Globalization & Development Review",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.30676/jfas.v43i2.77708": {
+  "read": "https://journal.fi/suomenantropologi/article/download/77708/39053",
+  "page": "https://doi.org/10.30676/jfas.v43i2.77708",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "Suomen Antropologi Journal of the Finnish Anthropological Society",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/15554120221106927": {
+  "read": "https://www.ncbi.nlm.nih.gov/pmc/articles/10170568",
+  "page": "https://www.ncbi.nlm.nih.gov/pmc/articles/10170568",
+  "license": "cc-by-nc",
+  "status": "hybrid",
+  "host": "PubMed Central",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.64864/b67dac4e-7e31-4625-afd2-7b5ca908529c": {
+  "read": "https://doi.org/10.64864/b67dac4e-7e31-4625-afd2-7b5ca908529c",
+  "page": "https://doi.org/10.64864/b67dac4e-7e31-4625-afd2-7b5ca908529c",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Animation Studies",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.32926/2018.5.den.anime": {
+  "read": "http://mutualimages-journal.org/index.php/mi/article/view/Vol5-8",
+  "page": "http://mutualimages-journal.org/index.php/mi/article/view/Vol5-8",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Mutual Images Journal (Mutual Images Research Association)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1073/pnas.1213586110": {
+  "read": "https://www.ncbi.nlm.nih.gov/pmc/articles/3549123",
+  "page": "https://www.ncbi.nlm.nih.gov/pmc/articles/3549123",
+  "license": null,
+  "status": "bronze",
+  "host": "PubMed Central",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/fi9040075": {
+  "read": "https://www.mdpi.com/1999-5903/9/4/75/pdf?version=1509701302",
+  "page": "https://doi.org/10.3390/fi9040075",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Future Internet",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.21659/rupkatha.v10n2.23": {
+  "read": "https://rupkatha.com/V10/n2/v10n223.pdf",
+  "page": "https://doi.org/10.21659/rupkatha.v10n2.23",
+  "license": "cc-by-nc",
+  "status": "gold",
+  "host": "Rupkatha Journal on Interdisciplinary Studies in Humanities",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/rel13100883": {
+  "read": "https://doaj.org/article/a7f1261af6ee43d79473ebea2b85383d",
+  "page": "https://doaj.org/article/a7f1261af6ee43d79473ebea2b85383d",
+  "license": "cc-by-sa",
+  "status": "gold",
+  "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/15274764231210280": {
+  "read": "https://doi.org/10.1177/15274764231210280",
+  "page": "https://doi.org/10.1177/15274764231210280",
+  "license": "cc-by-nc",
+  "status": "hybrid",
+  "host": "Television & New Media",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5209/CJES.51449": {
+  "read": "http://revistas.ucm.es/index.php/CJES/article/view/51449",
+  "page": "http://revistas.ucm.es/index.php/CJES/article/view/51449",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Complutensian Scientific Journals (Complutense University of Madrid)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1609/aimag.v31i3.2303": {
+  "read": "https://ojs.aaai.org/index.php/aimagazine/article/download/2303/2165",
+  "page": "https://doi.org/10.1609/aimag.v31i3.2303",
+  "license": null,
+  "status": "bronze",
+  "host": "AI Magazine",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.28968/cftt.v6i1.29949": {
+  "read": "https://catalystjournal.org/index.php/catalyst/article/download/29949/26062",
+  "page": "https://doi.org/10.28968/cftt.v6i1.29949",
+  "license": null,
+  "status": "diamond",
+  "host": "Catalyst Feminism Theory Technoscience",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5204/lthj.4247": {
+  "read": "https://lthj.qut.edu.au/article/download/4247/1697",
+  "page": "https://doi.org/10.5204/lthj.4247",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Law Technology and Humans",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.2478/njmr-2019-0028": {
+  "read": "http://urn.fi/URN:NBN:fi:jyu-202001141219",
+  "page": "http://urn.fi/URN:NBN:fi:jyu-202001141219",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Jyväskylä University Digital Archive (University of Jyväskylä)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3998/fc.13761232.0044.101": {
+  "read": "https://doi.org/10.3998/fc.13761232.0044.101",
+  "page": "https://doi.org/10.3998/fc.13761232.0044.101",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "media/rep/",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3828/extr.2021.17": {
+  "read": "https://mediaserver.liverpooluniversitypress.co.uk/gs/pdf/66578/029f7d12533d23d2b32c4fe3a861cd18.pdf?doi=https%3A%2F%2Fdoi.org%2F10.3828%2Fextr.2021.17%2310_3828_extr_2021_17%23lup",
+  "page": "https://doi.org/10.3828/extr.2021.17",
+  "license": null,
+  "status": "bronze",
+  "host": "Extrapolation",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.7771/1481-4374.4188": {
+  "read": "https://doi.org/10.7771/1481-4374.4188",
+  "page": "https://doi.org/10.7771/1481-4374.4188",
+  "license": null,
+  "status": "diamond",
+  "host": "CLCWeb Comparative Literature and Culture",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1126/science.1248506": {
+  "read": "https://dash.harvard.edu/bitstream/1/12016836/1/The%20Parable%20of%20Google%20Flu%20%28WP-Final%29.pdf",
+  "page": "https://dash.harvard.edu/bitstream/1/12016836/1/The%20Parable%20of%20Google%20Flu%20%28WP-Final%29.pdf",
+  "license": "cc-by",
+  "status": "green",
+  "host": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.9781/ijimai.2021.07.004": {
+  "read": "https://doi.org/10.9781/ijimai.2021.07.004",
+  "page": "https://doi.org/10.9781/ijimai.2021.07.004",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "International Journal of Interactive Multimedia and Artificial Intelligence",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/2053951714541861": {
+  "read": "https://doaj.org/article/fa7fd80cde4b41fe9ad9cccf8a641ef6",
+  "page": "https://doaj.org/article/fa7fd80cde4b41fe9ad9cccf8a641ef6",
+  "license": "cc-by-sa",
+  "status": "gold",
+  "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s11145-023-10506-3": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s11145-023-10506-3.pdf",
+  "page": "https://doi.org/10.1007/s11145-023-10506-3",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Reading and Writing",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1038/s41598-018-35268-9": {
+  "read": "https://www.nature.com/articles/s41598-018-35268-9.pdf",
+  "page": "https://doi.org/10.1038/s41598-018-35268-9",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Scientific Reports",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/electronics12010155": {
+  "read": "https://www.mdpi.com/2079-9292/12/1/155/pdf?version=1672314985",
+  "page": "https://doi.org/10.3390/electronics12010155",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Electronics",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1073/pnas.1320040111": {
+  "read": "https://www.ncbi.nlm.nih.gov/pmc/articles/4066473",
+  "page": "https://www.ncbi.nlm.nih.gov/pmc/articles/4066473",
+  "license": null,
+  "status": "bronze",
+  "host": "PubMed Central",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.17645/mac.v4i4.579": {
+  "read": "https://www.cogitatiopress.com/mediaandcommunication/article/download/579/436",
+  "page": "https://www.cogitatiopress.com/mediaandcommunication/article/view/579/579",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Vytautas Magnus University",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/1747016115579535": {
+  "read": "https://journals.sagepub.com/doi/pdf/10.1177/1747016115579535",
+  "page": "https://doi.org/10.1177/1747016115579535",
+  "license": null,
+  "status": "bronze",
+  "host": "Research Ethics",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s00146-023-01698-x": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s00146-023-01698-x.pdf",
+  "page": "https://doi.org/10.1007/s00146-023-01698-x",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "AI & Society",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.18778/2083-2931.13.12": {
+  "read": "http://hdl.handle.net/11089/48974",
+  "page": "http://hdl.handle.net/11089/48974",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "University of Lodz Repository (University of Łódź)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/h14040091": {
+  "read": "https://doi.org/10.3390/h14040091",
+  "page": "https://doi.org/10.3390/h14040091",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Humanities",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.25148/CRCP.3.1.16092132": {
+  "read": "https://digitalcommons.fiu.edu/classracecorporatepower/vol3/iss1/4",
+  "page": "https://digitalcommons.fiu.edu/classracecorporatepower/vol3/iss1/4",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Florida International University Digital Commons (Florida International University)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/e23070839": {
+  "read": "https://www.mdpi.com/1099-4300/23/7/839/pdf?version=1626788576",
+  "page": "https://doi.org/10.3390/e23070839",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Entropy",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.64867/pjes.25435981.25.112.2365": {
+  "read": "https://doi.org/10.64867/pjes.25435981.25.112.2365",
+  "page": "https://doi.org/10.64867/pjes.25435981.25.112.2365",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Polish Journal of English Studies",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s00146-022-01491-2": {
+  "read": "https://philpapers.org/archive/CARDSS-5.pdf",
+  "page": "https://philarchive.org/rec/CARDSS-5",
+  "license": null,
+  "status": "green",
+  "host": "PhilPapers (PhilPapers Foundation)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1201/9781003410379-15": {
+  "read": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003410379-15&type=chapterpdf",
+  "page": "http://dx.doi.org/10.1201/9781003410379-15",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "Chapman & Hall/CRC eBooks",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1126/sciadv.aao5580": {
+  "read": "https://www.ncbi.nlm.nih.gov/pmc/articles/5777393",
+  "page": "https://www.ncbi.nlm.nih.gov/pmc/articles/5777393",
+  "license": "cc-by-nc",
+  "status": "gold",
+  "host": "Europe PMC (PubMed Central)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1111/1745-9133.12500": {
+  "read": "https://arxiv.org/pdf/1910.11410",
+  "page": "http://arxiv.org/abs/1910.11410",
+  "license": null,
+  "status": "green",
+  "host": "arXiv (Cornell University)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s10506-024-09389-8": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s10506-024-09389-8.pdf",
+  "page": "https://doi.org/10.1007/s10506-024-09389-8",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Artificial Intelligence and Law",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1353/cj.2021.0017": {
+  "read": "https://muse.jhu.edu/article/788639/pdf",
+  "page": "https://doi.org/10.1353/cj.2021.0017",
+  "license": "other-oa",
+  "status": "hybrid",
+  "host": "Journal of cinema and media studies",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.17680/erciyesiletisim.483510": {
+  "read": "https://dergipark.org.tr/tr/pub/erciyesiletisim/issue/43267/483510",
+  "page": "https://dergipark.org.tr/tr/pub/erciyesiletisim/issue/43267/483510",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "DergiPark (Istanbul University)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5038/1936-4660.11.1.10": {
+  "read": "https://digitalcommons.usf.edu/context/numeracy/article/1264/viewcontent/COMPLIANT_vol11__iss1__art10_numeracy.pdf",
+  "page": "https://digitalcommons.usf.edu/numeracy/vol11/iss1/art10",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "Digital Commons - University of South Florida (University of South Florida)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.22503/inftars.XXIV.2024.2.6": {
+  "read": "https://inftars.infonia.hu/pub/inftars.XXIV.2024.2.6.pdf",
+  "page": "http://dx.doi.org/10.22503/inftars.xxiv.2024.2.6",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Információs Társadalom",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s11948-017-9901-7": {
+  "read": "https://philpapers.org/archive/FLOAIA.pdf",
+  "page": "https://philarchive.org/rec/FLOAIA",
+  "license": null,
+  "status": "green",
+  "host": "PhilPapers (PhilPapers Foundation)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s42452-025-07668-w": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s42452-025-07668-w.pdf",
+  "page": "https://doi.org/10.1007/s42452-025-07668-w",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Discover Applied Sciences",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1109/ACCESS.2024.3365742": {
+  "read": "https://doi.org/10.1109/access.2024.3365742",
+  "page": "https://doi.org/10.1109/access.2024.3365742",
+  "license": "other-oa",
+  "status": "gold",
+  "host": "IEEE Access",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s00146-020-01104-w": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s00146-020-01104-w.pdf",
+  "page": "https://doi.org/10.1007/s00146-020-01104-w",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "AI & Society",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.26619/1647-7251.DT0122.4": {
+  "read": "http://hdl.handle.net/11144/5333",
+  "page": "http://hdl.handle.net/11144/5333",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Repositório Institucional da Universidade Autónoma de Lisboa (Universidade Autónoma de Lisboa)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/2053951720938091": {
+  "read": "https://scholarship.law.wm.edu/facpubs/2096",
+  "page": "https://scholarship.law.wm.edu/facpubs/2096",
+  "license": "cc-by-nc",
+  "status": "gold",
+  "host": "The William & Mary Law School Scholarship Repository (William & Mary)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.4000/ejas.17360": {
+  "read": "https://journals.openedition.org/ejas/17360",
+  "page": "https://journals.openedition.org/ejas/17360",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "OpenEdition (OpenEdition)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.17951/ah.2018.9.197-212": {
+  "read": "https://journals.umcs.pl/ah/article/view/8196",
+  "page": "https://journals.umcs.pl/ah/article/view/8196",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Studia Iuridica Lublinensia (Uniwersytet Marii Curie-Skłodowskiej w Lublinie)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1093/ijlit/eay017": {
+  "read": "https://cris.maastrichtuniversity.nl/en/publications/4a2e7cb5-7cc5-4c9d-b4d9-fa3b6fa644fa",
+  "page": "https://cris.maastrichtuniversity.nl/en/publications/4a2e7cb5-7cc5-4c9d-b4d9-fa3b6fa644fa",
+  "license": "other-oa",
+  "status": "green",
+  "host": "Research Publications (Maastricht University)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1111/ecin.13213": {
+  "read": "https://doi.org/10.1111/ecin.13213",
+  "page": "https://doi.org/10.1111/ecin.13213",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Economic Inquiry",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1057/s41288-022-00271-9": {
+  "read": "https://link.springer.com/content/pdf/10.1057/s41288-022-00271-9.pdf",
+  "page": "https://link.springer.com/article/10.1057/s41288-022-00271-9",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "UTUPub (University of Turku)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1057/s41599-023-02079-x": {
+  "read": "https://www.nature.com/articles/s41599-023-02079-x.pdf",
+  "page": "https://doi.org/10.1057/s41599-023-02079-x",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Humanities and Social Sciences Communications",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1111/jols.12535": {
+  "read": "https://hdl.handle.net/11343/362522",
+  "page": "https://hdl.handle.net/11343/362522",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Minerva Access (University of Melbourne)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/23311983.2026.2720836": {
+  "read": "https://www.tandfonline.com/doi/pdf/10.1080/23311983.2026.2720836?needAccess=true",
+  "page": "https://doi.org/10.1080/23311983.2026.2720836",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Cogent Arts and Humanities",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.isci.2020.101515": {
+  "read": "https://doi.org/10.1016/j.isci.2020.101515",
+  "page": "https://doi.org/10.1016/j.isci.2020.101515",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "iScience",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1162/tacl_a_00416": {
+  "read": "https://arxiv.org/pdf/2103.11811",
+  "page": "http://arxiv.org/abs/2103.11811",
+  "license": null,
+  "status": "diamond",
+  "host": "arXiv (Cornell University)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.patter.2023.100820": {
+  "read": "https://discovery.ucl.ac.uk/id/eprint/10175856/1/1-s2.0-S2666389923001897-main.pdf",
+  "page": "https://discovery.ucl.ac.uk/id/eprint/10175856/",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "UCL Discovery (University College London)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/14649373.2020.1720387": {
+  "read": "https://doi.org/10.1080/14649373.2020.1720387",
+  "page": "https://doi.org/10.1080/14649373.2020.1720387",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "Inter-Asia Cultural Studies",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/27683524.2026.2646118": {
+  "read": "https://doi.org/10.1080/27683524.2026.2646118",
+  "page": "https://doi.org/10.1080/27683524.2026.2646118",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Chinese Literature and Thought Today",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5281/zenodo.18640516": {
+  "read": "https://doi.org/10.5281/zenodo.18640516",
+  "page": "https://doi.org/10.5281/zenodo.18640516",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Zenodo (CERN European Organization for Nuclear Research)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.24908/ss.v17i1/2.13126": {
+  "read": "https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/download/13126/8502",
+  "page": "https://doi.org/10.24908/ss.v17i1/2.13126",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Surveillance & Society",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.24908/ss.v17i1/2.13144": {
+  "read": "https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/download/13144/8500",
+  "page": "https://doi.org/10.24908/ss.v17i1/2.13144",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Surveillance & Society",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1002/ad.3056": {
+  "read": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ad.3056",
+  "page": "https://doi.org/10.1002/ad.3056",
+  "license": null,
+  "status": "bronze",
+  "host": "Architectural Design",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.18778/2084-851X.19.09": {
+  "read": "http://hdl.handle.net/11089/58097",
+  "page": "http://hdl.handle.net/11089/58097",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "University of Lodz Repository (University of Łódź)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.33871/sensorium.2026.13.12107": {
+  "read": "https://doi.org/10.33871/sensorium.2026.13.12107",
+  "page": "https://doi.org/10.33871/sensorium.2026.13.12107",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Art&Sensorium",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.30687/EL/2420-823X/2022/01/008": {
+  "read": "https://hdl.handle.net/11393/310190",
+  "page": "https://hdl.handle.net/11393/310190",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "U-PAD Unimc - Open Digital Publications (University of Macerata)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.15517/rfl.v48i1.48061": {
+  "read": "https://revistas.ucr.ac.cr/index.php/filyling/article/download/48061/48273",
+  "page": "https://doi.org/10.15517/rfl.v48i1.48061",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Revista de Filología y Lingüística de la Universidad de Costa Rica",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3399/bjgp19X704465": {
+  "read": "https://bjgp.org/content/bjgp/69/684/353.2.full.pdf",
+  "page": "https://doi.org/10.3399/bjgp19x704465",
+  "license": null,
+  "status": "bronze",
+  "host": "British Journal of General Practice",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.14361/9783839469224-018": {
+  "read": "https://doi.org/10.14361/9783839469224-018",
+  "page": "https://doi.org/10.14361/9783839469224-018",
+  "license": "cc-by-sa",
+  "status": "hybrid",
+  "host": "Digitale Gesellschaft",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.2478/emj-2026-0005": {
+  "read": "https://reference-global.com/download/article/10.2478/emj-2026-0005.pdf",
+  "page": "https://doi.org/10.2478/emj-2026-0005",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Engineering Management in Production and Services",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.eswa.2026.132062": {
+  "read": "https://doi.org/10.1016/j.eswa.2026.132062",
+  "page": "https://doi.org/10.1016/j.eswa.2026.132062",
+  "license": "cc-by-nc",
+  "status": "hybrid",
+  "host": "Expert Systems with Applications",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.63744/8c9hrrx4banb": {
+  "read": "https://dhq-static.digitalhumanities.org/pdf/000533.pdf",
+  "page": "https://doi.org/10.63744/8c9hrrx4banb",
+  "license": "cc-by-nd",
+  "status": "diamond",
+  "host": "Digital humanities quarterly",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.31009/hipertext.net.2025.i31.08": {
+  "read": "https://computationalcreativity.net/iccc2015/proceedings/10_2Compton.pdf",
+  "page": "https://doi.org/10.31009/hipertext.net.2025.i31.08",
+  "license": "cc-by-nc-nd",
+  "status": "diamond",
+  "host": "Hipertext net Revista Académica sobre Documentación Digital y Comunicación Interactiva",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s11023-020-09548-1": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s11023-020-09548-1.pdf",
+  "page": "https://doi.org/10.1007/s11023-020-09548-1",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Minds and Machines",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1073/pnas.2218523120": {
+  "read": "https://arxiv.org/pdf/2206.14576",
+  "page": "http://arxiv.org/abs/2206.14576",
+  "license": null,
+  "status": "hybrid",
+  "host": "arXiv (Cornell University)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.nlp.2023.100048": {
+  "read": "https://doi.org/10.1016/j.nlp.2023.100048",
+  "page": "https://doi.org/10.1016/j.nlp.2023.100048",
+  "license": "cc-by-nc-nd",
+  "status": "gold",
+  "host": "Natural Language Processing Journal",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.23925/lf.v15i2.63593": {
+  "read": "https://revistas.pucsp.br/index.php/leituraflutuante/article/download/63593/44330",
+  "page": "http://dx.doi.org/10.23925/lf.v15i2.63593",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Leitura Flutuante. Revista do Centro de Estudos em Semiótica e Psicanálise",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/14780771231168230": {
+  "read": "https://journals.sagepub.com/doi/pdf/10.1177/14780771231168230",
+  "page": "https://doi.org/10.1177/14780771231168230",
+  "license": "cc-by-nc",
+  "status": "hybrid",
+  "host": "International Journal of Architectural Computing",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/0144929X.2023.2286532": {
+  "read": "http://urn.fi/URN:NBN:fi:jyu-202312198400",
+  "page": "http://urn.fi/URN:NBN:fi:jyu-202312198400",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Jyväskylä University Digital Archive (University of Jyväskylä)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.heliyon.2023.e16757": {
+  "read": "https://doi.org/10.1016/j.heliyon.2023.e16757",
+  "page": "https://doi.org/10.1016/j.heliyon.2023.e16757",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Heliyon",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5334/jime.1079": {
+  "read": "https://jime.open.ac.uk/articles/1079/files/68ada52547c42.pdf",
+  "page": "https://doi.org/10.5334/jime.1079",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Journal of Interactive Media in Education",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s00146-022-01600-1": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s00146-022-01600-1.pdf",
+  "page": "https://doi.org/10.1007/s00146-022-01600-1",
+  "license": null,
+  "status": "bronze",
+  "host": "AI & Society",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/23311983.2025.2548038": {
+  "read": "https://doaj.org/article/4cb10aafb3fb4c10a82c6170b681bb3c",
+  "page": "https://doaj.org/article/4cb10aafb3fb4c10a82c6170b681bb3c",
+  "license": "cc-by-sa",
+  "status": "gold",
+  "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1038/s41586-021-03819-2": {
+  "read": "https://doi.org/10.25504/fairsharing.246086",
+  "page": "https://doi.org/10.25504/fairsharing.246086",
+  "license": null,
+  "status": "hybrid",
+  "host": "FAIRsharing.org",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/20539517231173901": {
+  "read": "http://eprints.lse.ac.uk/118688/1/Aula_stepping_back_from_data_published.pdf",
+  "page": "http://eprints.lse.ac.uk/118688/1/Aula_stepping_back_from_data_published.pdf",
+  "license": null,
+  "status": "gold",
+  "host": "London School of Economics and Political Science Research Online (London School of Economics and Political Science)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3389/fdata.2020.577974": {
+  "read": "https://inria.hal.science/hal-03111148v1/file/pdf",
+  "page": "https://inria.hal.science/hal-03111148",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s10734-024-01256-4": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s10734-024-01256-4.pdf",
+  "page": "https://doi.org/10.1007/s10734-024-01256-4",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Higher Education",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1002/asi.24750": {
+  "read": "https://arxiv.org/pdf/2303.13367",
+  "page": "http://arxiv.org/abs/2303.13367",
+  "license": "cc-by",
+  "status": "green",
+  "host": "arXiv (Cornell University)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1038/s41545-021-00101-w": {
+  "read": "https://www.nature.com/articles/s41545-021-00101-w.pdf",
+  "page": "https://doi.org/10.1038/s41545-021-00101-w",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "npj Clean Water",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1029/2025AV002140": {
+  "read": "https://doi.org/10.1029/2025av002140",
+  "page": "https://doi.org/10.1029/2025av002140",
+  "license": "cc-by-nc-nd",
+  "status": "gold",
+  "host": "AGU Advances",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1088/1748-9326/abfba1": {
+  "read": "http://hdl.handle.net/10919/109747",
+  "page": "http://hdl.handle.net/10919/109747",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "VTechWorks (Virginia Tech)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5604/01.3001.0055.5073": {
+  "read": "https://doaj.org/article/1b5c28a8988a43248c76a65ed8ea45b6",
+  "page": "https://doaj.org/article/1b5c28a8988a43248c76a65ed8ea45b6",
+  "license": "cc-by-sa",
+  "status": "diamond",
+  "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.46328/ijte.651": {
+  "read": "https://ijte.net/index.php/ijte/article/view/1481",
+  "page": "https://doi.org/10.46328/ijte.651",
+  "license": "cc-by-nc-sa",
+  "status": "diamond",
+  "host": "International Journal of Technology in Education",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1002/aaai.12107": {
+  "read": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.12107",
+  "page": "https://doi.org/10.1002/aaai.12107",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "AI Magazine",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1044/2025_LSHSS-24-00085": {
+  "read": "https://pubs.asha.org/doi/pdf/10.1044/2025_LSHSS-24-00085?download=true",
+  "page": "https://doi.org/10.1044/2025_lshss-24-00085",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "Language Speech and Hearing Services in Schools",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1038/s42256-023-00649-x": {
+  "read": "https://infoscience.epfl.ch/handle/20.500.14299/197717",
+  "page": "https://infoscience.epfl.ch/handle/20.500.14299/197717",
+  "license": "cc-by-nc-nd",
+  "status": "green",
+  "host": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.patter.2023.100779": {
+  "read": "https://doi.org/10.1016/j.patter.2023.100779",
+  "page": "https://doi.org/10.1016/j.patter.2023.100779",
+  "license": "cc-by-nc-nd",
+  "status": "gold",
+  "host": "Patterns",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.51698/aloma.2024.42.2.31-43": {
+  "read": "https://revistaaloma.blanquerna.edu/index.php/aloma/article/download/831/200200389",
+  "page": "https://doi.org/10.51698/aloma.2024.42.2.31-43",
+  "license": "cc-by-nc-sa",
+  "status": "hybrid",
+  "host": "Aloma: revista de psicologia, ciències de l'educació i de l'esport Blanquerna",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1515/opis-2025-0056": {
+  "read": "https://doi.org/10.1515/opis-2025-0056",
+  "page": "https://doi.org/10.1515/opis-2025-0056",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Open Information Science",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.36892/ijlls.v6i4.1911": {
+  "read": "https://ijlls.org/index.php/ijlls/article/download/1911/746",
+  "page": "http://dx.doi.org/10.36892/ijlls.v6i4.1911",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "International Journal of Language and Literary Studies",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1017/cfl.2024.4": {
+  "read": "https://unsworks.unsw.edu.au/bitstreams/ded1e57e-b1d7-49d9-a2f1-52658718a550/download",
+  "page": "http://hdl.handle.net/1959.4/103952",
+  "license": "cc-by-nc-nd",
+  "status": "gold",
+  "host": "UNSWorks (University of New South Wales, Sydney, Australia)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1057/s41599-024-04204-w": {
+  "read": "https://www.nature.com/articles/s41599-024-04204-w.pdf",
+  "page": "https://doi.org/10.1057/s41599-024-04204-w",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Humanities and Social Sciences Communications",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/25166042251397697": {
+  "read": "https://doi.org/10.1177/25166042251397697",
+  "page": "https://doi.org/10.1177/25166042251397697",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "Emerging Economies Cases Journal",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s13347-024-00744-w": {
+  "read": "https://doi.org/10.1007/s13347-024-00744-w",
+  "page": "https://doi.org/10.1007/s13347-024-00744-w",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Philosophy & Technology",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3167/IJSQ.2023.130101": {
+  "read": "https://scholarlypublications.universiteitleiden.nl/access/item%3A4109142/view",
+  "page": "https://hdl.handle.net/1887/4109141",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Leiden Repository (Leiden University)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1111/rego.12512": {
+  "read": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10903109/pdf/REGO-18-3.pdf",
+  "page": "https://www.ncbi.nlm.nih.gov/pmc/articles/10903109",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "PubMed Central",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.2478/ebce-2026-0014": {
+  "read": "https://reference-global.com/download/article/10.2478/ebce-2026-0014.pdf",
+  "page": "https://doi.org/10.2478/ebce-2026-0014",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "Ethics & bioethics",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.52214/jla.v48i4.13926": {
+  "read": "https://journals.library.columbia.edu/index.php/lawandarts/article/download/13926/7690",
+  "page": "https://doi.org/10.52214/jla.v48i4.13926",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "The Columbia Journal of Law & the Arts",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.52214/jla.v48i4.13925": {
+  "read": "https://journals.library.columbia.edu/index.php/lawandarts/article/download/13925/7689",
+  "page": "https://doi.org/10.52214/jla.v48i4.13925",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "The Columbia Journal of Law & the Arts",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/computers13110278": {
+  "read": "https://arxiv.org/pdf/2410.07114",
+  "page": "http://arxiv.org/abs/2410.07114",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "arXiv (Cornell University)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1002/trtr.2345": {
+  "read": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/trtr.2345",
+  "page": "https://doi.org/10.1002/trtr.2345",
+  "license": null,
+  "status": "bronze",
+  "host": "The Reading Teacher",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1073/pnas.2423094122": {
+  "read": "https://www.ncbi.nlm.nih.gov/pmc/articles/12037045",
+  "page": "https://www.ncbi.nlm.nih.gov/pmc/articles/12037045",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "Europe PMC (PubMed Central)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1073/pnas.2422539123": {
+  "read": "https://pubmed.ncbi.nlm.nih.gov/41758659/",
+  "page": "https://pubmed.ncbi.nlm.nih.gov/41758659/",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "PubMed Central",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/0194262X.2025.2468329": {
+  "read": "https://doi.org/10.1080/0194262X.2025.2468329",
+  "page": "https://doi.org/10.1080/0194262X.2025.2468329",
+  "license": "cc-by-nc",
+  "status": "hybrid",
+  "host": "Rice Research Repository (Rice University)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1038/s41746-026-03080-9": {
+  "read": "https://www.nature.com/articles/s41746-026-03080-9_reference.pdf",
+  "page": "https://doi.org/10.1038/s41746-026-03080-9",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "npj Digital Medicine",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/socsci15070491": {
+  "read": "https://doi.org/10.3390/socsci15070491",
+  "page": "https://doi.org/10.3390/socsci15070491",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Social Sciences",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.15760/comminfolit.2024.18.1.1": {
+  "read": "http://dx.doi.org/10.15760/comminfolit.2024.18.1.1",
+  "page": "http://dx.doi.org/10.15760/comminfolit.2024.18.1.1",
+  "license": "cc-by-nc-sa",
+  "status": "diamond",
+  "host": "Communications in Information Literacy",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.24193/cechinox.2025.49.21": {
+  "read": "https://doi.org/10.24193/cechinox.2025.49.21",
+  "page": "https://doi.org/10.24193/cechinox.2025.49.21",
+  "license": "cc-by-nd",
+  "status": "diamond",
+  "host": "Caietele Echinox",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1109/ACCESS.2025.3532853": {
+  "read": "https://doi.org/10.1109/access.2025.3532853",
+  "page": "https://doi.org/10.1109/access.2025.3532853",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "IEEE Access",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/S0140-6736(25)01807-0": {
+  "read": "https://hal.science/hal-05232972",
+  "page": "https://hal.science/hal-05232972",
+  "license": "cc-by-nc-nd",
+  "status": "bronze",
+  "host": "INRIA a CCSD electronic archive server",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/ai7060223": {
+  "read": "https://www.mdpi.com/2673-2688/7/6/223/pdf?version=1781602303",
+  "page": "https://doi.org/10.3390/ai7060223",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "AI",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.15581/003.39.1.036": {
+  "read": "https://hdl.handle.net/10071/37551",
+  "page": "https://hdl.handle.net/10071/37551",
+  "license": "cc-by-nc-nd",
+  "status": "gold",
+  "host": "Repositório do ISCTE-IUL",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5334/ujiel.644": {
+  "read": "https://utrechtjournal.org/article/download/26122/27067",
+  "page": "https://utrechtjournal.org/article/view/26122",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Utrecht Journal of International and European Law",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5195/pur.2026.150": {
+  "read": "https://pur.pitt.edu/pur/article/download/150/78",
+  "page": "https://doi.org/10.5195/pur.2026.150",
+  "license": "cc-by",
+  "status": "diamond",
+  "host": "Pittsburgh Undergraduate Review",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1145/3732797": {
+  "read": "https://dl.acm.org/doi/pdf/10.1145/3732797",
+  "page": "https://doi.org/10.1145/3732797",
+  "license": null,
+  "status": "bronze",
+  "host": "Communications of the ACM",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/19322909.2024.2395341": {
+  "read": "https://eprints.whiterose.ac.uk/216379/15/Algorithmic%20Literacy%20%20AI%20Literacy%20and%20Responsible%20Generative%20AI%20Literacy.pdf",
+  "page": "https://orcid.org/0000-0002-2587-245X>",
+  "license": null,
+  "status": "hybrid",
+  "host": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1038/s41539-024-00264-4": {
+  "read": "https://is.muni.cz/publication/2421778/Lintner_2024c.pdf",
+  "page": "https://is.muni.cz/publication/2421778",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Veřejné služby Informačního systému (Masarykiana Brunensis Universitas)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1177/00243639251358893": {
+  "read": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12329182/pdf/10.1177_00243639251358893.pdf",
+  "page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12329182/",
+  "license": null,
+  "status": "green",
+  "host": "PubMed Central",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5334/aogh.5366": {
+  "read": "https://annalsofglobalhealth.org/articles/5366/files/6a58d3968eca5.pdf",
+  "page": "https://doi.org/10.5334/aogh.5366",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Annals of Global Health",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.69755/2995-2212.1441": {
+  "read": "https://doi.org/10.69755/2995-2212.1441",
+  "page": "https://doi.org/10.69755/2995-2212.1441",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "The journal of social encounters.",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.33137/cjal-rcbu.v12.47408": {
+  "read": "https://cjal.ca/index.php/capal/article/download/47408/35063",
+  "page": "https://doi.org/10.33137/cjal-rcbu.v12.47408",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "Canadian Journal of Academic Librarianship",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/systems14081019": {
+  "read": "https://doi.org/10.3390/systems14081019",
+  "page": "https://doi.org/10.3390/systems14081019",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Systems",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3389/fdpys.2026.1885225": {
+  "read": "https://www.frontiersin.org/journals/developmental-psychology/articles/10.3389/fdpys.2026.1885225/pdf",
+  "page": "https://doi.org/10.3389/fdpys.2026.1885225",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Frontiers in Developmental Psychology",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3399/bjgp25X743181": {
+  "read": "https://bjgp.org/content/bjgp/75/758/410.full.pdf",
+  "page": "https://doi.org/10.3399/bjgp25x743181",
+  "license": null,
+  "status": "bronze",
+  "host": "British Journal of General Practice",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.22456/1807-8583.150573": {
+  "read": "https://seer.ufrgs.br/index.php/intexto/article/download/150573/100680",
+  "page": "https://doi.org/10.22456/1807-8583.150573",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "Intexto",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1093/analys/anae033": {
+  "read": "https://philpapers.org/archive/DUNISN.pdf",
+  "page": "https://philarchive.org/rec/DUNISN",
+  "license": null,
+  "status": "green",
+  "host": "PhilPapers (PhilPapers Foundation)",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3389/fclim.2026.1648912": {
+  "read": "https://public-pages-files-2025.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1648912/pdf",
+  "page": "https://doi.org/10.3389/fclim.2026.1648912",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Frontiers in Climate",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.patter.2025.101430": {
+  "read": "https://doi.org/10.1016/j.patter.2025.101430",
+  "page": "https://doi.org/10.1016/j.patter.2025.101430",
+  "license": "public-domain",
+  "status": "gold",
+  "host": "Patterns",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1007/s00146-024-01922-2": {
+  "read": "https://link.springer.com/content/pdf/10.1007/s00146-024-01922-2.pdf",
+  "page": "https://doi.org/10.1007/s00146-024-01922-2",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "AI & Society",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.3390/cleantechnol8040126": {
+  "read": "https://doi.org/10.3390/cleantechnol8040126",
+  "page": "https://doi.org/10.3390/cleantechnol8040126",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Clean Technologies",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1093/pnasnexus/pgag032": {
+  "read": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12964124/pdf/pgag032.pdf",
+  "page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12964124/",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "PubMed Central",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1098/rsos.242148": {
+  "read": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=uwapure5-25&SrcAuth=WosAPI&KeyUT=WOS:001514008500008&DestLinkType=FullRecord&DestApp=WOS_CPL",
+  "page": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=uwapure5-25&SrcAuth=WosAPI&KeyUT=WOS:001514008500008&DestLinkType=FullRecord&DestApp=WOS_CPL",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "UWA Profiles and Research Repository (UWA)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1029/2026EO260131": {
+  "read": "https://doi.org/10.1029/2026eo260131",
+  "page": "https://doi.org/10.1029/2026eo260131",
+  "license": null,
+  "status": "diamond",
+  "host": "Eos",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1080/10841806.2025.2537601": {
+  "read": "https://www.tandfonline.com/doi/pdf/10.1080/10841806.2025.2537601?needAccess=true",
+  "page": "https://doi.org/10.1080/10841806.2025.2537601",
+  "license": "cc-by-nc-nd",
+  "status": "hybrid",
+  "host": "Administrative Theory & Praxis",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.5070/CJ89165589": {
+  "read": "https://escholarship.org/content/qt93j6c64n/qt93j6c64n.pdf",
+  "page": "https://doi.org/10.5070/cj89165589",
+  "license": null,
+  "status": "bronze",
+  "host": "UCLA Criminal Justice Law Review",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1088/1748-9326/ae6c3d": {
+  "read": "https://doi.org/10.1088/1748-9326/ae6c3d",
+  "page": "https://doi.org/10.1088/1748-9326/ae6c3d",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Environmental Research Letters",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.47989/ir31iConf64237": {
+  "read": "https://publicera.kb.se/ir/article/download/64237/51911",
+  "page": "https://doi.org/10.47989/ir31iconf64237",
+  "license": "cc-by-nc",
+  "status": "diamond",
+  "host": "Information Research",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.erss.2022.102493": {
+  "read": "http://sro.sussex.ac.uk/id/eprint/103897/1/1-s2.0-S2214629622000019-main.pdf",
+  "page": "http://sro.sussex.ac.uk/id/eprint/103897/1/1-s2.0-S2214629622000019-main.pdf",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Sussex Research Online (University of Sussex)",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1371/journal.pwat.0000500": {
+  "read": "https://doi.org/10.1371/journal.pwat.0000500",
+  "page": "https://doi.org/10.1371/journal.pwat.0000500",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "PLOS Water",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1016/j.isci.2025.113705": {
+  "read": "https://doi.org/10.1016/j.isci.2025.113705",
+  "page": "https://doi.org/10.1016/j.isci.2025.113705",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "iScience",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1038/s41467-026-76500-9": {
+  "read": "https://www.nature.com/articles/s41467-026-76500-9_reference.pdf",
+  "page": "https://doi.org/10.1038/s41467-026-76500-9",
+  "license": "cc-by-nc-nd",
+  "status": "gold",
+  "host": "Nature Communications",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1002/mar.22161": {
+  "read": "http://hdl.handle.net/2078.1/294751",
+  "page": "http://hdl.handle.net/2078.1/294751",
+  "license": "other-oa",
+  "status": "green",
+  "host": "Digital Access to Libraries",
+  "embed": false
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.2478/mmcks-2023-0023": {
+  "read": "https://sciendo.com/pdf/10.2478/mmcks-2023-0023",
+  "page": "https://doi.org/10.2478/mmcks-2023-0023",
+  "license": "cc-by",
+  "status": "hybrid",
+  "host": "Management & Marketing",
+  "embed": true
+ },
+ "https://fredonia.idm.oclc.org/login?url=https://doi.org/10.1093/ooenergy/oiag006": {
+  "read": "https://doi.org/10.1093/ooenergy/oiag006",
+  "page": "https://doi.org/10.1093/ooenergy/oiag006",
+  "license": "cc-by",
+  "status": "gold",
+  "host": "Oxford Open Energy",
+  "embed": false
+ },
+ "https://www.gutenberg.org/ebooks/830": {
+  "read": "https://www.gutenberg.org/ebooks/830",
+  "page": "https://www.gutenberg.org/ebooks/830",
+  "license": null,
+  "status": "free",
+  "host": "www.gutenberg.org",
+  "embed": true
+ },
+ "https://archive.org/details/taoistteachingsf00liezrich": {
+  "read": "https://archive.org/details/taoistteachingsf00liezrich",
+  "page": "https://archive.org/details/taoistteachingsf00liezrich",
+  "license": null,
+  "status": "free",
+  "host": "archive.org",
+  "embed": true
+ },
+ "https://www.gutenberg.org/ebooks/6341": {
+  "read": "https://www.gutenberg.org/ebooks/6341",
+  "page": "https://www.gutenberg.org/ebooks/6341",
+  "license": null,
+  "status": "free",
+  "host": "www.gutenberg.org",
+  "embed": true
+ },
+ "https://www.gutenberg.org/ebooks/42324": {
+  "read": "https://www.gutenberg.org/ebooks/42324",
+  "page": "https://www.gutenberg.org/ebooks/42324",
+  "license": null,
+  "status": "free",
+  "host": "www.gutenberg.org",
+  "embed": true
+ },
+ "https://www.fourmilab.ch/babbage/sketch.html": {
+  "read": "https://www.fourmilab.ch/babbage/sketch.html",
+  "page": "https://www.fourmilab.ch/babbage/sketch.html",
+  "license": null,
+  "status": "free",
+  "host": "www.fourmilab.ch",
+  "embed": true
+ },
+ "https://www.gutenberg.org/ebooks/1906": {
+  "read": "https://www.gutenberg.org/ebooks/1906",
+  "page": "https://www.gutenberg.org/ebooks/1906",
+  "license": null,
+  "status": "free",
+  "host": "www.gutenberg.org",
+  "embed": true
+ },
+ "https://www.gutenberg.org/ebooks/500": {
+  "read": "https://www.gutenberg.org/ebooks/500",
+  "page": "https://www.gutenberg.org/ebooks/500",
+  "license": null,
+  "status": "free",
+  "host": "www.gutenberg.org",
+  "embed": true
+ },
+ "https://gutenberg.org/ebooks/26681": {
+  "read": "https://gutenberg.org/ebooks/26681",
+  "page": "https://gutenberg.org/ebooks/26681",
+  "license": null,
+  "status": "free",
+  "host": "gutenberg.org",
+  "embed": true
+ },
+ "https://www.gutenberg.org/ebooks/72890": {
+  "read": "https://www.gutenberg.org/ebooks/72890",
+  "page": "https://www.gutenberg.org/ebooks/72890",
+  "license": null,
+  "status": "free",
+  "host": "www.gutenberg.org",
+  "embed": true
+ },
+ "https://www.gutenberg.org/ebooks/13083": {
+  "read": "https://www.gutenberg.org/ebooks/13083",
+  "page": "https://www.gutenberg.org/ebooks/13083",
+  "license": null,
+  "status": "free",
+  "host": "www.gutenberg.org",
+  "embed": true
+ },
+ "https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html": {
+  "read": "https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html",
+  "page": "https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html",
+  "license": null,
+  "status": "free",
+  "host": "www-formal.stanford.edu",
+  "embed": true
+ },
+ "https://plato.stanford.edu/entries/chinese-room/": {
+  "read": "https://plato.stanford.edu/entries/chinese-room/",
+  "page": "https://plato.stanford.edu/entries/chinese-room/",
+  "license": null,
+  "status": "free",
+  "host": "plato.stanford.edu",
+  "embed": true
+ },
+ "https://edoras.sdsu.edu/~vinge/misc/singularity.html": {
+  "read": "https://edoras.sdsu.edu/~vinge/misc/singularity.html",
+  "page": "https://edoras.sdsu.edu/~vinge/misc/singularity.html",
+  "license": null,
+  "status": "free",
+  "host": "edoras.sdsu.edu",
+  "embed": false
+ },
+ "https://www.ics.uci.edu/~djp3/classes/2008_01_01_INF141/Materials/brin1998.pdf": {
+  "read": "https://www.ics.uci.edu/~djp3/classes/2008_01_01_INF141/Materials/brin1998.pdf",
+  "page": "https://www.ics.uci.edu/~djp3/classes/2008_01_01_INF141/Materials/brin1998.pdf",
+  "license": null,
+  "status": "free",
+  "host": "www.ics.uci.edu",
+  "embed": true
+ },
+ "https://www.rifters.com/real/Blindsight.htm": {
+  "read": "https://www.rifters.com/real/Blindsight.htm",
+  "page": "https://www.rifters.com/real/Blindsight.htm",
+  "license": null,
+  "status": "free",
+  "host": "www.rifters.com",
+  "embed": true
+ },
+ "https://www.vizio.com/en/press/2009/sep/NetflixAwards1MillionNetflixPrizeandAnnouncesSecond1MillionChallenge": {
+  "read": "https://www.vizio.com/en/press/2009/sep/NetflixAwards1MillionNetflixPrizeandAnnouncesSecond1MillionChallenge",
+  "page": "https://www.vizio.com/en/press/2009/sep/NetflixAwards1MillionNetflixPrizeandAnnouncesSecond1MillionChallenge",
+  "license": null,
+  "status": "free",
+  "host": "www.vizio.com",
+  "embed": false
+ },
+ "https://arxiv.org/pdf/cs/0610105": {
+  "read": "https://arxiv.org/pdf/cs/0610105",
+  "page": "https://arxiv.org/pdf/cs/0610105",
+  "license": null,
+  "status": "free",
+  "host": "arxiv.org",
+  "embed": true
+ },
+ "https://languagelog.ldc.upenn.edu/nll/?p=2473": {
+  "read": "https://languagelog.ldc.upenn.edu/nll/?p=2473",
+  "page": "https://languagelog.ldc.upenn.edu/nll/?p=2473",
+  "license": null,
+  "status": "free",
+  "host": "languagelog.ldc.upenn.edu",
+  "embed": true
+ },
+ "https://doi.org/10.3390/fi9040075": {
+  "read": "https://doi.org/10.3390/fi9040075",
+  "page": "https://doi.org/10.3390/fi9040075",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": false
+ },
+ "https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf": {
+  "read": "https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf",
+  "page": "https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf",
+  "license": null,
+  "status": "free",
+  "host": "documents.pclob.gov",
+  "embed": true
+ },
+ "https://www.chinadaily.com.cn/a/201308/30/WS5a2a2bc4a3101a51ddf8f42f.html": {
+  "read": "https://www.chinadaily.com.cn/a/201308/30/WS5a2a2bc4a3101a51ddf8f42f.html",
+  "page": "https://www.chinadaily.com.cn/a/201308/30/WS5a2a2bc4a3101a51ddf8f42f.html",
+  "license": null,
+  "status": "free",
+  "host": "www.chinadaily.com.cn",
+  "embed": true
+ },
+ "https://pmc.ncbi.nlm.nih.gov/articles/PMC4066473/": {
+  "read": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4066473/",
+  "page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4066473/",
+  "license": null,
+  "status": "free",
+  "host": "pmc.ncbi.nlm.nih.gov",
+  "embed": false
+ },
+ "https://doi.org/10.3390/h14040091": {
+  "read": "https://doi.org/10.3390/h14040091",
+  "page": "https://doi.org/10.3390/h14040091",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": true
+ },
+ "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing": {
+  "read": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+  "page": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+  "license": null,
+  "status": "free",
+  "host": "www.propublica.org",
+  "embed": false
+ },
+ "https://doi.org/10.5038/1936-4660.11.1.10": {
+  "read": "https://doi.org/10.5038/1936-4660.11.1.10",
+  "page": "https://doi.org/10.5038/1936-4660.11.1.10",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": false
+ },
+ "https://about.fb.com/news/2018/03/suspending-cambridge-analytica/": {
+  "read": "https://about.fb.com/news/2018/03/suspending-cambridge-analytica/",
+  "page": "https://about.fb.com/news/2018/03/suspending-cambridge-analytica/",
+  "license": null,
+  "status": "free",
+  "host": "about.fb.com",
+  "embed": true
+ },
+ "https://dhq.digitalhumanities.org/vol/14/4/000533/000533.html": {
+  "read": "https://dhq.digitalhumanities.org/vol/14/4/000533/000533.html",
+  "page": "https://dhq.digitalhumanities.org/vol/14/4/000533/000533.html",
+  "license": null,
+  "status": "free",
+  "host": "dhq.digitalhumanities.org",
+  "embed": true
+ },
+ "https://doi.org/10.1145/3442188.3445922": {
+  "read": "https://doi.org/10.1145/3442188.3445922",
+  "page": "https://doi.org/10.1145/3442188.3445922",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": false
+ },
+ "https://doi.org/10.1177/20539517231173901": {
+  "read": "https://doi.org/10.1177/20539517231173901",
+  "page": "https://doi.org/10.1177/20539517231173901",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": false
+ },
+ "https://doi.org/10.1038/s41545-021-00101-w": {
+  "read": "https://doi.org/10.1038/s41545-021-00101-w",
+  "page": "https://doi.org/10.1038/s41545-021-00101-w",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": true
+ },
+ "https://doi.org/10.1002/aaai.12107": {
+  "read": "https://doi.org/10.1002/aaai.12107",
+  "page": "https://doi.org/10.1002/aaai.12107",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": false
+ },
+ "https://futureoflife.org/open-letter/pause-giant-ai-experiments/": {
+  "read": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+  "page": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+  "license": null,
+  "status": "free",
+  "host": "futureoflife.org",
+  "embed": false
+ },
+ "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/": {
+  "read": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+  "page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+  "license": null,
+  "status": "free",
+  "host": "pmc.ncbi.nlm.nih.gov",
+  "embed": false
+ },
+ "https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html": {
+  "read": "https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html",
+  "page": "https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html",
+  "license": null,
+  "status": "free",
+  "host": "www.vatican.va",
+  "embed": false
+ },
+ "https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/": {
+  "read": "https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/",
+  "page": "https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/",
+  "license": null,
+  "status": "free",
+  "host": "www.404media.co",
+  "embed": true
+ },
+ "https://arxiv.org/abs/2506.08872": {
+  "read": "https://arxiv.org/abs/2506.08872",
+  "page": "https://arxiv.org/abs/2506.08872",
+  "license": null,
+  "status": "free",
+  "host": "arxiv.org",
+  "embed": false
+ },
+ "https://doi.org/10.3389/fclim.2026.1648912": {
+  "read": "https://doi.org/10.3389/fclim.2026.1648912",
+  "page": "https://doi.org/10.3389/fclim.2026.1648912",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": true
+ },
+ "https://www.sanders.senate.gov/wp-content/uploads/10.6.2025-The-Big-Tech-Oligarchs-War-Against-Workers.pdf": {
+  "read": "https://www.sanders.senate.gov/wp-content/uploads/10.6.2025-The-Big-Tech-Oligarchs-War-Against-Workers.pdf",
+  "page": "https://www.sanders.senate.gov/wp-content/uploads/10.6.2025-The-Big-Tech-Oligarchs-War-Against-Workers.pdf",
+  "license": null,
+  "status": "free",
+  "host": "www.sanders.senate.gov",
+  "embed": true
+ },
+ "https://doi.org/10.1088/1748-9326/ae6c3d": {
+  "read": "https://doi.org/10.1088/1748-9326/ae6c3d",
+  "page": "https://doi.org/10.1088/1748-9326/ae6c3d",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": true
+ },
+ "https://doi.org/10.1371/journal.pwat.0000500": {
+  "read": "https://doi.org/10.1371/journal.pwat.0000500",
+  "page": "https://doi.org/10.1371/journal.pwat.0000500",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": false
+ },
+ "https://doi.org/10.1038/s41467-026-76500-9": {
+  "read": "https://doi.org/10.1038/s41467-026-76500-9",
+  "page": "https://doi.org/10.1038/s41467-026-76500-9",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": true
+ },
+ "https://doi.org/10.1093/ooenergy/oiag006": {
+  "read": "https://doi.org/10.1093/ooenergy/oiag006",
+  "page": "https://doi.org/10.1093/ooenergy/oiag006",
+  "license": null,
+  "status": "free",
+  "host": "doi.org",
+  "embed": false
+ }
+}

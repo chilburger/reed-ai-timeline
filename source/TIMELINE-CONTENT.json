@@ -1706,6 +1706,27 @@
  },
  {
   "year": 2007,
+  "date": "2007-04-04",
+  "title": "Google Pinyin joins Sogou in predictive Chinese typing",
+  "track": "tech",
+  "text": "Sohu released Sogou Pinyin in 2006. Google released its own version on April 4, 2007. IDG News Service wrote that such programs use a dictionary to predict the characters a typist needs. Mullaney traces this kind of prediction to Chinese typewriters of the 1950s.",
+  "why": "Tan and colleagues found pinyin typing correlated with lower children's reading scores. Almog calls most alarm evidence unreliable or invalid.",
+  "source": {
+   "label": "IDG News Service via Macworld, Sumner Lemon, \"Google apologizes for using part of rival’s software\" (Apr. 8, 2007)",
+   "url": "https://www.macworld.com/article/185113/google-53.html"
+  },
+  "image": null,
+  "musing": "At Penn, Victor Mair was writing about character amnesia, and I wrote a paper about it for his class. I didn't write it to get published. I wanted to write something I would be proud of, and I wasn't the strongest writer then. No AI: pure sweat and undergraduate tears. It turned into a history of technology, pinyin and Mandarin Chinese, and I wondered if I would ever circle back to research like that. Now I feel like I'm having the same conversation.",
+  "musing_sources": [
+   {
+    "label": "Hilburger, C. (2016). Character amnesia: An overview. In V. H. Mair (Ed.), Sinitic language and script in East Asia: Past and present (Sino-Platonic Papers, No. 264, pp. 51-70)",
+    "url": "https://sino-platonic.org/complete/spp264_sinitic_language_script.pdf",
+    "note": "open access; papers from Victor Mair's fall 2015 course at the University of Pennsylvania"
+   }
+  ]
+ },
+ {
+  "year": 2007,
   "date": "2007-08-31",
   "title": "Crypton Future Media releases Hatsune Miku",
   "track": "culture",
@@ -4128,6 +4149,20 @@
    "url": "https://www.ajc.com/news/2026/09/georgia-families-sue-meta-accuse-its-data-center-of-tainting-their-water/"
   },
   "image": null
+ },
+ {
+  "year": 2026,
+  "date": "2026-09-15",
+  "title": "TypeSafe AI releases Jev in early access",
+  "track": "tech",
+  "text": "On September 15, 2026, TypeSafe AI released Jev in early access. The company says Jev returns typed answers with probabilities to software, in 70 to 500 milliseconds.",
+  "why": "The company supplied the speed figure. KDnuggets' Abid Ali Awan writes that Jev's answers can still be wrong.",
+  "source": {
+   "label": "TypeSafe AI blog, Diogo Almeida, \"Introducing System One Models & Jev\" (Sep. 15, 2026)",
+   "url": "https://www.typesafe.ai/blog/introducing-system-one-models-and-jev"
+  },
+  "image": null,
+  "keep": true
  },
  {
   "year": 2026,

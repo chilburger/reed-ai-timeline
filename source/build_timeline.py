@@ -81,10 +81,24 @@ if os.path.exists('LC-HEADINGS.json'):
     print('LC links on', sum(1 for d in data if d.get('lc')), 'cards')
 widget = io.open('ail-timeline-widget.html', encoding='utf8').read()
 KEEP_REED = ('kind', 'title', 'by', 'note', 'url')
+# free full text found by build_oa.py (open access or public domain); shown in the reader
+OA = json.load(io.open('OA-LINKS.json', encoding='utf8')) if os.path.exists('OA-LINKS.json') else {}
 for d in data:
     d['reed'] = [{k: x[k] for k in KEEP_REED if x.get(k)} for x in d.get('reed') or []]
     # public file gets only what readers see: quote text, speaker, source (no reviewer notes or status)
     d['quotes'] = [{k: q[k] for k in ('q', 'who', 'src') if q.get(k)} for q in d.get('quotes') or []]
+    for x in d['reed']:
+        o = OA.get(x.get('url'))
+        if o and o.get('read'):
+            x['oa'] = {k: o[k] for k in ('read', 'license', 'host', 'embed') if o.get(k) is not None}
+    if isinstance(d.get('listen'), dict) and d['listen'].get('label'):
+        d['listen']['label'] = re.split(r'\s*\((?:oEmbed |YouTube )?(?:verified|checked|confirmed)', d['listen']['label'])[0].strip()
+    if isinstance(d.get('read_free'), dict) and d['read_free'].get('label'):
+        d['read_free']['label'] = re.sub(r',?\s*(verified|checked|confirmed)[^)]*', '', d['read_free']['label']).replace('()', '').strip()
+    if isinstance(d.get('read_free'), str):
+        d['read_free'] = {'url': d['read_free'], 'label': 'Free copy'}
+    if d.get('read_free') and OA.get(d['read_free'].get('url')):
+        d['read_free']['embed'] = bool(OA[d['read_free']['url']].get('embed'))
     d['search'] = [t if isinstance(t, dict) else {'term': t} for t in d.get('search') or []]
     d.pop('keep', None)
     if d.get('image') and not d['image'].get('src'):
@@ -130,6 +144,6 @@ if os.path.isdir(REPO):
     io.open(os.path.join(REPO, 'dist', 'ail-timeline.js'), 'w', encoding='utf8').write(loader)
     io.open(os.path.join(REPO, 'dist', 'timeline-data.json'), 'w', encoding='utf8').write(json.dumps(data, ensure_ascii=False, separators=(',', ':')))
     io.open(os.path.join(REPO, 'dist', 'embed.html'), 'w', encoding='utf8').write(embed)
-    for f in ('TIMELINE-CONTENT.json', 'build_timeline.py', 'ail-timeline-widget.html', 'merge_batch.py', 'harvest_campus.py', 'build_lc_headings.py', 'LC-HEADINGS.json', 'WIKIDATA-MATCHES.json'):
+    for f in ('TIMELINE-CONTENT.json', 'build_timeline.py', 'ail-timeline-widget.html', 'merge_batch.py', 'harvest_campus.py', 'build_lc_headings.py', 'LC-HEADINGS.json', 'WIKIDATA-MATCHES.json', 'build_oa.py', 'OA-LINKS.json'):
         io.open(os.path.join(REPO, 'source', f), 'w', encoding='utf8').write(io.open(f, encoding='utf8').read())
     print('published dist to', REPO, '| embed', len(embed), 'chars | data', os.path.getsize(os.path.join(REPO, 'dist', 'timeline-data.json')), 'bytes')
